@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descubrí Berisso - Contacto</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <script src="https://kit.fontawesome.com/266ef2a753.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="bg-gray-100">
+
+    <header class="bg-white p-5">
+        <nav class="flex items-center justify-between px-4 py-2">
+            <a href="descubriBerisso.html"><img src="./assets/Logo.png" alt="Descubri Berisso" class="h-12"></a>
+            <div class="hidden lg:flex lg:items-center lg:ml-auto">
+                <ul class="flex space-x-4">
+                    <li class="relative">
+                        <a href="#">Qué hacer?</a>
+                        <ul class="dropdown-menu hidden">
+                            <li><a href="./descubriBerisso.html" class="block px-4 py-2 hover:bg-gray-200">Esta semana</a></li>
+                            <li><a href="http://berisso.gob.ar/berisso-naturaleza-y-cultura.php" target="_blank" class="block px-4 py-2 hover:bg-gray-200">Información turística</a></li>
+                        </ul>
+                    </li>
+                    <li class="relative">
+                        <a href="#">Antes de llegar...</a>
+                        <ul class="dropdown-menu hidden">
+                            <li><a href="#" class="block px-4 py-2 hover:bg-gray-200">Primera vez en la ciudad</a></li>
+                            <li><a href="#" id="open-popup" class="block px-4 py-2 hover:bg-gray-200">Razones para visitarla</a></li>
+                        </ul>
+                    </li>
+                    <li class="relative">
+                        <a href="#">Información</a>
+                        <ul class="dropdown-menu hidden">
+                            <li><a href="#" class="block px-4 py-2 hover:bg-gray-200">Cómo llegar</a></li>
+                            <li><a href="#" class="block px-4 py-2 hover:bg-gray-200">Dónde dormir</a></li>
+                            <li><a href="http://berisso.gob.ar/telefonos-y-datos-utiles.php" target="_blank" class="block px-4 py-2 hover:bg-gray-200">Datos útiles</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="./contacto.html" class="active">Contacto</a></li>
+                </ul>
+            </div>
+            <div id="video-popup" class="popup">
+                <div class="popup-content">
+                  <span class="close-btn" id="close-popup">&times;</span>
+                  <iframe width="630" height="355" src="https://www.youtube.com/embed/YWXIcFVj9Pc" title="✅🎥 | BERISSO TURISMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+              </div>
+        </nav>
+        <div class="hero p-5 text-center">
+            <h1 class="font-bold text-5xl py-10">Contacto</h1>
+            <p class="pb-10 text-xl">¿Tenes comentarios, dudas o sugerencias? contactanos a ...</p>
+            <img src="./assets/Portada.png" alt="Descubri Berisso" class="max-w-full h-auto m-auto">
+        </div>
+    </header>
+
+    
+
+    <footer class="p-4 bg-gray-200 text-center flex justify-center">
+        <p class="text-sm mr-2">&copy; 2024 Descubrí Berisso. Todos los derechos reservados.</p>
+        <a href="https://www.instagram.com/produccionberisso" target="_blank"><i class="fa-brands fa-instagram fa-xl" style="color: black;"></i></a>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

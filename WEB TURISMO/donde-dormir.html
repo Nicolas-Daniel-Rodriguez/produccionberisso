@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Donde Dormir</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+  <script src="https://kit.fontawesome.com/266ef2a753.js" crossorigin="anonymous"></script>
+  <link rel="icon" href="./assets/Logo.png" type="image/png" />
+  
+</head>
+
+<body class="bg-gray-100">
+  <header class="bg-white p-5">
+    <nav class="flex items-center justify-between px-6 py-2">
+      <a href="descubriBerisso.html"><img src="./assets/Logo.png" alt="Descubri Berisso" class="h-12" /></a>
+      <!-- Menú hamburguesa para dispositivos móviles -->
+      <div class="block lg:hidden">
+        <button id="menu-toggle"
+            class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-black hover:border-black">
+            <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd"
+                    d="M3 3.5A1.5 1.5 0 014.5 2h11A1.5 1.5 0 0117 3.5v13a1.5 1.5 0 01-1.5 1.5h-11A1.5 1.5 0 013 16.5v-13zM2 3.5C2 2.67 2.67 2 3.5 2h11c.83 0 1.5.67 1.5 1.5v13c0 .83-.67 1.5-1.5 1.5h-11C2.67 18 2 17.33 2 16.5v-13z"
+                    clip-rule="evenodd"></path>
+            </svg>
+        </button>
+    </div>
+
+      <div id="nav-links" class="hidden lg:flex lg:items-center lg:ml-auto">
+        <ul class="flex space-x-4">
+          <li class="relative">
+            <a href="#">Qué hacer?</a>
+            <ul class="dropdown-menu hidden">
+              <li>
+                <a href="./descubriBerisso.html" class="block px-4 py-2 hover:bg-gray-200">Esta semana</a>
+              </li>
+              <li>
+                <a href="http://berisso.gob.ar/berisso-naturaleza-y-cultura.php" target="_blank"
+                  class="block px-4 py-2 hover:bg-gray-200">Información turística</a>
+              </li>
+              <li>
+                <a href="#" id="open-popup" class="block px-4 py-2 hover:bg-gray-200">Razones para visitarla</a>
+              </li>
+            </ul>
+          </li>
+          <li class="relative">
+            <a href="#">Antes de llegar...</a>
+            <ul class="dropdown-menu hidden">
+              <!-- <li><a href="#" class="block px-4 py-2 hover:bg-gray-200">Primera vez en la ciudad</a></li> -->
+              <li>
+                <a href="./como-llegar.html" class="block px-4 py-2 hover:bg-gray-200">Cómo llegar</a>
+              </li>
+              <li>
+                <a href="./donde-dormir.html" class="block px-4 active py-2 hover:bg-gray-200">Dónde dormir</a>
+              </li>
+              <li>
+                <a href="http://berisso.gob.ar/telefonos-y-datos-utiles.php" target="_blank"
+                  class="block px-4 py-2 hover:bg-gray-200">Datos útiles</a>
+              </li>
+            </ul>
+          </li>
+          <!-- <li class="relative">
+                        <a href="#">Información</a>
+                        <ul class="dropdown-menu hidden">
+                            
+                        </ul>
+                    </li> -->
+          <!-- <li><a href="./contacto.html">Contacto</a></li> -->
+        </ul>
+      </div>
+      <div id="video-popup" class="popup">
+        <div class="popup-content">
+          <span class="close-btn" id="close-popup">&times;</span>
+          <div class="overflow-hidden w-full max-w-full">
+            <iframe class="w-full h-auto" src="https://www.youtube.com/embed/YWXIcFVj9Pc" title="✅🎥 | BERISSO TURISMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div> 
+        </div>
+      </div>
+    </nav>
+    <div class="hero p-2 lg:p-5 text-center">
+      <h1 class="font-bold text-5xl py-10">¿Donde dormir?</h1>
+      <p class="pb-10 text-xl">Te contamos donde podes dormir en nuestra ciudad.</p>
+    </div>
+  </header>
+
+  
+  <section class="mx-5 lg:mx-20 py-4 items-center">
+    <div class="container">
+      <!-- Alojamiento 1 -->
+      <h2 class="text-2xl font-bold mb-2">Hostel Berisso, Rio de Enero</h2>
+      <br />
+      <div class="flex flex-col lg:flex-row mx-auto lg:mx-10">
+        <!-- banner -->
+        <div>
+              <img style="width: 15rem; height: 15rem; margin: auto;" src="./assets/alojamiento/hos-re-1.png" alt="First slide">
+        </div>
+        <!-- end banner -->
+
+        <div class="mx-10">
+          <p>
+            <strong>Calle 4 numero 3955 Entre 161 y 162, B1923 Berisso, Provincia de Buenos Aires <br>- 0221 461-7723</strong>
+            <br />
+            - Hostal discreto de habitaciones privadas y dormitorios sencillos con desayuno y Wi-Fi incluidos.
+            <br />
+          </p>
+          <br />
+        </div>
+      </div>
+    </div> <br>
+
+    <!-- Alojamiento 2 -->
+    
+
+    </div>
+  </section>
+
+
+  <footer class="p-4 bg-gray-200 text-center flex justify-center">
+    <p class="text-sm mr-2">
+      &copy; 2024 Descubrí Berisso. Todos los derechos reservados.
+    </p>
+    <a href="https://www.instagram.com/turismoberisso" target="_blank"><i class="fa-brands fa-instagram fa-xl"
+        style="color: black"></i></a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

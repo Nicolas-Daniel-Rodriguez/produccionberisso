@@ -1,0 +1,121 @@
+/* styles.css */
+
+.h1 {
+    font-family: "Neulis-Bold", EncodeSans, sans-serif;
+}
+
+.p {
+    font-family: "Fredoka-Regular", EncodeSans, sans-serif;
+}
+
+.dropdown-menu {
+    position: absolute;
+    width: max-content;
+    z-index: 10;
+    background-color: #fff;
+}   
+
+.hero {
+    overflow: hidden;
+    position: relative;
+}
+
+.tarjeta-actividad {
+    margin: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.tarjeta-actividad:hover {
+    transform: translateY(-5px);
+}
+
+.tarjeta-actividad img {
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.tarjeta-actividad.pasada {
+    opacity: 0.5; /* Reducir opacidad de las actividades pasadas */
+}
+
+.tarjeta-actividad.pasada .btn-pasado {
+    background-color: #ccc; /* Cambiar color de fondo del botón */
+    pointer-events: none; /* Deshabilitar eventos del botón */
+}
+
+.tarjeta-actividad.pasada .img-pasado {
+    filter: grayscale(100%); /* Aplicar escala de grises a la imagen */
+}
+
+/*pagina activa del menu*/
+.active {
+    font-weight: bold;
+    color: #1a202c; /* Color deseado para el enlace activo */
+}
+
+/*popup video razones para visitarla*/
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 999;
+  }
+  
+  .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 30px;
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+
+/* Estilos para el menú de hamburguesa */
+#menu-toggle:focus {
+    outline: none;
+}
+
+/* Estilos para el menú de navegación en dispositivos móviles */
+@media (max-width: 900px) {
+    #nav-links {
+        display: none;
+        background-color: #fff; /* Agregar fondo blanco al menú */
+        border-radius: 10px; /* Agregar bordes redondeados al menú */
+        padding: 20px; /* Ajustar el relleno del menú según sea necesario */
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Agregar sombra al menú */
+    }
+    #nav-links.active {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 5rem; /* Ajusta según la altura de tu barra de navegación */
+        left: 0;
+        width: 100%;
+        z-index: 1;
+    }
+    #nav-links ul {
+        flex-direction: column;
+    }
+    #nav-links li {
+        margin: 10px 0;
+    }
+    
+}
+

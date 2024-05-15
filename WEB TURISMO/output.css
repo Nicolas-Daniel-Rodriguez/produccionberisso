@@ -1,0 +1,101 @@
+/* styles.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  color: #414141;
+  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero {
+  height: 500px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slides {
+  display: flex;
+  width: 300%;
+  animation: slide 10s infinite;
+}
+
+.slide {
+  flex: 1;
+  background-size: cover;
+  background-position: center;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-200%);
+  }
+}
+
+.actividades {
+  padding: 40px 20px;
+  display: flex;
+}
+
+.tarjeta-actividad {
+  margin: auto;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.tarjeta-actividad:hover {
+  transform: translateY(-5px);
+}
+
+.tarjeta-actividad img {
+  width: 250px;
+  height: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+img.logo {
+  width: 10rem;
+  max-width: 100%;
+  height: auto;
+}
