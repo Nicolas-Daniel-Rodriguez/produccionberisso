@@ -4,12 +4,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Como llegar</title>
+  <title>Donde Dormir</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
   <script src="https://kit.fontawesome.com/266ef2a753.js" crossorigin="anonymous"></script>
   <link rel="icon" href="./assets/Logo.png" type="image/png" />
+  
 </head>
 
 <body class="bg-gray-100">
@@ -19,14 +20,14 @@
       <!-- Menú hamburguesa para dispositivos móviles -->
       <div class="block lg:hidden">
         <button id="menu-toggle"
-          class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-black hover:border-black">
-          <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd"
-              d="M3 3.5A1.5 1.5 0 014.5 2h11A1.5 1.5 0 0117 3.5v13a1.5 1.5 0 01-1.5 1.5h-11A1.5 1.5 0 013 16.5v-13zM2 3.5C2 2.67 2.67 2 3.5 2h11c.83 0 1.5.67 1.5 1.5v13c0 .83-.67 1.5-1.5 1.5h-11C2.67 18 2 17.33 2 16.5v-13z"
-              clip-rule="evenodd"></path>
-          </svg>
+            class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-black hover:border-black">
+            <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd"
+                    d="M3 3.5A1.5 1.5 0 014.5 2h11A1.5 1.5 0 0117 3.5v13a1.5 1.5 0 01-1.5 1.5h-11A1.5 1.5 0 013 16.5v-13zM2 3.5C2 2.67 2.67 2 3.5 2h11c.83 0 1.5.67 1.5 1.5v13c0 .83-.67 1.5-1.5 1.5h-11C2.67 18 2 17.33 2 16.5v-13z"
+                    clip-rule="evenodd"></path>
+            </svg>
         </button>
-      </div>
+    </div>
 
       <div id="nav-links" class="hidden lg:flex lg:items-center lg:ml-auto">
         <ul class="flex space-x-4">
@@ -50,10 +51,10 @@
             <ul class="dropdown-menu hidden">
               <!-- <li><a href="#" class="block px-4 py-2 hover:bg-gray-200">Primera vez en la ciudad</a></li> -->
               <li>
-                <a href="./como-llegar.html" class="block px-4 active py-2 hover:bg-gray-200">Cómo llegar</a>
+                <a href="./como-llegar.html" class="block px-4 py-2 hover:bg-gray-200">Cómo llegar</a>
               </li>
               <li>
-                <a href="./donde-dormir.html" class="block px-4 py-2 hover:bg-gray-200">Dónde dormir</a>
+                <a href="./donde-dormir.html" class="block px-4 active py-2 hover:bg-gray-200">Dónde dormir</a>
               </li>
               <li>
                 <a href="http://berisso.gob.ar/telefonos-y-datos-utiles.php" target="_blank"
@@ -79,64 +80,49 @@
         </div>
       </div>
     </nav>
-    <div class="hero p-5 text-center">
-      <h1 class="font-bold text-5xl py-10">¿Cómo llegar a Berisso?</h1>
-      <p class="pb-10 text-xl">Te contamos como llegar a nuestra ciudad.</p>
-      <img src="./assets/Portada.png" alt="Descubri Berisso" class="max-w-full h-auto m-auto" />
+    <div class="hero p-2 lg:p-5 text-center">
+      <h1 class="font-bold text-5xl py-10">¿Donde dormir?</h1>
+      <p class="pb-10 text-xl">Te contamos donde podes dormir en nuestra ciudad.</p>
     </div>
   </header>
 
-  <section class="flex flex-col lg:flex-row max-w-full h-auto m-auto mx-4 lg:mx-16 py-4 items-center">
+  
+  <section class="mx-5 lg:mx-20 py-4 items-center">
     <div class="container">
-      <h2 class="text-2xl font-bold mx-5 mb-2">Desde Buenos Aires</h2>
+      <!-- Alojamiento 1 -->
+      <h2 class="text-2xl font-bold mb-2">Hostel Berisso, Rio de Enero</h2>
       <br />
-      <div class="mx-10">
-        <p>
-          <strong>Tren Línea General Roca</strong> <br />
-          - Desde Constitución hasta Estación La Plata. <br />
-          - Colectivos a Berisso (Líneas 202 y 214).
-        </p>
-        <br />
-        <p>
-          <strong>Omnibus</strong> <br />
-          - Desde Once, Retiro y Constitución hasta Terminal La Plata. <br />
-          - Colectivos a Berisso (Líneas 202 y 214).
-        </p>
-        <br />
-        <p>
-          <strong>En automóvil</strong> <br />
-          - AU La Plata - Buenos Aires. <br />
-          - 2 peajes (Dock Sud y Hudson). <br />
-          - Distancia aproximada 60 km.
-        </p>
-        <br />
+      <div class="flex flex-col lg:flex-row mx-auto lg:mx-10">
+        <!-- banner -->
+        <div>
+              <img style="width: 15rem; height: 15rem; margin: auto;" src="./assets/alojamiento/hos-re-1.png" alt="First slide">
+        </div>
+        <!-- end banner -->
+
+        <div class="mx-10">
+          <p>
+            <strong>Calle 4 numero 3955 Entre 161 y 162, B1923 Berisso, Provincia de Buenos Aires <br>- 0221 461-7723</strong>
+            <br />
+            - Hostal discreto de habitaciones privadas y dormitorios sencillos con desayuno y Wi-Fi incluidos.
+            <br />
+          </p>
+          <br />
+        </div>
       </div>
-      <h2 class="text-2xl font-bold mx-5 mb-2">Desde La Plata</h2>
-      <br />
-      <div class="mx-10">
-        <p>
-          <strong>Colectivos</strong> <br />
-          - Líneas 202 y 214
-        </p>
-        <br />
-      </div>
+    </div> <br>
+
+    <!-- Alojamiento 2 -->
+    
+
     </div>
-
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104718.93052808093!2d-57.94260789072883!3d-34.89473884737858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2e5b0c4672cb1%3A0xf36d7ca05f7032cc!2sBerisso%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1713875155011!5m2!1ses!2sar"
-      class="w-full lg:w-96 h-96 mx-auto " style="border:0;" allowfullscreen="" loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade"></iframe>
-
   </section>
 
 
   <footer class="p-4 bg-gray-200 text-center flex justify-center">
-    <p class="text-sm mr-2">
-      &copy; 2024 Descubrí Berisso. Todos los derechos reservados.
-    </p>
+    <p class="text-sm mr-2">&copy; 2024 Descubrí Berisso. Todos los derechos reservados.<a href="../index.html" target="_blank"> Secretaria de Producción</a></p>
     <a href="https://www.instagram.com/turismoberisso" target="_blank"><i class="fa-brands fa-instagram fa-xl"
-        style="color: black"></i></a>
-  </footer>
+            style="color: black;"></i></a>
+</footer>
 
   <script src="script.js"></script>
 </body>
