@@ -1,11 +1,27 @@
 var noticias = [
   {
+    fecha: "16 de mayo de 2024",
+    area: "Turismo",
+    titulo: "AGENDA TURÍSTICA DEL FINDE 🏛️🏖️🎣🚤",
+    descripcion: "Les compartimos las actividades que pueden realizar en la ciudad para disfrutar este finde🤩",
+    imagen: "images/noticias/turismo/finde16-5-24.jpg",
+    link:"https://www.instagram.com/p/C7DDEdgMCrL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "10 de mayo de 2024",
     area: "Agraria",
     titulo: "🍎🍊🍋Capacitación en poda de frutales teórica y práctica con los frutales del vivero municipal🍋🍊🍎",
     descripcion: "👩🏻‍🌾👨🏻‍🌾Participaron productores que recibieron material frutícola por medio del programa FOMENTO A LA FRUTICULTURA BONAERENSE del MDA. Como así también alumnos de la Escuela Agraria y técnicos del vivero municipal.",
     imagen: "images/noticias/agraria/agraria10-05-2024.jpg",
     link:"https://www.instagram.com/p/C6y01PBLhqn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "09 de mayo de 2024",
+    area: "Turismo",
+    titulo: "☀️Descubrí Berisso: Nueva York Peatonal",
+    descripcion: "👉🏻Hoy se realizó la primer propuesta de “Nueva York Peatonal”, en la histórica calle de Berisso, organizada por @turismoberisso , junto a comerciantes y vecinos del barrio.",
+    imagen: "images/noticias/turismo/peatonalNY9-5-24.jpg",
+    link:"https://www.instagram.com/p/C6mmZagr_0p/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
     fecha: "8 de mayo de 2024",
