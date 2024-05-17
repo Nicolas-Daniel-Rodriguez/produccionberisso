@@ -101,6 +101,132 @@ const actividades = [
         precio: "$10.000",
         categoria: "paseos"
     },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "17/05/2024",
+        hora: "08:00",
+        precio: "35.000",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "18/05/2024",
+        hora: "08:00",
+        precio: "35.000",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "19/05/2024",
+        hora: "08:00",
+        precio: "35.000",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "17/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Si lo sabe cante",
+        descripcion: "show en la Casa de Cultura Av. Montevideo entre 10 y 11.",
+        fecha: "17/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/mayo2024/UNTRIO.jpeg",
+        nombre: "UNTRIO Clásico del Rock Nacional",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "17/05/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/mayo2024/MACANY.jpeg",
+        nombre: "Noche de los Museos MACANY",
+        descripcion: "Disfruta del Museo a cielo abierto en la Calle Nueva York.",
+        fecha: "18/05/2024",
+        hora: "18:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/mayo2024/Museo1871.png",
+        nombre: "Noche de los Museos - Museo 1871",
+        descripcion: "Disfruta del Museo 1871 en Av. Montevideo y calle 32.",
+        fecha: "18/05/2024",
+        hora: "19:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "18/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/mayo2024/Abril-Oxalde.jpeg",
+        nombre: "Abril Oxalde",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "18/05/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Un viaje hacia dentro",
+        descripcion: "Disfruta de esta experiencia desde el Embarcadero de Berisso (calle Génova 5003) organizado por Berisso Viajes y Pame Yoga.",
+        fecha: "19/05/2024",
+        hora: "10:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "EXPERIENCIA ISLA PAULINO",
+        descripcion: "Disfruta de esta experiencia desde el Embarcadero de Berisso (calle Génova 5003) organizado por la Cámara de Turismo de Berisso.",
+        fecha: "19/05/2024",
+        hora: "10:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Juan Sola El Alemán",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "19/05/2024",
+        hora: "13:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/mayo2024/Microfono-abierto.jpeg",
+        nombre: "Micrófono abierto",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "19/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
@@ -141,6 +267,8 @@ function renderizarActividades(actividades) {
         // Agregar clase "pasada" a las actividades con fechas pasadas
         const fechaActual = new Date();
         const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
+
+        fechaActual.setHours(0, 0, 0, 0);
         if (fechaActividad < fechaActual) {
             tarjeta.classList.add('pasada');
             tarjeta.querySelector('img').classList.add('img-pasado');
@@ -157,7 +285,10 @@ function filtrarYOrdenarActividades() {
 
     // Filtrar por categoría si no se selecciona "todos" o "pasadas"
     if (categoriaSeleccionada !== 'todos' && categoriaSeleccionada !== 'pasadas') {
-        actividadesFiltradas = actividadesFiltradas.filter(actividad => actividad.categoria === categoriaSeleccionada);
+        const fechaActual = new Date();
+        fechaActual.setHours(0, 0, 0, 0);
+        actividadesFiltradas = actividadesFiltradas.filter(actividad => actividad.categoria === categoriaSeleccionada && 
+            new Date(convertirFormatoFecha(actividad.fecha)) >= fechaActual);
     }
 
     // Filtrar las actividades según la categoría seleccionada
@@ -165,15 +296,19 @@ function filtrarYOrdenarActividades() {
         // Mostrar solo actividades cuya fecha ya ha pasado
         actividadesFiltradas = actividadesFiltradas.filter(actividad => {
             // Convertir la fecha al formato adecuado
+            const fechaActual = new Date();
+            fechaActual.setHours(0, 0, 0, 0);
             const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
-            return fechaActividad < new Date(); // Actividades con fechas pasadas
+            return fechaActividad < fechaActual // Actividades con fechas pasadas
         });
     } else if (categoriaSeleccionada === 'todos') {
         // Mostrar solo actividades futuras
         actividadesFiltradas = actividadesFiltradas.filter(actividad => {
             // Convertir la fecha al formato adecuado
+            const fechaActual = new Date();
+            fechaActual.setHours(0, 0, 0, 0);
             const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
-            return fechaActividad >= new Date(); // Actividades con fechas futuras o presentes
+            return fechaActividad >= fechaActual; // Actividades con fechas futuras o presentes
         });
     }
 
