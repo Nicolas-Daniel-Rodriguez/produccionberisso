@@ -227,6 +227,96 @@ const actividades = [
         precio: "xx.xx",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "24/05/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "25/05/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "26/05/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "24/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Mocchi Vuelve a Berisso",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "24/05/2024",
+        hora: "20:30",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "TRAVESÍA EN YATE 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000).",
+        fecha: "25/04/2024",
+        hora: "17:00",
+        precio: "$10.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "Salimos desde el embarcadero de Berisso (calle Génova 5003).",
+        fecha: "25/04/2024",
+        hora: "18:30",
+        precio: "$7.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "25/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Peña de la Patria",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "25/05/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Roberta Castro",
+        descripcion: "Show en Bar Raices Calle 2 y 169",
+        fecha: "26/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    }
     // Agrega más objetos para más actividades si es necesario
 ];
 
