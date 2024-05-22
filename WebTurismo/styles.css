@@ -119,3 +119,16 @@
     
 }
 
+
+#pagination {
+    display: flex;
+    justify-content: center;
+}
+
+#pageInfo {
+    margin: 0 1em;
+}
+
+#prevPage:hover, #nextPage:hover {
+    font-weight: bold;
+}

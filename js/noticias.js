@@ -49,6 +49,11 @@ var noticias = [
   }
 ];
 
+// Variables globales para la paginación
+let currentPage = 1;
+const itemsPerPage = 5;
+let noticiasFiltradas = [];
+
 // Función para generar dinámicamente el HTML de una noticia
 function crearNoticiaHTML(noticia) {
   return `
@@ -67,64 +72,80 @@ function crearNoticiaHTML(noticia) {
   `;
 }
 
-// Función para agregar las noticias al contenedor
-function agregarNoticias() {
-  var noticiasContainer = document.getElementById("noticias-container");
+// Función para agregar las noticias al contenedor con paginación
+function agregarNoticias(page = 1) {
+  const noticiasContainer = document.getElementById("noticias-container");
   noticiasContainer.innerHTML = ""; // Limpiar contenedor antes de agregar las noticias
-  noticias.forEach(function(noticia) {
+
+  const start = (page - 1) * itemsPerPage;
+  const end = start + itemsPerPage;
+  const noticiasPagina = noticiasFiltradas.slice(start, end);
+
+  noticiasPagina.forEach(noticia => {
     noticiasContainer.innerHTML += crearNoticiaHTML(noticia);
   });
+
+  // Actualizar la información de paginación
+  const pageInfo = document.getElementById("pageInfo");
+  pageInfo.textContent = `Página ${page} de ${Math.ceil(noticiasFiltradas.length / itemsPerPage)}`;
+  document.getElementById("prevPage").disabled = page === 1;
+  document.getElementById("nextPage").disabled = end >= noticiasFiltradas.length;
 }
 
 // Función para filtrar las noticias por área
 function filtrarPorArea(area) {
-  var noticiasContainer = document.getElementById("noticias-container");
-  var noticias = noticiasContainer.getElementsByClassName("noticia");
-  for (var i = 0; i < noticias.length; i++) {
-    if (area === '' || noticias[i].classList.contains(area.toLowerCase())) {
-      noticias[i].style.display = "flex"; // Mostrar noticias si no se selecciona un área o si el área coincide
-    } else {
-      noticias[i].style.display = "none"; // Ocultar noticias que no coinciden con el área seleccionada
-    }
+  noticiasFiltradas = noticias;
+
+  if (area !== '') {
+    noticiasFiltradas = noticiasFiltradas.filter(noticia => noticia.area.toLowerCase() === area.toLowerCase());
   }
 
+  currentPage = 1;
+  agregarNoticias(currentPage);
+
   // Agregar clase activa al botón seleccionado y quitarla de los demás
-  var buttons = document.querySelectorAll('.filter-buttons button');
-  buttons.forEach(function(button) {
+  const buttons = document.querySelectorAll('.filter-buttons button');
+  buttons.forEach(button => {
     button.classList.remove('active');
   });
-  var activeButton = document.querySelector(`.filter-buttons button[data-area="${area}"]`);
+  const activeButton = document.querySelector(`.filter-buttons button[data-area="${area}"]`);
   if (activeButton) {
     activeButton.classList.add('active');
   }
 }
 
-// Llamar a la función para agregar las noticias
-agregarNoticias();
-
-
-
-
-
+// Función para filtrar noticias por palabra clave
 function filtrarPorPalabra() {
-  var keyword = document.getElementById("keyword-input").value.toLowerCase();
-  var noticias = document.querySelectorAll(".noticia");
-  var resultadosEncontrados = false;
-
-  noticias.forEach(function(noticia) {
-    var titulo = noticia.querySelector(".titulo-not").textContent.toLowerCase();
-    var descripcion = noticia.querySelector(".descripcion-not").textContent.toLowerCase();
-
-    if (titulo.includes(keyword) || descripcion.includes(keyword)) {
-      noticia.style.display = "flex"; // Mostrar noticias que contienen la palabra clave
-      resultadosEncontrados = true;
-    } else {
-      noticia.style.display = "none"; // Ocultar noticias que no contienen la palabra clave
-    }
+  const keyword = document.getElementById("keyword-input").value.toLowerCase();
+  noticiasFiltradas = noticias.filter(noticia => {
+    const titulo = noticia.titulo.toLowerCase();
+    const descripcion = noticia.descripcion.toLowerCase();
+    return titulo.includes(keyword) || descripcion.includes(keyword);
   });
 
-  // Mostrar un mensaje si no se encuentran resultados
-  if (!resultadosEncontrados) {
+  currentPage = 1;
+  agregarNoticias(currentPage);
+
+  if (noticiasFiltradas.length === 0) {
     alert("No se encontraron noticias que coincidan con la palabra clave ingresada.");
   }
 }
+
+// Manejadores de eventos para la paginación
+document.getElementById("prevPage").addEventListener('click', () => {
+  if (currentPage > 1) {
+    currentPage--;
+    agregarNoticias(currentPage);
+  }
+});
+
+document.getElementById("nextPage").addEventListener('click', () => {
+  if (currentPage * itemsPerPage < noticiasFiltradas.length) {
+    currentPage++;
+    agregarNoticias(currentPage);
+  }
+});
+
+// Llamar a la función para agregar las noticias inicialmente
+noticiasFiltradas = noticias;
+agregarNoticias(currentPage);

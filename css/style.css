@@ -1026,3 +1026,22 @@ ul.cont li {
    #search-button:hover {
      background-color: #0056b3;
    }
+
+.pagination {
+     display: flex;
+     justify-content: center;
+     margin-bottom:3em;
+ }
+ 
+ #pageInfo {
+     margin: 0 1em;
+ }
+ 
+ #prevPage:hover, #nextPage:hover {
+     font-weight: bold;
+ }
+
+ #prevPage, #nextPage {
+     color: black;
+     background: none;
+ }

@@ -323,19 +323,30 @@ const actividades = [
 // Obtener el filtro y el contenedor de actividades
 const filtroCategoria = document.getElementById("filtroCategoria");
 const container = document.getElementById("actividadesContainer");
+const prevPageBtn = document.getElementById("prevPage");
+const nextPageBtn = document.getElementById("nextPage");
+const pageInfo = document.getElementById("pageInfo");
 
- // Función para convertir el formato de fecha DD/MM/AAAA al formato MM/DD/AAAA
- function convertirFormatoFecha(fecha) {
+let currentPage = 1;
+const itemsPerPage = 9;
+let actividadesFiltradas = [];
+
+// Función para convertir el formato de fecha DD/MM/AAAA al formato MM/DD/AAAA
+function convertirFormatoFecha(fecha) {
     const [dia, mes, año] = fecha.split('/');
     return `${mes}/${dia}/${año}`;
 }
 
 // Función para renderizar las tarjetas de actividades
-function renderizarActividades(actividades) {
+function renderizarActividades(actividades, page = 1) {
     // Limpiar el contenedor antes de renderizar las nuevas tarjetas
     container.innerHTML = '';
 
-    actividades.forEach(actividad => {
+    const start = (page - 1) * itemsPerPage;
+    const end = start + itemsPerPage;
+    const actividadesPagina = actividades.slice(start, end);
+
+    actividadesPagina.forEach(actividad => {
         const tarjeta = document.createElement("div");
         tarjeta.className = "tarjeta-actividad bg-white rounded-lg shadow-md overflow-hidden";
         tarjeta.innerHTML = `
@@ -349,11 +360,6 @@ function renderizarActividades(actividades) {
             </div>
         `;
 
-        //<button class="bg-blue-500 hover:bg-blue-600 text-white font-semibold px-4 py-2 rounded">Detalles</button>
-        
-        //tarjeta.querySelector('button').classList.add('btn-pasado');
-
-
         // Agregar clase "pasada" a las actividades con fechas pasadas
         const fechaActual = new Date();
         const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
@@ -366,12 +372,17 @@ function renderizarActividades(actividades) {
 
         container.appendChild(tarjeta);
     });
+
+    // Actualizar la información de paginación
+    pageInfo.textContent = `Página ${page} de ${Math.ceil(actividades.length / itemsPerPage)}`;
+    prevPageBtn.disabled = page === 1;
+    nextPageBtn.disabled = end >= actividades.length;
 }
 
 // Función para filtrar y ordenar las actividades
 function filtrarYOrdenarActividades() {
     const categoriaSeleccionada = filtroCategoria.value;
-    let actividadesFiltradas = actividades;
+    actividadesFiltradas = actividades;
 
     // Filtrar por categoría si no se selecciona "todos" o "pasadas"
     if (categoriaSeleccionada !== 'todos' && categoriaSeleccionada !== 'pasadas') {
@@ -383,37 +394,60 @@ function filtrarYOrdenarActividades() {
 
     // Filtrar las actividades según la categoría seleccionada
     if (categoriaSeleccionada === 'pasadas') {
-        // Mostrar solo actividades cuya fecha ya ha pasado
         actividadesFiltradas = actividadesFiltradas.filter(actividad => {
-            // Convertir la fecha al formato adecuado
             const fechaActual = new Date();
             fechaActual.setHours(0, 0, 0, 0);
             const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
-            return fechaActividad < fechaActual // Actividades con fechas pasadas
+            return fechaActividad < fechaActual; // Actividades con fechas pasadas
         });
+
+        actividadesFiltradas.sort((a, b) => {
+            const fechaA = new Date(convertirFormatoFecha(a.fecha));
+            const fechaB = new Date(convertirFormatoFecha(b.fecha));
+            return fechaB - fechaA;});
+
     } else if (categoriaSeleccionada === 'todos') {
-        // Mostrar solo actividades futuras
         actividadesFiltradas = actividadesFiltradas.filter(actividad => {
-            // Convertir la fecha al formato adecuado
             const fechaActual = new Date();
             fechaActual.setHours(0, 0, 0, 0);
             const fechaActividad = new Date(convertirFormatoFecha(actividad.fecha));
             return fechaActividad >= fechaActual; // Actividades con fechas futuras o presentes
         });
+
+         // Ordenar las actividades futuras de manera normal
+         actividadesFiltradas.sort((a, b) => {
+            const fechaA = new Date(convertirFormatoFecha(a.fecha));
+            const fechaB = new Date(convertirFormatoFecha(b.fecha));
+            return fechaA - fechaB;
+        });
     }
 
-
     // Ordenar las actividades por fecha (más próxima primero)
-    actividadesFiltradas.sort((a, b) => {
+    /*actividadesFiltradas.sort((a, b) => {
         const fechaA = new Date(convertirFormatoFecha(a.fecha));
         const fechaB = new Date(convertirFormatoFecha(b.fecha));
         return fechaA - fechaB;
-    });
-
+    });*/
 
     // Renderizar las actividades filtradas y ordenadas
-    renderizarActividades(actividadesFiltradas);
+    currentPage = 1;
+    renderizarActividades(actividadesFiltradas, currentPage);
 }
+
+// Manejadores de eventos para la paginación
+prevPageBtn.addEventListener('click', () => {
+    if (currentPage > 1) {
+        currentPage--;
+        renderizarActividades(actividadesFiltradas, currentPage);
+    }
+});
+
+nextPageBtn.addEventListener('click', () => {
+    if (currentPage * itemsPerPage < actividadesFiltradas.length) {
+        currentPage++;
+        renderizarActividades(actividadesFiltradas, currentPage);
+    }
+});
 
 // Escuchar el evento change del filtro
 filtroCategoria.addEventListener('change', filtrarYOrdenarActividades);
