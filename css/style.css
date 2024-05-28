@@ -29,6 +29,12 @@
 @import url(nice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
+:root {
+     --color-primario: #800b80; /* Aquí defines el color primario */
+     --color-secundario: #4d004d;
+     --color-terciario: #990b99;
+ }
+
 
 * {
      box-sizing: border-box !important;
@@ -180,7 +186,7 @@ img {
 
 .form-control:focus {
      border-color: #ffffff !important;
-     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
+     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.25);
 }
 
 .navbar-form input {
@@ -281,14 +287,16 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #000;
+     color: #ffffff;
+     font-weight: 700;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #000;
+     color: #ffffff;
+     font-weight: 700;
 }
 
 .navbar-expand-md .navbar-nav {
@@ -296,7 +304,7 @@ button {
 }
 
 .header_information {
-     background-color: #0071BB;
+     background-color: var(--color-primario);
      padding: 0 0;
      padding-top: 0px;
      padding-top: 0px;
@@ -380,7 +388,7 @@ button {
 }
 
 .carousel-indicators .active {
-     background: #0071BB;
+     background: var(--color-primario);
 }
 
 .carousel-indicators li {
@@ -412,7 +420,7 @@ button {
 }
 
 .carousel-caption span {
-     color: #0071BB;
+     color: var(--color-primario);
      font-size: 40px;
      line-height: 50px;
      font-weight: 500;
@@ -421,7 +429,7 @@ button {
 
 .carousel-caption a {
      font-size: 17px;
-     background-color: #0071BB;
+     background-color: var(--color-primario);
      color: #fff;
      font-weight: 500;
      padding: 13px 0px;
@@ -457,7 +465,7 @@ button {
 }
 
 .titlepage span {
-     background: #0071BB;
+     background: var(--color-primario);
      display: block;
      height: 10px;
      width: 90px;
@@ -479,7 +487,7 @@ button {
      text-align: center;
      display: inline-block;
      border-radius: 30px;
-     border: #0071BB solid 3px;
+     border: var(--color-primario) solid 3px;
      transition: ease-in all 0.5s;
 }
 
@@ -488,7 +496,7 @@ button {
 }
 
 .read_more:hover {
-     background: #0071BB;
+     background: var(--color-primario);
      color: #fff !important;
      transition: ease-in all 0.5s;
 }
@@ -616,7 +624,7 @@ button {
 
 .jonu strong {
      display: block;
-     color: #0071BB;
+     color: var(--color-primario);
      font-size: 17px;
      padding-bottom: 50px;
 }
@@ -655,7 +663,7 @@ button {
      background-color: transparent;
      text-transform: uppercase;
      font-weight: 500;
-     border: #0071BB solid 3px;
+     border: var(--color-primario) solid 3px;
      color: #f9fcfd;
      padding: 8px 0px;
      margin: 0 auto;
@@ -667,7 +675,7 @@ button {
 }
 
 .main_form .send_btn:hover {
-     background-color: #0071BB;
+     background-color: var(--color-primario);
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -684,7 +692,7 @@ button {
 /** footer **/
 
 .footer {
-     background: #042431;
+     background: var(--color-secundario);
      text-align: center;
 }
 
@@ -725,7 +733,7 @@ button {
      background-color: transparent;
      text-transform: uppercase;
      font-weight: 500;
-     border: #0071BB solid 3px;
+     border: var(--color-primario) solid 3px;
      color: #4d636c;
      padding: 5px 0px;
      margin-bottom: 5px;
@@ -736,13 +744,13 @@ button {
 }
 
 .submit:hover {
-     background-color: #0071BB;
+     background-color: var(--color-primario);
      transition: ease-in all 0.5s;
      color: #fff;
 }
 
 ul.cont li {
-     color: #8a9397;
+     color: #ffffff;
      font-size: 17px;
      line-height: 32px;
      text-align: left;
@@ -751,7 +759,7 @@ ul.cont li {
 .copyright {
      margin-top: 90px;
      padding: 20px 0px;
-     background-color: #0071BB;
+     background-color: var(--color-primario);
 }
 
 .copyright p {
@@ -805,7 +813,7 @@ ul.cont li {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #0071BB;
+    background-color: var(--color-primario);
     padding: 10px;
     border-radius: 0 0 5px 5px;
     z-index: 500;
@@ -829,7 +837,7 @@ ul.cont li {
 }
 
 .submenu-content a:hover {
-    background-color: #555;
+    background-color: var(--color-secundario);
 }
 
 .mapa {
@@ -884,7 +892,7 @@ ul.cont li {
      margin-left: 1em;
      padding: 0.3em;
      color: #888;
-     border: 1px solid #0071BB;
+     border: 1px solid var(--color-primario);
      border-radius: 10px;
      font-size: 14px; 
 }
@@ -917,7 +925,7 @@ ul.cont li {
   .mobile-menu {
     /* Estilos para el menú en dispositivos móviles */
     display: block; /* Muestra el menú solo en dispositivos móviles */
-    background-color: rgba(0, 113, 187, 0.7); 
+    background-color: var(--color-primario); 
     padding-top: 5px; /* Espaciado interno para el menú */
     position: absolute; /* Posición absoluta para superponer */
     top: 5px; /* Distancia desde la parte superior */
@@ -941,7 +949,7 @@ ul.cont li {
    }
    
   .submenu-content {
-    background-color: rgba(0, 113, 187, 0.85);
+    background-color: var(--color-primario);
 }
 
   .menu-items {
@@ -986,14 +994,14 @@ ul.cont li {
      padding: 0.5em 0.5em;
      border: none;
      border-radius: 5px;
-     background-color: #0071BB;
+     background-color: var(--color-primario);
      color: white;
      cursor: pointer;
      transition: background-color 0.3s;
    }
  
    .filter-buttons button:hover {
-     background-color: #0099ff;
+     background-color: var(--color-terciario);
    }
  
    #keyword-input {
@@ -1017,14 +1025,14 @@ ul.cont li {
      padding: 10px 20px;
      border: none;
      border-radius: 5px;
-     background-color: #007bff;
+     background-color: var(--color-terciario);
      color: white;
      cursor: pointer;
      transition: background-color 0.3s;
    }
  
    #search-button:hover {
-     background-color: #0056b3;
+     background-color: var(--color-secundario);
    }
 
 .pagination {
