@@ -1,11 +1,35 @@
 var noticias = [
   {
+    fecha: "20 de mayo de 2024",
+    area: "Agraria",
+    titulo: "Día internacional de la Miel: se desarrolló una charla sobre los apicultores",
+    descripcion: "Desde el Ministerio de Desarrollo Agrario y la dirección de agricultura de nuestra ciudad, en el marco del día internacional de la miel, siendo el 20 de mayo, conocido también como día internacional de las abejas, se realizaron durante la mañana y mediodía de este viernes, en el Playón municipal (Av. Montevideo y 11)  una charla sobre la importancia de la apicultura, con el fin de acercar a los productores locales aquellas actividades y propuesta por parte del ministerio hacia los productores locales y vecinos, donde también se realizó venta y degustación de productos.",
+    imagen: "images/noticias/agraria/agr24-05.jpg",
+    link:"https://www.berissociudad.com.ar/Dia-internacional-de-la-Miel-se-desarrollo-una-charla-sobre-los-apicultores-396580"
+  },
+  {
+    fecha: "20 de mayo de 2024",
+    area: "Industria",
+    titulo: "Cecilia Paris: “Trabajamos para volver a un Berisso que todos lo conozcan por el trabajo y la producción”",
+    descripcion: "La secretaria de Producción Municipal, Cecilia Paris dialogó con FM Berisso Ciudad 88.5 sobre los trabajos que lleva adelante el área.",
+    imagen: "images/noticia.png",
+    link:"https://www.berissociudad.com.ar/Cecilia-Paris-Trabajamos-para-volver-a-un-Berisso-que-todos-los-conozcan-por-el-trabajo-y-la-produccion-396542"
+  },
+  {
     fecha: "16 de mayo de 2024",
     area: "Turismo",
     titulo: "AGENDA TURÍSTICA DEL FINDE 🏛️🏖️🎣🚤",
     descripcion: "Les compartimos las actividades que pueden realizar en la ciudad para disfrutar este finde🤩",
     imagen: "images/noticias/turismo/finde16-5-24.jpg",
     link:"https://www.instagram.com/p/C7DDEdgMCrL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "10 de mayo de 2024",
+    area: "Industria",
+    titulo: "La dirección de Industria llevó adelante una capacitación sobre el fortalecimiento de políticas ambientales",
+    descripcion: "Desde la Dirección de Industria de la Municipalidad de Berisso, en la tarde de este viernes llevaron adelante una capacitación sobre programas de fortalecimiento en políticas ambientales el cual tuvo lugar en el Quincho Municipal, dicha capacitación surge desde la dirección de industria a través de los programas brindados por el ministerio de ambiente de la Provincia de Buenos aires en cuanto a programas de políticas ambientales.",
+    imagen: "images/noticias/industria/ind10-05.jpg",
+    link:"https://www.berissociudad.com.ar/Maria-Jose-Munoz-llevo-adelante-una-capacitacion-sobre-el-fortalecimiento-de-politicas-ambientales-396458"
   },
   {
     fecha: "10 de mayo de 2024",
