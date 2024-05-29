@@ -136,6 +136,7 @@ ol {
 }
 
 p {
+     text-align: justify;
      margin: 0px;
      font-weight: 500;
      font-size: 15px;
@@ -949,7 +950,7 @@ ul.cont li {
    }
    
   .submenu-content {
-    background-color: var(--color-primario);
+    background-color: var(--color-terciario);
 }
 
   .menu-items {
@@ -971,11 +972,11 @@ ul.cont li {
   /* Cambio de color al pasar el cursor */
   .menu-items a {
     color: white; /* Color de letra blanco */
-   
   }
 
   .menu-items a:hover {
-    color: black; /* Color de letra negro al pasar el cursor */
+    color: white; /* Color de letra negro al pasar el cursor */
+    font-weight: 700;
   }
 }
 
