@@ -316,7 +316,70 @@ const actividades = [
         hora: "20:00",
         precio: "xx.xx",
         categoria: "shows"
-    }
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "31/05/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "01/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "31/05/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "02/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "01/06/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "01/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/peatNY2.jpg",
+        nombre: "Calle Nueva York Peatonal, Segunda Edición",
+        descripcion: "Los invitamos el próximo Domingo 2 de Junio a partir de las 11hs, al segundo encuentro de Calle Nueva York Peatonal, donde reunimos distintas propuestas como visitas guiadas🏛️, música en vivo🎤, gastronomía🍟, y mucho más! No te lo pierdas🥳<br>🙌🏻¡Entrada libre y gratuita!",
+        fecha: "02/06/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
