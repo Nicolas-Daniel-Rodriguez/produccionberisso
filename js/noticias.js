@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "05 de junio de 2024",
+    area: "Agraria",
+    titulo: "JURA POR EL AMBIENTE 🌎♻️",
+    descripcion: "👉🏼El pasado Miércoles 5 de Junio, la Dirección de Asuntos Agrarios perteneciente a la Secretaría de Producción, participó de la actividad que organizó la Secretaría de Ambiente de la Municipalidad de La Plata en el programa de “Jura por el ambiente”.",
+    imagen: "images/noticias/agraria/agr05-06.jpg",
+    link:"https://www.instagram.com/p/C8ClgynRBbj/?igsh=MWt2YjB6NXFlbzZxNQ=="
+  },
+  {
     fecha: "20 de mayo de 2024",
     area: "Agraria",
     titulo: "Día internacional de la Miel: se desarrolló una charla sobre los apicultores",
