@@ -1054,3 +1054,13 @@ ul.cont li {
      color: black;
      background: none;
  }
+
+ .link {
+     text-decoration: none;
+     color:white;
+ }
+
+ .link:hover {
+     font-weight: 500;
+     color:white;
+ }
