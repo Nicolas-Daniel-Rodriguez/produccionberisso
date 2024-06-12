@@ -1,6 +1,14 @@
 var noticias = [
   {
     fecha: "05 de junio de 2024",
+    area: "Turismo",
+    titulo: "21° Fiesta del Vino 🍷",
+    descripcion: "🍇Falta tan solo un mes para que puedas disfrutar de la 21° Fiesta del Vino 🍷 <br> 👉🏻Agéndate! 5, 6 y 7 de julio en el Gimnasio Municipal de Berisso. <br><br> ¡Te esperamos!",
+    imagen: "images/noticias/turismo/fiestaDelVino2024.png",
+    link:"https://www.instagram.com/reel/C71qOwnRUQ4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de junio de 2024",
     area: "Agraria",
     titulo: "JURA POR EL AMBIENTE 🌎♻️",
     descripcion: "👉🏼El pasado Miércoles 5 de Junio, la Dirección de Asuntos Agrarios perteneciente a la Secretaría de Producción, participó de la actividad que organizó la Secretaría de Ambiente de la Municipalidad de La Plata en el programa de “Jura por el ambiente”.",
