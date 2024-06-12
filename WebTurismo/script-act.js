@@ -380,6 +380,132 @@ const actividades = [
         precio: "xx.xx",
         categoria: "paseos"
     },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "14/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/museo.jpeg",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "14/06/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Feria de emprendedoras “Mujeres al Río”",
+        descripcion: "Te esperamos desde las 16:30hs en Casa de Culturas Av. Montevideo 821. Organiza Asociación Cultural de la Ribera Berissense.",
+        fecha: "14/06/2024",
+        hora: "16:30",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "15/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "14/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/fajre.jpeg",
+        nombre: "Cena por pasos en Fajre",
+        descripcion: "Te esperamos desde las 21:00hs en Calle 11 N°4077 con reserva previa. Organiza Restaurante Fajre y Hogar Árabe Argentino de Berisso.",
+        fecha: "14/06/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "16/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "15/06/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/nav.jpeg",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "15/06/2024",
+        hora: "14:00",
+        precio: "$xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Feria de emprendedoras “Mujeres al Río”",
+        descripcion: "Te esperamos desde las 16:30hs en Casa de Culturas Av. Montevideo 821. Organiza Asociación Cultural de la Ribera Berissense.",
+        fecha: "15/06/2024",
+        hora: "16:30",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "15/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Proyecto R",
+        descripcion: "Poética de una emancipación, a las 21hs en Sala TCB Nueva York y Marsella (2 y 169). Organiza Teatro Comunitario y Compañía Teatral Pulsión.",
+        fecha: "15/06/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/trio.jpeg",
+        nombre: "Trio Cohiba",
+        descripcion: "Te esperamos a las 21:00hs en Bar Raíces Calle 2 y 169 para disfrutar juntos. Organiza Bar Raíces.",
+        fecha: "15/06/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/roberta.jpeg",
+        nombre: "Roberta Castro",
+        descripcion: "Show Unipersonal “La Vecina de Roma a Berisso” en Bar Raices Calle 2 y 169",
+        fecha: "16/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
