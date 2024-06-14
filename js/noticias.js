@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "14 de junio de 2024",
+    area: "Agraria",
+    titulo: "✍🏻Firma de Convenio con el INTA",
+    descripcion: "✅Hoy se realizó la firma de convenio entre el Municipio y el Instituto Nacional de Tecnología Agropecuaria, donde participaron el intendente Fabián Cagliardi, el director del INTA, Ariel Pereda, y la secretaria de Producción, Cecilia Paris.",
+    imagen: "images/noticias/agraria/agr13-06-24.jpg",
+    link:"https://www.instagram.com/p/C8M0Ul2RQVR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "05 de junio de 2024",
     area: "Turismo",
     titulo: "21° Fiesta del Vino 🍷",
