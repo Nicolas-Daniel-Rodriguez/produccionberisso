@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "18 de junio de 2024",
+    area: "Empleo",
+    titulo: "Cursos para población del Fomentar Empleo",
+    descripcion: "💻Inscripciones: portalempleo/cursos <br><br> 👉🏻Más Info en la Oficina de Empleo <br><br> 🗓️De lunes a viernes de 8:30 a 13:30 hs.<br>📍Av. Montevideo y 2, 2do piso.<br>📲 464-5010",
+    imagen: "images/noticias/empleo/emp18-06.jpg",
+    link:"https://www.instagram.com/p/C8XUpLfRK_Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "15 de junio de 2024",
+    area: "Agraria",
+    titulo: "CAPACITACIÓN CULTIVO DE AROMÁTICAS Y MEDICINALES🌷",
+    descripcion: "🌸Esta capacitación es organizada por la Dirección de Asuntos Agrarios perteneciente a la Secretaría de Producción, en conjunto con la Dirección de Horticultura, Fruticultura y Floricultura del MDA.",
+    imagen: "images/noticias/agraria/agr15-06.jpg",
+    link:"https://www.instagram.com/p/C8NQ8Xyxvj4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "14 de junio de 2024",
     area: "Agraria",
     titulo: "✍🏻Firma de Convenio con el INTA",
