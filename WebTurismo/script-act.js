@@ -506,6 +506,150 @@ const actividades = [
         precio: "xx.xx",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/bandera.jpeg",
+        nombre: "Encuentro del Litoral “Festejo día de la Bandera”",
+        descripcion: "Te esperamos este jueves 20 de Junio en el Centro Hogar Amor para disfutar juntos este Día de la Bandera.",
+        fecha: "20/06/2024",
+        hora: "12:00",
+        precio: "1000.00",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/delta.jpeg",
+        nombre: "TRAVESÍA EN YATE 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉",
+        fecha: "20/06/2024",
+        hora: "16:00",
+        precio: "$12.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/delta.jpeg",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "20/06/2024",
+        hora: "18:00",
+        precio: "$7.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/noHayUnoSinDos.jpeg",
+        nombre: "NO HAY UNO SIN DOS",
+        descripcion: "Te esperamos en el Bar Raices, Calle 2 y 169 para disfrutar de este Shows.",
+        fecha: "20/06/2024",
+        hora: "21:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "21/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/delta.jpeg",
+        nombre: "TRAVESÍA EN YATE 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉",
+        fecha: "21/06/2024",
+        hora: "16:00",
+        precio: "$12.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/delta.jpeg",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "21/06/2024",
+        hora: "18:00",
+        precio: "$7.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "21/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/orquestaFlotante.jpeg",
+        nombre: "Orquesta Flotante",
+        descripcion: "Te esperamos en el Bar Raices, Calle 2 y 169 para disfrutar de este Shows.",
+        fecha: "21/06/2024",
+        hora: "21:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "22/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "22/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/concierto.jpeg",
+        nombre: "Concierto Duo Mancuso Loudet de Villoldo A Falla",
+        descripcion: "Te esperamos en el Bar Raices, Calle 2 y 169 para disfrutar de este Shows.",
+        fecha: "22/06/2024",
+        hora: "21:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Proyecto R: Poética de una emancipación",
+        descripcion: "Te esperamos en la SALA TCB (Nueva York y Marsella). Organiza Compañía Teatral Pulsión y Sala TCB.",
+        fecha: "22/06/2024",
+        hora: "21:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/losLimones.jpeg",
+        nombre: "Los Limones jaidefiniyon",
+        descripcion: "Te esperamos en el Bar Raices, Calle 2 y 169 para disfrutar de este Shows.",
+        fecha: "22/06/2024",
+        hora: "23:45",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "23/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/20-06-23-06/balbis.jpeg",
+        nombre: "Balbis",
+        descripcion: "Te esperamos en el Bar Raices, Calle 2 y 169 para disfrutar de este Shows.",
+        fecha: "23/06/2024",
+        hora: "20:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
