@@ -1,5 +1,30 @@
 var noticias = [
   {
+    fecha: "26 de junio de 2024",
+    area: "Turismo",
+    titulo: "🍷¡Cada vez falta menos para la Fiesta del Vino de la Costa!",
+    descripcion: "Te esperamos los días 5, 6 y 7 de julio en la 21° Fiesta del Vino de la Costa. <br><br> 📍Gimnasio Municipal (9 y 169) <br>👉🏻 Entrada libre y gratuita",
+    imagen: "images/noticias/turismo/tur26-06-24.jpg",
+    link:"https://www.instagram.com/p/C8rizO2x7fH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "20 de junio de 2024",
+    area: "Agraria",
+    titulo: "CAPACITACIÓN CULTIVO DE AROMÁTICAS Y MEDICINALES🌷",
+    descripcion: "🌷El pasado miércoles 19 de junio, se llevó adelante la capacitación de cultivo de aromáticas y medicinales.",
+    imagen: "images/noticias/agraria/agr19-06-24.jpeg",
+    link:"https://www.instagram.com/p/C8re31XxbN5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "20 de junio de 2024",
+    area: "Turismo",
+    titulo: "🏃🏻‍♀️🏃🏻‍♂️Carrera Cross Aventura de la Fiesta del Vino",
+    descripcion: "🗓️Domingo 30 de junio <br>🕣Largada 9 hs. <br> 📍Sede de la Cooperativa de la Costa en calle Bagliardi (a 100 metros de Avenida Montevideo) <br>👉🏻Propuesta arancelada",
+    imagen: "images/noticias/turismo/tur20-06-24.jpg",
+    link:"https://www.instagram.com/p/C8VGycIhBeN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  
+  {
     fecha: "18 de junio de 2024",
     area: "Empleo",
     titulo: "Cursos para población del Fomentar Empleo",
