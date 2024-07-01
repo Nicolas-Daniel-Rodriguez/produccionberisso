@@ -650,6 +650,88 @@ const actividades = [
         precio: "$XX.XX",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "28/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Proyección Pelicula BEPO",
+        descripcion: "Este finde veni a disfrutar de la Pelicula BEPO. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "28/06/2024",
+        hora: "19:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "28/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "La Río Grande Ensamble Latino",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "28/06/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "29/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "29/06/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Milonga Búlgara",
+        descripcion: "Veni a disfrutar este sabado de esta Milonga en la Colectividad Búlgara, Av. Montevideo e/ 19 y 20.",
+        fecha: "29/06/2024",
+        hora: "21:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "30/06/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Cross de Aventura - Fiesta del Vino de la Costa",
+        descripcion: "Este domingo veni a disfrutar de esta carrera en Av. Montevideo y calle 81, Los Talas. Organiza Circulo De Atletas Veteranos Platenses – Municipalidad De Berisso - Coop Del Vino De La Costa – Facultad De Cs. Agrarias.",
+        fecha: "30/06/2024",
+        hora: "09:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    }
+    
     // Agrega más objetos para más actividades si es necesario
 ];
 
