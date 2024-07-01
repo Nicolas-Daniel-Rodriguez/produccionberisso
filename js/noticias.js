@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "01 de julio de 2024",
+    area: "Turismo",
+    titulo: "🍷¡Cada vez falta menos para la Fiesta del Vino de la Costa!",
+    descripcion: "Te esperamos los días 5, 6 y 7 de julio en la 21° Fiesta del Vino de la Costa. <br><br>📍Gimnasio Municipal (9 y 169) <br>👉🏻 Entrada libre y gratuita",
+    imagen: "images/noticias/turismo/tur01-07-2024.jpg",
+    link:"https://www.instagram.com/reel/C84p5pdx2_T/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "30 de junio de 2024",
+    area: "Turismo",
+    titulo: "🏃🏻13° Edición de la Carrera de Cross Aventura",
+    descripcion: "🍷En el marco de la 21º Fiesta del Vino de la Costa, se realizó la 13º Carrera de Cross Aventura que tuvo una extensión de 8 y 4 kilómetros.",
+    imagen: "images/noticias/turismo/tur30-06-2024.jpg",
+    link:"https://www.instagram.com/p/C82qHJuB2ks/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "26 de junio de 2024",
     area: "Turismo",
     titulo: "🍷¡Cada vez falta menos para la Fiesta del Vino de la Costa!",
