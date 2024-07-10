@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "03 de julio de 2024",
+    area: "Agraria",
+    titulo: "🌾CAPACITACIÓN EN HUERTAS FAMILIARES",
+    descripcion: "🗓️Jueves 11 de julio <br>⏰10hs<br>📍Sede CTA Autónoma (18 e/ 148 y 149 - Barrio Santa Cruz)",
+    imagen: "images/noticias/agraria/ag03-07-2024.jpg",
+    link:"https://www.instagram.com/p/C8-HJQzx9PC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "03 de julio de 2024",
+    area: "Empleo",
+    titulo: "✅Ofertas laborales para vecinos y vecinas de Berisso",
+    descripcion: "👉🏻Ante cualquier duda acercarse a las Oficinas de Empleo en Av. Montevideo y 2, 2do piso, de lunes a viernes de 8:30 a 13 hs.",
+    imagen: "images/noticias/empleo/empleo03-07-2024.jpg",
+    link:"https://www.instagram.com/p/C89-bzex6ZV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "01 de julio de 2024",
+    area: "Turismo",
+    titulo: "Tours Gratuitos a Pie – Ruta de la Diversidad Cultural 🇺🇦 🇮🇹 🇱🇹",
+    descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Asociación Ucrania de Cultura Prosvita, la Sociedad Italiana, la Sociedad Lituana Mindaugas, y finalizará en el Gimnasio Municipal donde se estará realizando la 21º Fiesta Provincial del Vino de la Costa🍇🍷 <br><br> ☎️Inscripciones al 221-571-6163 <br>Se suspende por lluvias 🌧️",
+    imagen: "images/noticias/turismo/ruta06-07-2024.jpg",
+    link:"https://www.instagram.com/p/C8z58WBvm-K/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "01 de julio de 2024",
     area: "Turismo",
     titulo: "🍷¡Cada vez falta menos para la Fiesta del Vino de la Costa!",

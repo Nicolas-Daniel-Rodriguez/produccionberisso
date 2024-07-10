@@ -730,7 +730,151 @@ const actividades = [
         hora: "09:00",
         precio: "XX.XX",
         categoria: "paseos"
-    }
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "05/07/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "05/07/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "05/07/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "06/07/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "../images/noticias/turismo/ruta06-07-2024.jpg",
+        nombre: "Tours Gratuitos a Pie – Ruta de la Diversidad Cultural ",
+        descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Asociación Ucrania de Cultura Prosvita, la Sociedad Italiana, la Sociedad Lituana Mindaugas, y finalizará en el Gimnasio Municipal donde se estará realizando la 21º Fiesta Provincial del Vino de la Costa🍇🍷 <br> ☎️Inscripciones al 221-571-6163",
+        fecha: "06/07/2024",
+        hora: "10:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Delta del Río Santiago",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) <br> El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "06/07/2024",
+        hora: "12:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Visita a viñedo isleño",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) a las 14hs.<br> Vamos a conocer el viñedo de la Quinta “La Isabella”. La visita incluye coordinación turística y degustación🍷✨🍃 <br> Volveremos a las 16 hs. ",
+        fecha: "06/07/2024",
+        hora: "14:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "06/07/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/macany.png",
+        nombre: "Museo a cielo abierto",
+        descripcion: "Acércate a la calle Nueva York y conoce la historia de esta emblematica calle en un solo lugar. Organiza MACANY.",
+        fecha: "06/07/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "06/07/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/copani.jpeg",
+        nombre: "Ignacio Copani “Juglarse la Vida”",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "06/07/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso ",
+        fecha: "07/07/2024",
+        hora: "08:00",
+        precio: "XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Delta del Río Santiago",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) <br> El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "07/07/2024",
+        hora: "12:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Visita a viñedo isleño",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) a las 14hs.<br> Vamos a conocer el viñedo de la Quinta “La Isabella”. La visita incluye coordinación turística y degustación🍷✨🍃 <br> Volveremos a las 16 hs. ",
+        fecha: "07/07/2024",
+        hora: "14:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/macany.png",
+        nombre: "Museo a cielo abierto",
+        descripcion: "Acércate a la calle Nueva York y conoce la historia de esta emblematica calle en un solo lugar. Organiza MACANY.",
+        fecha: "07/07/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Obra de Teatro 'Atmósfera Carnelli'",
+        descripcion: "Acércate este domingo a la SALA TCB (Nueva York y Marsella) y disfruta de esta obra de teatro del Director Nelson Mallach. Organiza SALA TCB.",
+        fecha: "07/07/2024",
+        hora: "19:00",
+        precio: "$5000.00",
+        categoria: "shows"
+    },
     
     // Agrega más objetos para más actividades si es necesario
 ];
