@@ -2,6 +2,102 @@ var noticias = [
   {
     fecha: "08 de julio de 2024",
     area: "Turismo",
+    titulo: "Info La Plata: Se realizó la apertura de la 21º edición de la Fiesta del Vino de la Costa",
+    descripcion: "El acto de apertura, que tuvo lugar en Gimnasio Municipal (9 y 169), fue encabezado por el intendente municipal, Fabián Cagliardi quien estuvo acompañado por el asesor General de Gobierno de la Provincia de Buenos Aires, Santiago Teruel; el jefe de gabinete del Ministerio de Hábitat de la Provincia de Buenos Aires, Juan Manuel Pignocco y el presidente del Banco de la Provincia de Buenos Aires, Juan Cuattromo...",
+    imagen: "images/noticias/turismo/fdv-InfoLaPlata.jpg",
+    link:"https://infolaplata.com/se-realizo-la-apertura-de-la-21o-edicion-de-la-fiesta-del-vino-de-la-costa/"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "El Mundo de Berisso: Culminó la 21ª Fiesta del Vino de la Costa",
+    descripcion: "Se desarrolló durante este domingo la tercera y última jornada de la 21ª edición de la Fiesta del Vino de la Costa que se desarrolló en el Gimnasio Municipal organizada por la Cooperativa de la Costa, la Municipalidad y la UNLP a través  de las Facultades de Ciencias Agrarias y Forestales; Exactas y Trabajo Social...",
+    imagen: "images/noticias/turismo/fdv-ElMundoDeBerisso.webp",
+    link:"https://elmundodeberisso.com.ar/culmino-la-21a-fiesta-del-vino-de-la-costa/"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Berisso Ciudad: Cecilia París y su rol en la Fiesta del Vino de la Costa: cada día que pasa, sale cada vez mejor",
+    descripcion: "La Fiesta del Vino de la Costa ha vuelto a ser un evento destacado en la agenda cultural de Berisso, atrayendo a residentes y visitantes a disfrutar de esta celebración única. En una entrevista exclusiva con FM Berisso Ciudad 88.5, la Secretaria de Producción, Cecilia París, compartió su entusiasmo y las complejidades detrás de la organización de este evento, subrayando la importancia de mantener vivas las tradiciones locales y promover el desarrollo económico.<br><br> Cecilia París, una de las principales gestoras del evento, expresó su alegría al ver la gran cantidad de personas disfrutando de la fiesta. “Estoy re contenta, creo que está saliendo mejor de lo que planeamos. Mucha gente se está acercando, y es hermoso ver la diversidad de cosas que hay, los grupos divinos. La verdad que es una gran satisfacción”, comentó París...",
+    imagen: "images/noticias/turismo/fdv-Ceci.webp",
+    link:"https://www.berissociudad.com.ar/Cecilia-Paris-y-su-rol-en-la-Fiesta-del-Vino-de-la-Costa-cada-dia-que-pasa-sale-cada-vez-mejor-396913"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Berisso Ciudad: Cagliardi resaltó que Berisso es muy popular con la Fiesta del Vino",
+    descripcion: "La Fiesta del Vino de la Costa se ha convertido en un evento emblemático para la ciudad de Berisso, destacando no solo la rica historia de los inmigrantes que contribuyeron a su desarrollo, sino también el esfuerzo continuo de la gestión municipal para mantener vivas estas tradiciones. <br><br> En una entrevista exclusiva con FM Berisso Ciudad 88.5, el intendente Fabián Cagliardi compartió sus reflexiones sobre la XXI edición de este evento y su importancia para la comunidad...",
+    imagen: "images/noticias/turismo/fdv-Fabi.webp",
+    link:"https://www.berissociudad.com.ar/Cagliardi-resalto-que-Berisso-es-muy-popular-con-la-Fiesta-del-Vino-396912"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Info Cielo: Vinos caseros, shows y más de 200 stands: Llega la 'Fiesta Provincial del Vino' a Berisso",
+    descripcion: "Desde el año 2004 se lleva cabo durante el mes de julio la Fiesta Provincial del Vino de la Costa, la cual es organizada por la Municipalidad de Berisso, la Cooperativa de la Costa de Berisso y el Departamento de Desarrollo Rural de la Facultad de Ciencias Agrarias y Forestales de la Universidad Nacional de La Plata. <br> <br> Este año, su edición Nº 21 se realizará los días viernes 5, sábado 6 y domingo 7 de julio en el Gimnasio Municipal de la ciudad de Berisso...",
+    imagen: "images/noticias/turismo/fdv-InfoCielo.webp",
+    link:"https://infocielo.com/la-plata/vinos-caseros-recorridos-y-shows-llega-la-fiesta-provincial-del-vino-2024-berisso-n788372"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "0221: Arrancó la Fiesta del Vino de la Costa en Berisso y así sigue el cronograma con todas las actividades",
+    descripcion: "La 21º edición de la Fiesta del Vino de la Costa, la muestra productiva organizada por la Municipalidad de Berisso junto a la Cooperativa de la Costa y las Facultades de Ciencias Agrarias y Forestales; Trabajo Social y Ciencias Exactas de la Universidad Nacional de La Plata (UNLP) arrancó este viernes con una variada agenda.<br><br> Las actividades incluyen el concurso de Vinos Caseros y de la Costa; el concurso de Mermeladas de Ciruela, Tomate, Higo y Gourmet; visitas guiadas a viñedos y a la planta elaboradora de la Cooperativa de la Costa; Feria de Saberes; shows musicales; entre otras...",
+    imagen: "images/noticias/turismo/fdv-0221.webp",
+    link:"https://www.0221.com.ar/que-hago/arranco-la-fiesta-del-vino-la-costa-berisso-y-asi-sigue-el-cronograma-todas-las-actividades-n94661"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Berisso Ciudad: Matías Slezack: es un balance positivo la Fiesta del Vino de la Costa",
+    descripcion: "En una entrevista reciente con FM Berisso Ciudad 88.5, Matías Slezack, secretario de Gobierno de la Municipalidad de Berisso, compartió sus impresiones sobre la XXI edición de la Fiesta del Vino de la Costa. A pesar del frío que acompañó el evento, Slezack expresó su satisfacción con la venta de productos locales y la participación de la comunidad.<br><br> El balance es positivo, afirmó Slezack. Hubo una muy buena venta de los productos locales, y aunque el clima no ayudó mucho, la gente puso mucho tiempo y ganas en el evento...",
+    imagen: "images/noticias/turismo/fdv-Mati.webp",
+    link:"https://www.berissociudad.com.ar/Matias-Slezack-es-un-balance-positivo-la-Fiesta-del-Vino-de-la-Costa-396924"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Berisso Ciudad: Juan Pablo Holubyez: “El saldo de la Fiesta del Vino es netamente positivo”",
+    descripcion: "El Director de Desarrollo Productivo local, Juan Pablo Holubyez visitó los estudios de FM Berisso Ciudad 88.5 para realizar un balance de la Fiesta del Vino de la Costa: “Poder llevar adelante un evento igual que en años anteriores, en un contexto adverso y sin el acompañamiento del gobierno nacional, ya es un éxito”, dijo. <br><br> Hoy con la celebración concretada, el funcionario habló sobre la preocupación que existía para llevar adelante la Fiesta del Vino de la Costa. “Ciertamente teníamos preocupación si se podía hacer la Fiesta del Vino o no. Veíamos que el gobierno nacional dejaba de acompañar eventos populares en todo el país y cómo fiestas tradicionales se iban suspendiendo en distintos puntos. No comenzamos a juntarnos con la mesa organizadora de la Fiesta del Vino y salimos a buscar los recursos”, explicó...",
+    imagen: "images/noticias/turismo/fdv-JuanP.webp",
+    link:"https://www.berissociudad.com.ar/Juan-Pablo-Holubyez-El-saldo-de-la-Fiesta-del-Vino-es-netamente-positivo-396947"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Real Politik: Berisso: Culminó la 21° Fiesta del Vino de la Costa",
+    descripcion: "Este domingo tuvo lugar la tercera y última jornada de la 21º edición de la Fiesta del Vino de la Costa que se desarrolló en el Gimnasio Municipal (9 y 169) con entrada libre y gratuita. Esta actividad es organizada año tras año por la Municipalidad de Berisso, la Cooperativa de la Costa de Berisso y la Universidad Nacional de La Plata, a través de las Facultades de Ciencias Agrarias y Forestales; Exactas y Trabajo Social...",
+    imagen: "images/noticias/turismo/fdv-RealPolitik.webp",
+    link:"https://realpolitik.com.ar/nota/58193/berisso-culmino-la-21-deg-fiesta-del-vino-de-la-costa/"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Berisso Ciudad: Éxito y emoción en el cierre de la Fiesta del Vino de la Costa en Berisso",
+    descripcion: "Con gran emoción y un ambiente festivo, concluyó la edición de este año de la Fiesta del Vino de la Costa en Berisso, un evento que destacó por la calidad de sus productos y la participación entusiasta de la comunidad. La ceremonia de cierre estuvo marcada por la premiación de los stands participantes, reconociendo la dedicación y el talento de los productores locales.<br><br> El intendente de Berisso, Fabián Cagliardi, expresó su satisfacción y agradecimiento al finalizar el evento: Estoy muy orgulloso del éxito de esta Fiesta del Vino. Es una celebración que nos une como comunidad y nos permite mostrar lo mejor de nuestra región. Quiero felicitar a todos los productores, gastronómicos y cerveceros que hicieron posible este evento, en especial a la señora Puri por su destacado premio...",
+    imagen: "images/noticias/turismo/fdv-BerissoCiudad.webp",
+    link:"https://www.berissociudad.com.ar/Exito-y-emocion-en-el-cierre-de-la-Fiesta-del-Vino-de-la-Costa-en-Berisso-396931"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Diario El Dia: En Berisso culminó la 21° Fiesta del Vino de la Costa",
+    descripcion: "Este fin de semana, Berisso vivió la 21º edición de la Fiesta del Vino de la Costa. Tuvo lugar en el gimnasio municipal, ubicado en 9 y 169, con entrada libre y gratuita. <br><br> Hasta entrada la noche, el gimnasio berissense recibió a decenas de vecinos y vecinas de la zona que probaron las delicias locales, disfrutaron la música en vivo y la danza...",
+    imagen: "images/noticias/turismo/fdv-ElDia.jpeg",
+    link:"https://www.eldia.com/nota/2024-7-7-19-18-0-fotos-berisso-culmino-la-21-fiesta-del-vino-de-la-costa-la-ciudad"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Diario Hoy: En Berisso celebraron la convocatoria de la Fiesta del Vino",
+    descripcion: "El último fin de semana se llevó a cabo la Fiesta del Vino de la Costa que reunió a una gran parte de la población de Berisso en el gimnasio municipal que tiene esta ciudad, muy cerca de la cancha del club Estrella.<br><br> Allí hubo recitales, puestos de comida, degustaciones de vinos y juegos impulsados por algunas entidades como el Banco Provincia que estuvo representada en uno de los stands que se pusieron para el evento...",
+    imagen: "images/noticias/turismo/fdv-DiarioHoy.jpg",
+    link:"https://diariohoy.net/interes-general/en-berisso-celebraron-la-convocatoria-de-la-fiesta-del-vino-258409"
+  },
+  {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
     titulo: "Descubrí Berisso con Soy Lucho Couso",
     descripcion: "🚤 Podés pasear en lanchas colectivas o de forma privada con la gente de @camaradeturismoberisso para llegar a la ISLA PAULINO, una isla con muchísimos aires bohemios ideal para descansar y entrar en contacto con la naturaleza<br><br>🍷 O quizá te interese recorrer las plantaciones de uvas, la producción y degustar algún vinito de @vinocostadeberisso, que hacen con uvas americanas que no lo vas a encontrar en otro lado más que acá... vinos de la uva vitis labrusca, más íntimamente conocida como Isabella...",
     imagen: "images/noticias/turismo/soyLucho.jpg",
