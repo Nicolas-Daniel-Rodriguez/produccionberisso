@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "08 de julio de 2024",
+    area: "Turismo",
+    titulo: "Descubrí Berisso con Soy Lucho Couso",
+    descripcion: "🚤 Podés pasear en lanchas colectivas o de forma privada con la gente de @camaradeturismoberisso para llegar a la ISLA PAULINO, una isla con muchísimos aires bohemios ideal para descansar y entrar en contacto con la naturaleza<br><br>🍷 O quizá te interese recorrer las plantaciones de uvas, la producción y degustar algún vinito de @vinocostadeberisso, que hacen con uvas americanas que no lo vas a encontrar en otro lado más que acá... vinos de la uva vitis labrusca, más íntimamente conocida como Isabella...",
+    imagen: "images/noticias/turismo/soyLucho.jpg",
+    link:"https://www.instagram.com/reel/C9JV10dt676/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "07 de julio de 2024",
+    area: "U.Productivas",
+    titulo: "🍷Premiación de vinos y mermeladas",
+    descripcion: "🍇¡Hoy se realizó la premiación del concurso a los mejores vinos y mermeladas de la Fiesta del Vino de la Costa!<br><br>Felicitaciones a todos los ganadores y a los participantes, por mantener vivas las tradiciones a través de los productos que elaboran.",
+    imagen: "images/noticias/Unid.Productivas/mermelada.jpg",
+    link:"https://www.instagram.com/p/C9Gi1brNzgZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de julio de 2024",
+    area: "Turismo",
+    titulo: "🍷Apertura de la 21° Fiesta del Vino de la Costa",
+    descripcion: "🍇¡Hoy comenzó la Fiesta del Vino de la Costa de Berisso!<br><br>👏🏻Con gran concurrencia de público, la primera noche se disfrutó con música, stand de productores y gastronómico, y la exhibición y venta de los vinos de la costa.",
+    imagen: "images/noticias/turismo/fiestaDelVino.jpg",
+    link:"https://www.instagram.com/p/C9EBybQtJqW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "03 de julio de 2024",
     area: "Agraria",
     titulo: "🌾CAPACITACIÓN EN HUERTAS FAMILIARES",
