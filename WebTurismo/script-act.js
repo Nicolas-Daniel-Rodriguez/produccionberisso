@@ -875,6 +875,132 @@ const actividades = [
         precio: "$5000.00",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "12/07/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "12/07/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Lidia Borda y Daniel Godfrid",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "12/07/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "13/07/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "13/07/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "13/07/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Creer o reventar",
+        descripcion: "Veni a disfrutar de esta Obra de Teatro en Sala TCB - Nueva York Y Marsella. Organiza Teatro Comunitario de Berisso.",
+        fecha: "13/07/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Monte Adentro",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "13/07/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Los Limones Jay Definiyon",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "13/07/2024",
+        hora: "23:59",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "14/07/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Experiencia Isla Paulino",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003). Organiza Cámara de Turismo Berisso. ",
+        fecha: "14/07/2024",
+        hora: "10:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Apertura del Mercado de la Ribera",
+        descripcion: "A partir de las 10hs podes pasar por el Mercado, te esperamos. Calle 170 entre 8 y 9. Organiza Mercado de la Ribera.",
+        fecha: "14/07/2024",
+        hora: "10:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Delta del Río Santiago",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) <br> El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷. Organiza Daniela Mondelo.",
+        fecha: "14/07/2024",
+        hora: "13:30",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/nav.jpeg",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "14/07/2024",
+        hora: "14:00",
+        precio: "$xx.xx",
+        categoria: "paseos"
+    },
     
     // Agrega más objetos para más actividades si es necesario
 ];
