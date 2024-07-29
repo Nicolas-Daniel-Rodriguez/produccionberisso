@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "26 de julio de 2024",
+    area: "Secretaria",
+    titulo: "La ruta del vino bonaerense: la ciudad que queda a 1 hora de CABA ideal para disfrutar de sus bodegas y catas",
+    descripcion: "Enterate de todo lo que podes hacer en un día de paseo por la ciudad vecina a la capital de la provincia de Buenos Aires.",
+    imagen: "images/noticias/secretaria/rutaDelVino.webp",
+    link:"https://www.ambito.com/lifestyle/la-ruta-del-vino-bonaerense-la-ciudad-que-queda-1-hora-caba-ideal-disfrutar-sus-bodegas-y-catas-n6037939"
+  },
+  {
+    fecha: "26 de julio de 2024",
+    area: "U.Productivas",
+    titulo: "CURSO OFICIAL DE MANIPULACIÓN DE ALIMENTOS🥕",
+    descripcion: "👉🏼Entre la Secretaría de Producción y la Secretaría de Salud, se van a llevar a cabo actividades con el objetivo de acompañar a la unidades productivas que tienen habilitación de PUPAas municipales y provinciales, y a otras que deseen avanzar en dichos trámites.",
+    imagen: "images/noticias/Unid.Productivas/manipulacionDeAlimentos.jpg",
+    link:"https://www.instagram.com/p/C92teF6R75x/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "24 de julio de 2024",
     area: "Secretaria",
     titulo: "🍺 DEGUSTACIÓN DE CERVEZAS ARTESANALES DE INVIERNO",
