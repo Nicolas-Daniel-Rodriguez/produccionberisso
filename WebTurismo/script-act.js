@@ -1235,7 +1235,177 @@ const actividades = [
         precio: "XX.XX",
         categoria: "shows"
     },
-    
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "02/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "02/08/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "02/08/2024",
+        hora: "15:30",
+        precio: "$16.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "02/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/raices2-08.png",
+        nombre: "Paradigma",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "02/08/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/fajre.png",
+        nombre: "Cena por pasos en Fajre",
+        descripcion: "Te esperamos desde las 21:00hs en Calle 11 N°4077 e/ 162n y 163 con reserva previa. Organiza Restaurante Fajre y Hogar Árabe Argentino de Berisso.",
+        fecha: "02/08/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "03/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/tours.png",
+        nombre: "Tours Gratuitos a Pie – Ruta de la Diversidad Cultural ",
+        descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Colectividad Belarusa (Club Vostok de Berisso), el Club Eslovaco Argentino de Berisso, y finalizará en la Sociedad Cultural Búlgara Iván Vazov✨<br>☎️Inscripciones al 221-571-6163<br>Se suspende por lluvias 🌧️",
+        fecha: "03/08/2024",
+        hora: "10:00",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "03/08/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "03/08/2024",
+        hora: "15:30",
+        precio: "$16.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "03/08/2024",
+        hora: "16:00",
+        precio: "$14.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "03/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/raices3-08.png",
+        nombre: "“El asunto” con Agustín López Núñez y Patricia Malanca",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "03/08/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "04/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/junio2024/peatNY2.jpg",
+        nombre: "Calle Nueva York Peatonal",
+        descripcion: "Los invitamos el próximo Domingo 4 de agosto a partir de las 11hs, a la Calle Nueva York Peatonal, donde reunimos distintas propuestas como visitas guiadas🏛️, música en vivo🎤, gastronomía🍟, y mucho más! No te lo pierdas🥳<br>🙌🏻¡Entrada libre y gratuita!",
+        fecha: "04/08/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/isla.png",
+        nombre: "Tarde Isleña",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) Se realizará un recorrido por el Rio Santiago🗺️ Bajaremos en la isla Paulino e iremos a la Quinta “Isabella”. Incluye una infusión☕️ Volveremos a las 17.30 hs. Es con reserva.",
+        fecha: "04/08/2024",
+        hora: "15:00",
+        precio: "$8.500",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "04/08/2024",
+        hora: "15:30",
+        precio: "$16.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "04/08/2024",
+        hora: "16:00",
+        precio: "$14.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/raices4-08.png",
+        nombre: "Roberta Castro ",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "04/08/2024",
+        hora: "20:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
     
     // Agrega más objetos para más actividades si es necesario
 ];
