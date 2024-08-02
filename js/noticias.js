@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "01 de agosto de 2024",
+    area: "Turismo",
+    titulo: "Peatonal Calle Nueva York",
+    descripcion: "✅Este domingo 4 de agosto la Calle Nueva York, se convierte en peatonal, para que disfrutes el día con muchas propuestas para toda la familia.",
+    imagen: "images/noticias/turismo/nyPeatonal.png",
+    link:"https://www.instagram.com/reel/C-JK4DevGK4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "29 de julio de 2024",
+    area: "Turismo",
+    titulo: "Descubrí Berisso: Tours Gratuitos a Pie – Ruta de la Diversidad Cultural 🇧🇾 🇸🇰 🇧🇬",
+    descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Colectividad Belarusa (Club Vostok de Berisso), el Club Eslovaco Argentino de Berisso, y finalizará en la Sociedad Cultural Búlgara Iván Vazov✨",
+    imagen: "images/noticias/turismo/rutaDiv.png",
+    link:"https://www.instagram.com/p/C9yFEOdst6f/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "26 de julio de 2024",
     area: "Secretaria",
     titulo: "La ruta del vino bonaerense: la ciudad que queda a 1 hora de CABA ideal para disfrutar de sus bodegas y catas",
