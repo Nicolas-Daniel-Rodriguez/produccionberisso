@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "07 de agosto de 2024",
+    area: "Secretaria",
+    titulo: "✅En los últimos 6 meses, estuvimos trabajando para potenciar el turismo, la industria, el trabajo y la producción local.",
+    descripcion: "👉🏻Todas estas iniciativas nos permitieron generar en 6 meses, un total de más de 340 puestos laborales, beneficiar directa e indirectamente a 56 Pymes y capacitar a 250 vecinos y vecinas de la ciudad.",
+    imagen: "images/noticias/secretaria/secretaria.png",
+    link:"https://www.instagram.com/reel/C-XrKanR7_f/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de agosto de 2024",
+    area: "Secretaria",
+    titulo: "🧺El Mercado de la Ribera abre sus puertas para celebrar a la Pachamama",
+    descripcion: "Dirigen la ceremonia: Carlos Moreira, María Luisa Cerrano, Laura Lami y Oso Lorente.<br><br>🔸Taller de barrilete<br>🔸Productos Regionales<br>🔸Gastronomía<br>🔸Sorteos<br>🔸Música en vivo<br><br>🗓️Domingo 11 de agosto<br>🕣De 10 a 18 hs.<br>📍Detrás de la pista de atletismo (170 e/ 8 y 9)",
+    imagen: "images/noticias/secretaria/mercado.png",
+    link:"https://www.instagram.com/p/C-VIcM8RwWZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "01 de agosto de 2024",
     area: "Turismo",
     titulo: "Peatonal Calle Nueva York",

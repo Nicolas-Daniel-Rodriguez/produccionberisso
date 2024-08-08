@@ -1406,6 +1406,204 @@ const actividades = [
         precio: "XX.XX",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "09/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "09/08/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "09/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/desgustacion.png",
+        nombre: "Degustación de cervezas artesanales de invierno",
+        descripcion: "💪 Te presentamos al EQUIPO CDB que te va a estar acompañando con litros de la mejor cerveza artesanal de la región! Te esperamos en el Club Almafuerte (calle 8 esquina 156 norte - Berisso)",
+        fecha: "09/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/peña.jpeg",
+        nombre: "Peña Juncal junto a Benja Molina Chazarreta",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "09/08/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/fajre.png",
+        nombre: "Cena por pasos en Fajre",
+        descripcion: "Te esperamos desde las 21:00hs en Calle 11 N°4077 e/ 162n y 163 con reserva previa. Organiza Restaurante Fajre y Hogar Árabe Argentino de Berisso.",
+        fecha: "09/08/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "10/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/viña.png",
+        nombre: "Viña, poda y agroecología",
+        descripcion: "Te esperamos en la quinta de Pancho Av. Montevideo entre 725 y 726, Los Talas. Organiza la Cooperativa de la Costa de Berisso.",
+        fecha: "10/08/2024",
+        hora: "09:30",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/bolleria.png",
+        nombre: "Pop Up junto a Osvaldo Gross",
+        descripcion: "Te esperamos en La Bolleria, Av Montevideo esquina 9, Berisso. Organiza La Bolleria de Juan M. Herrera.",
+        fecha: "10/08/2024",
+        hora: "11:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "10/08/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/isla.png",
+        nombre: "Tarde Isleña",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) Se realizará un recorrido por el Rio Santiago🗺️ Bajaremos en la isla Paulino e iremos a la Quinta “Isabella”. Incluye una infusión☕️ Volveremos a las 17.30 hs. Es con reserva.",
+        fecha: "10/08/2024",
+        hora: "15:00",
+        precio: "$8.500",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "10/08/2024",
+        hora: "15:30",
+        precio: "$16.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "10/08/2024",
+        hora: "16:00",
+        precio: "$14.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/creer.png",
+        nombre: "Creer o reventar",
+        descripcion: "Veni a disfrutar de este show en Sala TCB - Nueva York Y Marsella. Organiza Teatro Comunitario de Berisso.",
+        fecha: "10/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "10/08/2024",
+        hora: "20:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/cena.png",
+        nombre: "Cena show con “Doble o nada” en Fajre ",
+        descripcion: "Te esperamos desde las 22:00hs en Calle 11 N°4077 e/ 162n y 163 con reserva previa. Organiza Restaurante Fajre y Hogar Árabe Argentino de Berisso.",
+        fecha: "10/08/2024",
+        hora: "22:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "11/08/2024",
+        hora: "08:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/islaPaulino26al28-07.png",
+        nombre: "Experiencia Isla Paulino",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003). Organiza Cámara de Turismo Berisso. ",
+        fecha: "11/08/2024",
+        hora: "10:00",
+        precio: "17.500",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/mercado.png",
+        nombre: "Mercado de la Ribera",
+        descripcion: "El Mercado de la Ribera abre sus puertas para celebrar a la Pachamama a partir de las 10:00hs detrás de la pista de atletismo (170 e/ 8 y 9). Organiza Mercado la Ribera y el Municipio de Berisso.",
+        fecha: "11/08/2024",
+        hora: "10:00",
+        precio: "8.500",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/venezolano.jpeg",
+        nombre: "Compartir Venezolano",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "11/08/2024",
+        hora: "12:30",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "11/08/2024",
+        hora: "15:30",
+        precio: "$16.000",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/roberta.jpeg",
+        nombre: "Roberta Castro ",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "11/08/2024",
+        hora: "20:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
     
     // Agrega más objetos para más actividades si es necesario
 ];
