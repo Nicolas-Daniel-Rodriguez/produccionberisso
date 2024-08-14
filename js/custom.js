@@ -96,3 +96,30 @@ $(function () {
 
 
 });
+
+
+/* Tarjetas empresas 
+	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+
+	let currentIndex = 0;
+
+function moveSlide(direction) {
+   const groups = document.querySelectorAll('.logo-group');
+   const totalGroups = groups.length;
+
+   currentIndex += direction;
+
+   if (currentIndex < 0) {
+      currentIndex = totalGroups - 1; // Si va hacia atrás desde el inicio, salta al final
+   } else if (currentIndex >= totalGroups) {
+      currentIndex = 0; // Si avanza más allá del final, regresa al inicio
+   }
+
+   const offset = currentIndex * (-100); // Desplaza un grupo entero
+   document.querySelector('.logo-container').style.transform = `translateX(${offset}%)`;
+}
+
+function openPDF(url) {
+   window.open(url, '_blank');
+}
+

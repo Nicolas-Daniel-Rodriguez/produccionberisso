@@ -1064,3 +1064,92 @@ ul.cont li {
      font-weight: 500;
      color:white;
  }
+
+ /* logos */
+ 
+ .logo-slider {
+     position: relative;
+     width: 100%;
+     overflow: hidden;
+  }
+  
+  .logo-container {
+     display: flex;
+     transition: transform 0.5s ease;
+     width: 100%;
+     padding-bottom: 7em;
+  }
+  
+  .logo-group {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     flex: 0 0 100%; /* Cada grupo ocupa toda la pantalla */
+  }
+  
+  .logo-card {
+     flex: 0 0 14%;
+     max-width: 14%;
+     margin: 5px;
+     padding: 15px 0 15px 0;
+     text-align: center;
+     cursor: pointer;
+  }
+  
+  .logo-card img {
+     width: 80px;
+     height: 80px;
+     object-fit: cover;
+     transition: transform 0.3s ease;
+     margin: auto;
+     border: 0.15em solid rgb(216, 216, 216);
+     border-radius: 20%;
+  }
+  
+  .logo-card:hover img {
+     transform: scale(1.3);
+  }
+  
+  .prev, .next {
+     position: absolute;
+     top: 50%;
+     transform: translateY(-50%);
+     background-color: rgba(0, 0, 0, 0.5);
+     color: white;
+     border: none;
+     padding: 10px;
+     cursor: pointer;
+     z-index: 1000;
+  }
+  
+  .prev {
+     left: 0;
+  }
+  
+  .next {
+     right: 0;
+  }
+  
+  @media (max-width: 768px) {
+     .logo-card {
+        flex: 0 0 20%;
+        max-width: 20%;
+     }
+  }
+  
+  @media (max-width: 480px) {
+     .logo-card {
+        flex: 0 0 25%;
+        max-width: 25%;
+     }
+  
+     .logo-card img {
+        width: 60px;
+        height: 60px;
+     }
+  
+     .prev, .next {
+        padding: 8px;
+     }
+  }
+  
