@@ -1,5 +1,61 @@
 var noticias = [
   {
+    fecha: "15 de agosto de 2024",
+    area: "Turismo",
+    titulo: "🍺Con más de 35 productores cerveceros, se realizó la 10° Edición de la Degustación de Cervezas Artesanales de Invierno.",
+    descripcion: "👉🏻En MuniTv te mostramos lo que se vivió durante la noche que contó, además, con Dj en vivo, la participación del artista plástico Gabriel Milloc y servicio de gastronomía.",
+    imagen: "images/noticias/turismo/degustacion.png",
+    link:"https://www.instagram.com/reel/C-qktw4Smod/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "13 de agosto de 2024",
+    area: "Secretaria",
+    titulo: "Reunión para fortalecer la cooperación en innovación y nuevas tecnologías",
+    descripcion: "✅El intendente Fabián Cagliardi, recibió al presidente de la Cámara de Comercio Argentino-Israelí, Mario Montoto para fortalecer la cooperación en innovación y nuevas tecnologías.<br><br>👏🏻El objetivo del encuentro es fortalecer los vínculos entre Berisso y la Cámara, para generar proyectos que incentiven la generación de empleo y el desarrollo tecnológico en la ciudad.",
+    imagen: "images/noticias/secretaria/fortalecimiento.png",
+    link:"https://www.instagram.com/p/C-k5HnixYBz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "12 de agosto de 2024",
+    area: "Agraria",
+    titulo: "✂️🍇TALLER PODA DE VID🍇✂️",
+    descripcion: "👉🏼Desde la Secretaria de Producción, lxs invitamos a participar del Taller: Poda de Vid- Manejo agroecológico.",
+    imagen: "images/noticias/agraria/poda.png",
+    link:"https://www.instagram.com/p/C-kfwBxx3wQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "12 de agosto de 2024",
+    area: "Turismo",
+    titulo: "✅En MuniTv, te presentamos el ciclo que permite conocer aún más la historia de Berisso.",
+    descripcion: "👉🏻De la mano de Daniela Mondelo, guía turística y referente del Museo a Cielo Abierto Calle Nueva York, te contamos anécdotas, vivencias y el surgimiento y auge de los frigoríficos, los conventillos y personalidades de la época.",
+    imagen: "images/noticias/turismo/daniela.png",
+    link:"https://www.instagram.com/p/C-jIndEhEyc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "10 de agosto de 2024",
+    area: "Turismo",
+    titulo: "Nota con integrantes del Teatro Comunitario de Berisso",
+    descripcion: "📺En MuniTv, compartimos la nota con integrantes del Teatro Comunitario de Berisso. El proyecto, que inició en 2005, se instaló en el barrio Nueva York, y se consolida como un espacio que busca, a través del arte, generar una transformación individual y colectiva.",
+    imagen: "images/noticias/turismo/munitvteatro.png",
+    link:"https://www.instagram.com/reel/C-d7zEhh-nb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "09 de agosto de 2024",
+    area: "Agraria",
+    titulo: "SEMBRAR COMUNIDAD",
+    descripcion: "Comenzamos a desarrollar el taller de “Sembrar Comunidad” una iniciativa conjunta entre la Dirección de Acción Social y la Dirección de Agraria. Este taller se realiza con el fin de fomentar la autogestión alimentaria y fortalecer el tejido social a través de la creación de huertas en centros comunitarios, comedores y merenderos.<br>Agradecemos a todos los que participaron, por su compromiso y dedicación.",
+    imagen: "images/noticias/agraria/sembrar.png",
+    link:"https://www.instagram.com/reel/C-Yh021SPmv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "09 de agosto de 2024",
+    area: "Turismo",
+    titulo: "ALOJATE EN BERISSO EN EL HOSTEL RÍO DE ENERO💙",
+    descripcion: "🏠Es una casa tradicional construida con chapa de zinc y madera, que funciona como Hostel hace más de 12 años🕰️<br><br>🏨Cuenta con habitaciones privadas y compartidas con todo el equipamiento necesario, y con capacidad para alojar a 32 personas👥<br><br>📍Ubicado en Avenida Río de Janeiro entre 161 y 162 número 3955, Berisso 🙌🏻",
+    imagen: "images/noticias/turismo/rioenero.png",
+    link:"https://www.instagram.com/reel/C-a9E6_vCrH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "07 de agosto de 2024",
     area: "Secretaria",
     titulo: "✅En los últimos 6 meses, estuvimos trabajando para potenciar el turismo, la industria, el trabajo y la producción local.",
