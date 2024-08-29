@@ -1901,6 +1901,150 @@ const actividades = [
         precio: "xx.xx",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "30/08/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "30/08/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/fajre.png",
+        nombre: "Cena por pasos en Fajre",
+        descripcion: "Te esperamos desde las 21:00hs en Calle 11 N°4077 e/ 162n y 163 con reserva previa. Organiza Restaurante Fajre y Hogar Árabe Argentino de Berisso.",
+        fecha: "30/08/2024",
+        hora: "21:00",
+        precio: "xx.xx",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/30-8.png",
+        nombre: "Arte Rodante",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "30/08/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "31/08/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/visita.png",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "31/08/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "31/08/2024",
+        hora: "14:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "31/08/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "31/08/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/31-8.png",
+        nombre: "La Gomería",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "31/08/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "01/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    /*{
+        imagen: "./assets/actividades/julio2024/islaPaulino26al28-07.png",
+        nombre: "Experiencia Isla Paulino",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003). Organiza Cámara de Turismo Berisso. ",
+        fecha: "01/09/2024",
+        hora: "10:00",
+        precio: "XX.XXX",
+        categoria: "paseos"
+    },*/
+    {
+        imagen: "./assets/actividades/junio2024/peatNY2.jpg",
+        nombre: "Calle Nueva York Peatonal",
+        descripcion: "Los invitamos el próximo Domingo 1 de septiembre a partir de las 11hs, a la Calle Nueva York Peatonal, donde reunimos distintas propuestas como visitas guiadas🏛️, música en vivo🎤, gastronomía🍟, y mucho más! No te lo pierdas🥳<br>🙌🏻¡Entrada libre y gratuita!",
+        fecha: "01/09/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "01/09/2024",
+        hora: "14:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "01/09/2024",
+        hora: "16:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/atmosfera.png",
+        nombre: "Átmosfera Carnelli",
+        descripcion: "Veni a disfrutar de este show en Sala TCB - Nueva York Y Marsella. Organiza Teatro Comunitario de Berisso.",
+        fecha: "01/09/2024",    
+        hora: "19:00",
+        precio: "XX.XXX",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 

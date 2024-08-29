@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "29 de agosto de 2024",
+    area: "Agraria",
+    titulo: "🌱Entrega de Certificados del Taller de huerta comunitaria “Sembrar Comunidad”",
+    descripcion: "👉🏻Se realizó la entrega de diplomas y de semillas de temporada, correspondientes al cierre del Taller de Huerta, llevado a cabo en el marco del Programa “Sembrar Comunidad”, una propuesta impulsada en conjunto por la Dirección de Acción Social y la Dirección de Asuntos Agrarios...",
+    imagen: "images/noticias/agraria/TallerDeHuerta.png",
+    link:"https://www.instagram.com/p/C_OLRuHRQ4Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "28 de agosto de 2024",
+    area: "D.Productivos",
+    titulo: "ENTREGA DE CERTIFICADOS A LOS EGRESADOS DE LA CAPACITACIÓN PARA EL FORTALECIMIENTO DE EMPRENDIMIENTOS 👨🏻‍🎓👩‍🎓",
+    descripcion: "Ayer por la tarde, en las instalaciones del Centro de Formación Laboral 404 de nuestra ciudad, concluyó la Capacitación para el Fortalecimiento de Emprendimientos, dictada por profesionales del equipo de la Escuela Productiva Bonaerense, dependiente del Ministerio de Producción de la provincia de Buenos Aires...",
+    imagen: "images/noticias/d.productivos/CertificadosEmprendedores.png",
+    link:"https://www.instagram.com/p/C_N0fN5xt0D/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "15 de agosto de 2024",
     area: "Turismo",
     titulo: "🍺Con más de 35 productores cerveceros, se realizó la 10° Edición de la Degustación de Cervezas Artesanales de Invierno.",
