@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "1 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🌟 ¡El evento que estabas esperando está por llegar!",
+    descripcion: "🏝️¡Preparáte para la 2° Edición del Festival 'De Orilla a Orilla' !Un encuentro entre Berisso y Ensenada inolvidable donde la magia de la cultura, el arte y la naturaleza se fusionan para crear una experiencia única 'ENTRE LAS ISLAS'<br>🧡Este 15 de Septiembre, disfrutá de el festival que te llevará más allá de lo imaginado.",
+    imagen: "images/noticias/turismo/orilla.png",
+    link:"https://www.instagram.com/reel/C_WYaTPvqvI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "30 de agosto de 2024",
+    area: "Turismo",
+    titulo: "CALLE NUEVA YORK PEATONAL: TERCERA EDICIÓN",
+    descripcion: "¡El domingo 1 de Septiembre, a partir de las 11hs, te esperamos para disfrutar de una jornada llena de propuestas para todos los gustos!",
+    imagen: "images/noticias/turismo/ny2.png",
+    link:"https://www.instagram.com/p/C_LT0sjMixC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "30 de agosto de 2024",
+    area: "Agraria",
+    titulo: "TALLER DE PODA Y MANEJO AGROECOLÓGICO👩🏻‍🌾🧑🏻‍🌾",
+    descripcion: "👉🏼El martes pasado se llevo adelante el Taller de poda y Manejo agroecológico a cargo de técnicos de la Secretaría de Producción con la participación de mas de 25 inscriptos.",
+    imagen: "images/noticias/agraria/tallerPoda.png",
+    link:"https://www.instagram.com/p/C_TInUfRAkF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "29 de agosto de 2024",
     area: "Agraria",
     titulo: "🌱Entrega de Certificados del Taller de huerta comunitaria “Sembrar Comunidad”",
