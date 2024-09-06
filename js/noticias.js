@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "6 de septiembre de 2024",
+    area: "Secretaria",
+    titulo: "CURSO OFICIAL DE MANIPULADORES DE ALIMENTOS🥫",
+    descripcion: "⏰Con una carga horaria de 7 (siete) horas cat. distribuidos en una clase presencial, una actividad asincrónica y evaluación final, te invitamos a que te sumes para obtener el carnet oficial de manipulador de alimentos con validez en todo el país por el término de 3 (tres) años.",
+    imagen: "images/noticias/secretaria/ManAlim06-09.png",
+    link:"https://www.instagram.com/p/C_lEQ4Jxtr9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "5 de septiembre de 2024",
+    area: "Secretaria",
+    titulo: "🧺Mercado de la Ribera",
+    descripcion: "🗓️Domingo 8 de septiembre<br>🕣A partir de las 10 hs.<br>📍Detrás de la pista de atletismo",
+    imagen: "images/noticias/secretaria/Mercado06-09.png",
+    link:"https://www.instagram.com/p/C_gYn15yam9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "1 de septiembre de 2024",
     area: "Turismo",
     titulo: "🌟 ¡El evento que estabas esperando está por llegar!",
