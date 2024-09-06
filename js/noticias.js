@@ -1,6 +1,14 @@
 var noticias = [
   {
     fecha: "6 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "COLOCACIÓN DE CARTELERÍA SEÑALÉTICA DE LA COOPERATIVA DE LA COSTA 🍷",
+    descripcion: "👉🏼Ayer por la tarde, en distintos puntos de la ciudad, se realizó la colocación de carteles señaléticos de la planta elaboradora de vinos de la Cooperativa de la Costa con el objetivo de visibilizar las actividades turísticas que allí se llevan adelante como visitas guiadas, degustaciones y demás.",
+    imagen: "images/noticias/turismo/cartelTur.png",
+    link:"https://www.instagram.com/p/C_lcQW7PSvi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "6 de septiembre de 2024",
     area: "Secretaria",
     titulo: "CURSO OFICIAL DE MANIPULADORES DE ALIMENTOS🥫",
     descripcion: "⏰Con una carga horaria de 7 (siete) horas cat. distribuidos en una clase presencial, una actividad asincrónica y evaluación final, te invitamos a que te sumes para obtener el carnet oficial de manipulador de alimentos con validez en todo el país por el término de 3 (tres) años.",
