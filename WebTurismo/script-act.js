@@ -2234,6 +2234,177 @@ const actividades = [
         precio: "$XX.XXX",
         categoria: "paseos"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "13/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "13/09/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/delta.png",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "13/09/2024",
+        hora: "20:30",
+        precio: "$X.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/13-09-1.png",
+        nombre: "Noche de Tango y Flamenco",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "13/09/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/13-09-2.png",
+        nombre: "Espíritu Stone Homenaje",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "13/09/2024",
+        hora: "23:45",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "14/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/ruta14-09.png",
+        nombre: "Tours Gratuitos a Pie – Ruta de la Diversidad Cultural ",
+        descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Colectividad Belarusa (Club Vostok de Berisso), el Club Eslovaco Argentino de Berisso, y finalizará en la Sociedad Cultural Búlgara Iván Vazov✨<br>☎️Inscripciones al 221-571-6163<br>Se suspende por lluvias 🌧️",
+        fecha: "14/09/2024",
+        hora: "10:30",
+        precio: "XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "14/09/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "14/09/2024",
+        hora: "17:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "14/09/2024",
+        hora: "17:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "14/09/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/14-09.png",
+        nombre: "Jota y los Magníficos junto a Matías Alba ",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "14/09/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "15/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/peatonal15-09.png",
+        nombre: "Calle Nueva York Peatonal en el marco del Desembarco Simbólico",
+        descripcion: "Los invitamos el próximo Domingo 15 de septiembre a partir de las 11hs, a la Calle Nueva York Peatonal, donde reunimos distintas propuestas como visitas guiadas🏛️, música en vivo🎤, gastronomía🍟, y mucho más! No te lo pierdas🥳<br>🙌🏻¡Entrada libre y gratuita!",
+        fecha: "15/09/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/orilla.png",
+        nombre: "De Orilla a Orilla 'Festival Cultural Entre Islas'",
+        descripcion: "Te esperamos este domingo 15 de septiembre para disfrutar de la segunda edición De Orilla a Orilla. Organiza Dirección de Cultura.",
+        fecha: "15/09/2024",
+        hora: "11:00",
+        precio: "xx.xx",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi.png",
+        nombre: "Apertura del Patio gastronómico del Desembarco de los Inmigrantes",
+        descripcion: "Te esperamos a las 12:00hs en explanada del Puerto de La Plata. Organiza la Asociación de Entidades Extranjeras de Berisso.",
+        fecha: "15/09/2024",
+        hora: "12:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi.png",
+        nombre: "Desembarco de los Inmigrantes",
+        descripcion: "Te esperamos a las 15:00hs en explanada del Puerto de La Plata. Organiza la Asociación de Entidades Extranjeras de Berisso.",
+        fecha: "15/09/2024",
+        hora: "15:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "15/09/2024",
+        hora: "17:00",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/15-09.png",
+        nombre: "Pablo Riquero Murga y Canciones Montevideanas",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "15/09/2024",
+        hora: "20:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 

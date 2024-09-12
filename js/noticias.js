@@ -1,5 +1,61 @@
 var noticias = [
   {
+    fecha: "12 de septiembre de 2024",
+    area: "Secretaria",
+    titulo: "CAPACITACIÓN DE MANIPULACIÓN DE ALIMENTOS🥫",
+    descripcion: "🍅Ayer se llevó adelante la Capacitación de Manipulación de Alimentos, es la segunda capacitación que se realiza desde la Secretaría de Producción en conjunto con la Secretaría de Salud.<br>🤝🏻Con el objetivo de acompañar a las y los elaboradores de alimentos que tienen algun emprendimiento de este tipo con fines comerciales.<br>🔖Ademas se llevó a cabo la explicación de la ordenanza de PUPAAs y como desde la Secretaría de Producción se los acompaña para obtener una habilitación municipal y/o provincial.",
+    imagen: "images/noticias/secretaria/manAlim11-09.png",
+    link:"https://www.instagram.com/p/C_0eBlzx7NQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "10 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "Descubrí Berisso: Tours Gratuitos a Pie – Ruta de la Diversidad Cultural 🇪🇸 🇧🇬",
+    descripcion: "¡Vivimos la 47 Fiesta Provincial del Inmigrante y Fiesta Nacional de la Inmigración!<br>Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso 💙 Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Sociedad Española de Berisso y la Sociedad Cultural Búlgara Iván Vazov✨...",
+    imagen: "images/noticias/turismo/ruta15-09.png",
+    link:"https://www.instagram.com/p/C_tlCnSv0qz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "9 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "CALLE NUEVA YORK PEATONAL: EDICIÓN ESPECIAL-en el marco del Desembarco Simbólico de la 47 Fiesta Provincial del Inmigrante y Nacional de la Inmigración 🚢🤍",
+    descripcion: "¡El domingo 15 de Septiembre, a partir de las 11hs, te esperamos para disfrutar de una jornada llena de propuestas para todos los gustos!",
+    imagen: "images/noticias/turismo/ny15-09.png",
+    link:"https://www.instagram.com/p/C_s91WpP1M-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "9 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🟢 Encendido de la Lámpara Votiva",
+    descripcion: "🔥La antorcha, fue trasladada desde la Colectividad Griega por jóvenes integrantes de las colectividades hasta el Monumento a los Inmigrantes en el Parque Cívico, donde se efectuó el encendido de la lámpara votiva.<br>👉🏻En esta oportunidad fue el cuerpo de Bomberos Voluntarios de Berisso, quienes encendieron la lámpara, en el marco de la conmemoración del 100 aniversario del cuartel.",
+    imagen: "images/noticias/turismo/lamp.png",
+    link:"https://www.instagram.com/p/C_rE6icSrik/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "9 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🏃🏻‍♀️🏃🏻‍♂️Posta del Inmigrante y encendido de la lámpara votiva",
+    descripcion: "👉🏼En el marco de la 47° Fiesta Provincial del Inmigrante, se realizó la Posta y encendido de la lámpara votiva en el Monumento a los Inmigrantes emplazado en el Parque Cívico.",
+    imagen: "images/noticias/turismo/posta.png",
+    link:"https://www.instagram.com/reel/C_q-8Q9y3zC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "8 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "Productores y productoras del Mercado de la Ribera",
+    descripcion: "🧑🏻‍🌾Ellos son los productores y productoras del Mercado de la Ribera, y tienen para ofrecerte productos únicos y de calidad, que reflejan la riqueza de nuestra tierra.",
+    imagen: "images/noticias/turismo/prod.png",
+    link:"https://www.instagram.com/p/C_qgCqNRRNT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "7 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "¡Arrancó la Fiesta del Inmigrante! 🎉",
+    descripcion: "👏🏻Una vez más nos volvemos a encontrar para celebrar nuestras raíces y la historia que nos une.<br>Los esperamos a todos y todas para disfrutar juntos de la Fiesta Provincial del Inmigrante.",
+    imagen: "images/noticias/turismo/inmi.png",
+    link:"https://www.instagram.com/reel/C_l96D-ST2R/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "6 de septiembre de 2024",
     area: "Turismo",
     titulo: "COLOCACIÓN DE CARTELERÍA SEÑALÉTICA DE LA COOPERATIVA DE LA COSTA 🍷",
@@ -13,7 +69,7 @@ var noticias = [
     titulo: "CURSO OFICIAL DE MANIPULADORES DE ALIMENTOS🥫",
     descripcion: "⏰Con una carga horaria de 7 (siete) horas cat. distribuidos en una clase presencial, una actividad asincrónica y evaluación final, te invitamos a que te sumes para obtener el carnet oficial de manipulador de alimentos con validez en todo el país por el término de 3 (tres) años.",
     imagen: "images/noticias/secretaria/ManAlim06-09.png",
-    link:"https://www.instagram.com/p/C_lEQ4Jxtr9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    link:"https://www.instagram.com/p/C_vZwzCxXYO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
     fecha: "5 de septiembre de 2024",
