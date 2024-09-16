@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "16 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🚢 Desembarco Simbólico de los Inmigrantes",
+    descripcion: "🧳Como cada año, en la explanada del Puerto La Plata, vivimos juntos uno de los momentos más emotivos de la Fiesta del Inmigrante.<br>Llegaron desde distintos lugares del mundo, en busca de sueños, y una vez más, recordamos a todas aquellas personas que hicieron grande a nuestra ciudad.",
+    imagen: "images/noticias/turismo/Inmi16-09.png",
+    link:"https://www.instagram.com/reel/C_9DGzPyKuJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "15 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "¡Berisso ya está viviendo la 47° Fiesta Provincial del Inmigrante!",
+    descripcion: "👉🏻 ¡Te esperamos para disfrutar de la fiesta más grande de la provincia de Buenos Aires!<br>🎉 A partir del 28 de septiembre, no te pierdas los festivales en el Parque Cívico.",
+    imagen: "images/noticias/turismo/Inmi15-09.png",
+    link:"https://www.instagram.com/reel/C_51uzCRzbR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "12 de septiembre de 2024",
     area: "Secretaria",
     titulo: "CAPACITACIÓN DE MANIPULACIÓN DE ALIMENTOS🥫",
