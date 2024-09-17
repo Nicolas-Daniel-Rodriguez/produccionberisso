@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "17 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🌸¡Celebra el Día de la Primavera en el Festival Cultural el 21 de septiembre!",
+    descripcion: "👉🏻Desde las 14 hs en el Parque Cívico, podrás disfrutar de una jornada completa con:<br><br>🍔Gastronomía<br>🛍️Artesanos y emprendedores<br>🎸Bandas del Consejo del Rock<br>🎧DJ’s en vivo<br><br>¡Te esperamos para disfrutar juntos de una primavera llena de música y cultura! 🌼🌺",
+    imagen: "images/noticias/turismo/DiaPrim2024.png",
+    link:"https://www.instagram.com/p/C__HAcqRa-Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "16 de septiembre de 2024",
     area: "Turismo",
     titulo: "🚢 Desembarco Simbólico de los Inmigrantes",
