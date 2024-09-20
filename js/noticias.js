@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "19 de septiembre de 2024",
+    area: "Agraria",
+    titulo: "REUNIÓN CON EL SECTOR APÍCOLA 🍯🐝",
+    descripcion: "🍯Este Miércoles 18 de septiembre se realizó una reunión convocada por la Dirección de Asuntos Agrarios y la Coordinación de Unidades Productivas de la Secretaría de Producción, con el sector Apícola, tanto productores independientes como organizados (APABE). En dicha reunión contamos con la presencia del Director Apícola del MDA, Ing. Agr. Ariel Guardia Lopez...",
+    imagen: "images/noticias/agraria/apicola19-09.jpeg",
+    link:"https://www.instagram.com/p/DAHJK43S1zK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "17 de septiembre de 2024",
     area: "Turismo",
     titulo: "🌸¡Celebra el Día de la Primavera en el Festival Cultural el 21 de septiembre!",
