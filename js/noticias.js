@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "24 de septiembre de 2024",
+    area: "Secretaria",
+    titulo: "CAPACITACIÓN EN LENGUA DE SEÑAS 👌",
+    descripcion: "👉🏼Durante los 4 viernes de octubre se llevará a cabo, en el bar Km0 de nuestra ciudad, ubicado en calle Nueva York y 169, una capacitación básica en lenguaje de señas.<br><br>⏰Las clases serán de 16 a 18hs aproximadamente y estarán orientadas a prestadores turísticos y trabajadores de atención al público en locales gastronómicos, para que estén en condiciones de recibir contingentes o personas hipoacúsicas. Las mismas serán con cupos limitados. Link de inscripción en historias!",
+    imagen: "images/noticias/secretaria/lenguaSenas.jpeg",
+    link:"https://www.instagram.com/p/DAUSrTOSr_8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "19 de septiembre de 2024",
     area: "Agraria",
     titulo: "REUNIÓN CON EL SECTOR APÍCOLA 🍯🐝",
