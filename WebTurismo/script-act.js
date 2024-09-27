@@ -2540,6 +2540,177 @@ const actividades = [
         precio: "$XX.XX",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "27/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/poemas27-09.png",
+        nombre: "🍵📚 Merienda Literaria: Florecen los Poemas 🌸🖋️",
+        descripcion: "Te invitamos a una tarde donde la poesía florece entre charlas y café. Vení a disfrutar de la lectura compartida, intercambiar palabras y sentir la magia de los versos.<br>📍 Casa de Culturas - Av. Montevideo 821, Berisso",
+        fecha: "27/09/2024",
+        hora: "17:00",
+        precio: "X.XXX",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi.png",
+        nombre: "Muestra fotográfica: 'Raíces'",
+        descripcion: "Te invitamos a esta muestra fotográfica en Casa de Culturas - Av. Montevideo 821, Berisso.",
+        fecha: "27/09/2024",
+        hora: "18:30",
+        precio: "X.XXX",
+        categoria: "eventos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "27/09/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/27-09.png",
+        nombre: "Duo Cynthia Aguirre y Alejandro Rodriguez",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "27/09/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "28/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi28-29.png",
+        nombre: "🎉 FESTIVAL DE COLECTIVIDADES",
+        descripcion: "¡Este fin de semana abre la Carpa del Inmigrante!<br>-A partir de las 12:00 hs, calle montevideo entre 10 y 11 (Centro Cívico)<br><br>🍝 Stands de Comidas Típicas<br>💃Shows de Danzas<br>🎨Paseo de Artesanos<br>📌 Entrada libre y gratuita.",
+        fecha: "28/09/2024",
+        hora: "12:00",
+        precio: "X.XXX",
+        categoria: "eventos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "28/09/2024",
+        hora: "15:00",
+        precio: "$XX.XX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "28/09/2024",
+        hora: "16:30",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/teatro.png",
+        nombre: "TCB cumplimos 19 años",
+        descripcion: "Celebrá con nosotros nuestros 19 años con esta doble función teatral 🎭🎉<br><br>📍SALA TCB - Nueva York y Marsella (2 y 169) Berisso",
+        fecha: "28/09/2024",
+        hora: "19:00",
+        precio: "$XX.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi28.png",
+        nombre: "👑 PRESENTACIÓN DE REPRESENTANTES",
+        descripcion: "Este sábado estaremos conociendo a los Representantes Infantiles, y a los postulantes a Embajadora y Embajador Provincial del Inmigrante.<br><br>⏰ 20:00 hs<br>📍 Carpa del Inmigrante, Montevideo entre 10 y 11<br>📌 Entrada libre y gratuita.",
+        fecha: "28/09/2024",
+        hora: "20:00",
+        precio: "$XX.XXX",
+        categoria: "eventos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "28/09/2024",
+        hora: "20:00",
+        precio: "X.XXX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/28-09.png",
+        nombre: "Adrián Stoppelman",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "28/09/2024",
+        hora: "21:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "29/09/2024",
+        hora: "07:00",
+        precio: "$XX.XX",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/inmi28-29.png",
+        nombre: "🎉 FESTIVAL DE COLECTIVIDADES",
+        descripcion: "¡Este fin de semana abre la Carpa del Inmigrante!<br>-A partir de las 12:00 hs, calle montevideo entre 10 y 11 (Centro Cívico)<br><br>🍝 Stands de Comidas Típicas<br>💃Shows de Danzas<br>🎨Paseo de Artesanos<br>📌 Entrada libre y gratuita.",
+        fecha: "29/09/2024",
+        hora: "12:00",
+        precio: "X.XXX",
+        categoria: "eventos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/29-09-1.png",
+        nombre: "“Suena Litoral“",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "29/09/2024",
+        hora: "13:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "29/09/2024",
+        hora: "16:30",
+        precio: "$XX.XXX",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/29-09-2.png",
+        nombre: "“ La que regresa “ es Hebe Grbin",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "29/09/2024",
+        hora: "20:00",
+        precio: "XX.XX",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/atmosfera.png",
+        nombre: "Obra de Teatro 'Atmósfera Carnelli'",
+        descripcion: "Acércate este domingo a la SALA TCB (Nueva York y Marsella) y disfruta de esta obra de teatro del Director Nelson Mallach. Organiza SALA TCB.",
+        fecha: "29/09/2024",
+        hora: "20:00",
+        precio: "$XX.XX",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
