@@ -1,5 +1,45 @@
 var noticias = [
   {
+    fecha: "30 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "Disfrutamos juntos la primera semana de festivales y patio de comidas típicas.<br><br>Los esperamos a todos el próximo fin de semana, para vivir la elección de los embajadores culturales.",
+    imagen: "images/noticias/turismo/inmi30-09-2.png",
+    link:"https://www.instagram.com/reel/DAhQfi5yRPq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "29 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "✅Presentación de Representantes Culturales",
+    descripcion: "👉🏻En el primer día del Festival de Colectividades en el Parque Cívico de Berisso, disfrutamos de la presentación de los representantes culturales infantiles y juveniles.<br><br>¡Te esperamos mañana para seguir disfrutando de la fiesta más grande de la provincia de Buenos Aires!",
+    imagen: "images/noticias/turismo/inmi30-09-1.png",
+    link:"https://www.instagram.com/p/DAey0opNcBj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "29 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "¡Comenzó la fiesta y la vivimos con todo!🎉",
+    descripcion: "Te esperamos en la Carpa de las Colectividades en el Parque Cívico, para disfrutar todos juntos de nuestra historia y las raíces que nos unen.<br><br>👉🏻Mañana a partir de las 12 hs. acercate a descubrir nuestra cultura, gastronomía y bailes típicos.",
+    imagen: "images/noticias/turismo/inmi30-09.png",
+    link:"https://www.instagram.com/reel/DAeqIgmyqSy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "28 de septiembre de 2024",
+    area: "Turismo",
+    titulo: "✨️ EN VIVO DESDE LA FIESTA PROVINCIAL DEL INMIGRANMTE ✨️",
+    descripcion: "🔴 HOY no te pierdas el programa especial de #SomosBonaerenses desde #Berisso para celebrar la 47° Fiesta Provincial del Inmigrante...",
+    imagen: "images/noticias/turismo/28-09.png",
+    link:"https://www.instagram.com/p/DAdabY0x7Ak/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "28 de septiembre de 2024",
+    area: "Empleo",
+    titulo: "PROYECTOS Y PROPUESTAS DE FORMACIÓN DE OFICIOS 👩🏻‍🏫🧑🏻‍🔧",
+    descripcion: "📅En el día de ayer Javier Ibarra, Coordinador de la Oficina de Empleo Municipal, dependiente de la Secretaría de Producción, se reunió con el director del CFL 404 (Damián D'Ambrosio) para ultimar detalles sobre proyectos y propuestas de formación en oficios para el 2025, destinados a los vecinos de Berisso los cuales serán financiados por el Ministerio de Trabajo.<br><br>👉🏼Apostando así a la educación en formación como herramienta esencial para la insercion laboral en nuestra región.",
+    imagen: "images/noticias/empleo/30-09.png",
+    link:"https://www.instagram.com/p/DAcSULdtIkb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "26 de septiembre de 2024",
     area: "Turismo",
     titulo: "🎉Festival de Colectividades",
