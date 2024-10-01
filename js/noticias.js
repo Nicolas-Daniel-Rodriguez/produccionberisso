@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "01 de octubre de 2024",
+    area: "Turismo",
+    titulo: "✅Comenzaron los festivales en la Carpa del Inmigrante.",
+    descripcion: "👉🏻Durante el primer fin de semana, MuniTv dialogó con la actual Embajadora Provincial del Inmigrante, Martina Radziunas y el Intendente de Berisso, Fabián Cagliardi.",
+    imagen: "images/noticias/turismo/inmi01-10.png",
+    link:"https://www.instagram.com/reel/DAjxZYHS9hE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "30 de septiembre de 2024",
     area: "Turismo",
     titulo: "🎉47° Fiesta Provincial del Inmigrante",
