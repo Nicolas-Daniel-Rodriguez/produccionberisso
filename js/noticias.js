@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "02 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉Festival de Colectividades",
+    descripcion: "¡Este fin de semana abre nuevamente la Carpa del Inmigrante!<br><br>👉🏻Viernes a partir de las 20:00 hs.<br>👉🏻Sábado y domingo a partir de las 12:00 hs, Av. Montevideo entre 10 y 11 (Centro Cívico).<br><br>🍝 Stands de Comidas Típicas<br>💃Shows de Danzas<br>🎨Paseo de Artesanos<br>📌 Entrada libre y gratuita.",
+    imagen: "images/noticias/turismo/festival2.png",
+    link:"https://www.instagram.com/reel/DAo2akZSCLn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "02 de octubre de 2024",
+    area: "Turismo",
+    titulo: "✅Berisso participó de la Feria Internacional del Turismo 2024",
+    descripcion: "🗺️Participamos de la 28° edición de la Feria Internacional de Turismo (FIT) que se desarrolló en el predio de la Rural de Palermo.<br><br>👉🏻La Feria Internacional de Turismo ofrece stands de las provincias argentinas y de más de 40 países de las distintas regiones del mundo.<br><br>👏🏻Promocionamos y difundimos las actividades productivas, culturales y turísticas de nuestra ciudad, y presentamos la marca “Descubrí Berisso”.",
+    imagen: "images/noticias/turismo/fit01-10.png",
+    link:"https://www.instagram.com/p/DAoxezHySV2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "01 de octubre de 2024",
     area: "Turismo",
     titulo: "✅Comenzaron los festivales en la Carpa del Inmigrante.",
