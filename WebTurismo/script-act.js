@@ -2717,7 +2717,7 @@ const actividades = [
         descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
         fecha: "04/10/2024",
         hora: "07:00",
-        precio: "$XX.XX",
+        precio: "Arancelada",
         categoria: "pesca"
     },
     {
@@ -2726,7 +2726,7 @@ const actividades = [
         descripcion: "En la Carpa del Inmigrante, Centro Cívico e/ 10 y 11. Organiza la Asociación de Entidades Extranjeras.",
         fecha: "04/10/2024",
         hora: "20:00",
-        precio: "X.XXX",
+        precio: "Gratuita",
         categoria: "eventos"
     },
     {
@@ -2735,7 +2735,7 @@ const actividades = [
         descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
         fecha: "04/10/2024",
         hora: "20:00",
-        precio: "X.XXX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     {
@@ -2744,7 +2744,7 @@ const actividades = [
         descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
         fecha: "04/10/2024",
         hora: "21:00",
-        precio: "XX.XX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     {
@@ -2753,7 +2753,7 @@ const actividades = [
         descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
         fecha: "05/10/2024",
         hora: "07:00",
-        precio: "$XX.XX",
+        precio: "Arancelada",
         categoria: "pesca"
     },
     {
@@ -2762,7 +2762,7 @@ const actividades = [
         descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
         fecha: "05/10/2024",
         hora: "11:00",
-        precio: "XX.XX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2771,7 +2771,7 @@ const actividades = [
         descripcion: "¡Este fin de semana abre nuevamente la Carpa del Inmigrante!<br>-A partir de las 12:00 hs, Av. Montevideo entre 10 y 11 (Centro Cívico)<br><br>🍝 Stands de Comidas Típicas<br>💃Shows de Danzas<br>🎨Paseo de Artesanos<br>📌 Entrada libre y gratuita.",
         fecha: "05/10/2024",
         hora: "12:00",
-        precio: "X.XXX",
+        precio: "Gratuita",
         categoria: "eventos"
     },
     {
@@ -2780,7 +2780,7 @@ const actividades = [
         descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
         fecha: "05/10/2024",
         hora: "15:00",
-        precio: "$XX.XX",
+        precio: "Gratuita",
         categoria: "paseos"
     },
     {
@@ -2789,7 +2789,7 @@ const actividades = [
         descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
         fecha: "05/10/2024",
         hora: "16:30",
-        precio: "$XX.XXX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2798,7 +2798,7 @@ const actividades = [
         descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
         fecha: "05/10/2024",
         hora: "16:30",
-        precio: "$XX.XXX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2807,8 +2807,8 @@ const actividades = [
         descripcion: "Acércate este sábado en la Casa de Culturas en Av. Montevideo 821. Organiza Dirección de Cultura.",
         fecha: "05/10/2024",
         hora: "20:00",
-        precio: "$XX.XX",
-        categoria: "shows"
+        precio: "Gratuita",
+        categoria: "cultura"
     },
     {
         imagen: "./assets/actividades/octubre2024/inmi05-10.png",
@@ -2816,7 +2816,7 @@ const actividades = [
         descripcion: "En la Carpa del Inmigrante, Centro Cívico e/ 10 y 11. Organiza la Asociación de Entidades Extranjeras.",
         fecha: "05/10/2024",
         hora: "20:00",
-        precio: "X.XXX",
+        precio: "Gratuita",
         categoria: "eventos"
     },
     {
@@ -2825,7 +2825,7 @@ const actividades = [
         descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
         fecha: "05/10/2024",
         hora: "20:00",
-        precio: "X.XXX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     {
@@ -2834,7 +2834,7 @@ const actividades = [
         descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
         fecha: "05/10/2024",
         hora: "21:00",
-        precio: "XX.XX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     {
@@ -2843,7 +2843,7 @@ const actividades = [
         descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
         fecha: "05/10/2024",
         hora: "23:45",
-        precio: "XX.XX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     {
@@ -2852,7 +2852,7 @@ const actividades = [
         descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
         fecha: "06/10/2024",
         hora: "07:00",
-        precio: "$XX.XX",
+        precio: "Arancelada",
         categoria: "pesca"
     },
     {
@@ -2861,7 +2861,7 @@ const actividades = [
         descripcion: "¡Este fin de semana abre nuevamente la Carpa del Inmigrante!<br>-A partir de las 12:00 hs, Av. Montevideo entre 10 y 11 (Centro Cívico)<br><br>🍝 Stands de Comidas Típicas<br>💃Shows de Danzas<br>🎨Paseo de Artesanos<br>📌 Entrada libre y gratuita.",
         fecha: "06/10/2024",
         hora: "12:00",
-        precio: "X.XXX",
+        precio: "Gratuita",
         categoria: "eventos"
     },
     {
@@ -2870,7 +2870,7 @@ const actividades = [
         descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) Se realizará un recorrido por el Rio Santiago🗺️ Bajaremos en la isla Paulino e iremos a la Quinta “Isabella”. Incluye una infusión☕️ Volveremos a las 17.30 hs. Es con reserva.",
         fecha: "06/10/2024",
         hora: "15:00",
-        precio: "$X.XXX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2879,7 +2879,7 @@ const actividades = [
         descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
         fecha: "06/10/2024",
         hora: "16:30",
-        precio: "$XX.XXX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2888,7 +2888,7 @@ const actividades = [
         descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
         fecha: "06/10/2024",
         hora: "16:30",
-        precio: "$XX.XXX",
+        precio: "Arancelada",
         categoria: "paseos"
     },
     {
@@ -2897,7 +2897,7 @@ const actividades = [
         descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
         fecha: "06/10/2024",
         hora: "20:00",
-        precio: "XX.XX",
+        precio: "Arancelada",
         categoria: "shows"
     },
     // Agrega más objetos para más actividades si es necesario
@@ -2939,7 +2939,7 @@ function renderizarActividades(actividades, page = 1) {
                 <p class="text-sm mb-2">${actividad.descripcion}</p>
                 <p class="text-sm mb-2">Fecha: ${actividad.fecha}</p>
                 <p class="text-sm mb-2">Hora: ${actividad.hora}</p>
-                <p class="text-sm mb-2">Precio: ${actividad.precio}</p>
+                <p class="text-sm mb-2">Actividad: ${actividad.precio}</p>
             </div>
         `;
 
