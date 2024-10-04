@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "04 de octubre de 2024",
+    area: "Turismo",
+    titulo: "✅¡Berisso ya está viviendo la 47° Fiesta Provincial del Inmigrante!",
+    descripcion: "🎉¡Te esperamos para disfrutar de la fiesta más grande de la provincia de Buenos Aires!<br><br>👉🏻No te pierdas los festivales en el Parque Cívico (Av. Montevideo e/ 10 y 11).",
+    imagen: "images/noticias/turismo/inmi04-10.png",
+    link:"https://www.instagram.com/reel/DAtDhqpRc8k/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "02 de octubre de 2024",
     area: "Turismo",
     titulo: "🎉Festival de Colectividades",
