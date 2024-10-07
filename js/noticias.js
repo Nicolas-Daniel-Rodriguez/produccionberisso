@@ -1,5 +1,69 @@
 var noticias = [
   {
+    fecha: "06 de octubre de 2024",
+    area: "Turismo",
+    titulo: "👧🏻🧒🏻Presentación de Embajadores Culturales Infantiles - Parte 1",
+    descripcion: "👏🏻Hoy disfrutamos de la presentación de las y los Embajadores Culturales Infantiles, que lucieron sus trajes típicos y mostraron sus danzas.<br><br>Gracias a cada uno por seguir manteniendo viva la memoria de nuestros abuelos inmigrantes.",
+    imagen: "images/noticias/turismo/inmi06-10-2.png",
+    link:"https://www.instagram.com/p/DAzNo_vyx0g/?utm_source=ig_web_copy_link"
+  },
+  {
+    fecha: "06 de octubre de 2024",
+    area: "Turismo",
+    titulo: "¡Felicitaciones Colectividad Irlandesa!🇮🇪☘️",
+    descripcion: "👉🏻Ayer se eligió a la Embajadora Cultural del Inmigrante periodo 2024-2024 y vivimos una noche de pura emoción.<br><br>👏🏻Felicidades a todas y cada una de las representantes y a sus colectividades por expresar con respeto y orgullo nuestra historia y costumbres.<br><br>Los esperamos a todos en la Carpa de los Inmigrantes para seguir disfrutando de esta increíble fiesta!",
+    imagen: "images/noticias/turismo/inmi06-10-1.png",
+    link:"https://www.instagram.com/reel/DAyaKc3RjCx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👏🏻La nueva Embajadora Cultural Provincial es Mora Dowling, de la Colectividad Irlandesa, mientras que Victoria Ochoa Di Pasquasio, de la Colectividad Italiana, fue designada como Vice Embajadora y María Romano, de la Colectividad Caboverdeana, fue elegida como Mejor Compañera.",
+    imagen: "images/noticias/turismo/inmi06-10.png",
+    link:"https://www.instagram.com/p/DAxQ2avNn3K/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👉🏻 En el marco de la Elección de la Embajadora Cultural, compartimos la presentación de las 20 representantes, que realizaron una pasada con traje típico, compartieron un mensaje y posteriormente, cada una ofreció un danza tradicional.",
+    imagen: "images/noticias/turismo/inmi05-10-4.png",
+    link:"https://www.instagram.com/p/DAw3sLENDuo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "Disfrutamos juntos de los festivales y patio de comidas típicas.<br><br>Los esperamos en breve, para vivir la elección de las embajadoras culturales.<br><br>📍Parque Cívico (Av. Montevideo e/ 10 y 11)",
+    imagen: "images/noticias/turismo/inmi05-10-3.png",
+    link:"https://www.instagram.com/reel/DAwnZ9HyQmj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👉🏻Compartimos la Elección del nuevo Embajador Cultural en la Carpa del Inmigrante.<br><br>👑Hoy no se pierdan la Elección de la Embajadora Cultural en el Parque Cívico (Av. Montevideo e/ 10 y 11).<br><br>👉🏻Los esperamos a partir de las 12 hs.",
+    imagen: "images/noticias/turismo/inmi05-10-2.png",
+    link:"https://www.instagram.com/reel/DAvpQDXRTYh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👏🏻El Jurado, conformado por figuras de la música, la danza, la comunicación y la oratoria, coronó como Embajador Cultural Provincial a Leandro Ponce, de la Colectividad Búlgara, mientras que Joaquín Dos Santos Desanti, de la Colectividad Italiana, fue designado como Vice Embajador.",
+    imagen: "images/noticias/turismo/inmi05-10-1.png",
+    link:"https://www.instagram.com/p/DAuflWBNPjT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👉🏻Compartimos la Elección del nuevo Embajador Cultural en la Carpa del Inmigrante en el Parque Cívico.<br><br>👏🏻Los representantes lucieron sus trajes típicos, mostraron sus danzas y brindaron un mensaje de unión, paz y respeto.",
+    imagen: "images/noticias/turismo/inmi05-10.png",
+    link:"https://www.instagram.com/p/DAuXL3BtlYo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "04 de octubre de 2024",
     area: "Turismo",
     titulo: "✅¡Berisso ya está viviendo la 47° Fiesta Provincial del Inmigrante!",
