@@ -10,7 +10,7 @@ var noticias = [
   {
     fecha: "08 de octubre de 2024",
     area: "Secretaria",
-    titulo: "☕️ MERIENDA & BORDADO",
+    titulo: "☕️ MERIENDA & BORDADO 🧵",
     descripcion: "Los invitamos el sábado 26 de octubre ⏰ a las 16hs en el 📍Mercado de la Ribera, para disfrutar de una tarde de merienda, que estará acompañado de un taller de bordado 🧵 donde podrás bordar tu propia tote bag 👜 con plantas nativas 🌿(esta incluido el kit personalizado, la tote bag, los hilos, las agujas y las imágenes).<br><br>💵Actividad arancelada<br>☎️Reservas al 221-571-6163 / 221-626-5384<br>⚠️Cupos limitados",
     imagen: "images/noticias/secretaria/merienda.png",
     link:"https://www.instagram.com/p/DA4QihOvhWh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
