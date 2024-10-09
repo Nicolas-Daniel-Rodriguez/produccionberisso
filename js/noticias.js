@@ -1,5 +1,37 @@
 var noticias = [
   {
+    fecha: "09 de octubre de 2024",
+    area: "Secretaria",
+    titulo: "JORNADA DE ASESORAMIENTO EN MONOTRIBUTO Y FACTURACIÓN",
+    descripcion: "👉🏼Esta actividad está impulsada por la Secretaría de Producción de la Municipalidad de Berisso y su correspondiente área de Unidades Productivas; en conjunto con el Consultorio Administrativo Contable para la Agricultura Familiar y la Dirección de Innovación Tecnológica para la Agricultura Familiar [Ministerio de Desarrollo Agrario PBA]<br><br>💵El objetivo de las jornadas es despejar dudas referidas a la facturación, trámites de inscripción, Cuenta DNI comercio y otros impuestos, de productores de Berisso que forman parte de las ferias de Mercados Bonaerenses o de la Agricultura familiar.",
+    imagen: "images/noticias/secretaria/monotributo14-10.png",
+    link:"https://www.instagram.com/p/DA51SW0RzCl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "08 de octubre de 2024",
+    area: "Secretaria",
+    titulo: "☕️ MERIENDA & BORDADO",
+    descripcion: "Los invitamos el sábado 26 de octubre ⏰ a las 16hs en el 📍Mercado de la Ribera, para disfrutar de una tarde de merienda, que estará acompañado de un taller de bordado 🧵 donde podrás bordar tu propia tote bag 👜 con plantas nativas 🌿(esta incluido el kit personalizado, la tote bag, los hilos, las agujas y las imágenes).<br><br>💵Actividad arancelada<br>☎️Reservas al 221-571-6163 / 221-626-5384<br>⚠️Cupos limitados",
+    imagen: "images/noticias/secretaria/merienda.png",
+    link:"https://www.instagram.com/p/DA4QihOvhWh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "08 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🎉47° Fiesta Provincial del Inmigrante",
+    descripcion: "👉🏻Compartimos la Elección de Mora Dowling, la nueva Embajadora Cultural, representante de la colectividad Irlandesa.<br><br>👉🏻Los esperamos el viernes a partir de las 12 hs. en la Carpa del Parque Cívico para seguir disfrutando de la gastronomía, los bailes típicos y nuestra cultura.",
+    imagen: "images/noticias/turismo/inmi09-10.png",
+    link:"https://www.instagram.com/reel/DA3sQyNuPeB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "08 de octubre de 2024",
+    area: "Secretaria",
+    titulo: "🧺Mercado de la Ribera",
+    descripcion: "🗓️Domingo 13 de octubre<br>🕣A partir de las 10 hs.<br>📍Detrás de la pista de atletismo",
+    imagen: "images/noticias/secretaria/mercado13-10.png",
+    link:"https://www.instagram.com/p/DA3ewiuPQoQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "06 de octubre de 2024",
     area: "Turismo",
     titulo: "👧🏻🧒🏻Presentación de Embajadores Culturales Infantiles - Parte 1",
