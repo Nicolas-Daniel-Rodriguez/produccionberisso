@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "13 de octubre de 2024",
+    area: "Turismo",
+    titulo: "✅Desfile de Cierre de la 47° Fiesta Provincial del Inmigrante",
+    descripcion: "🎉Hoy junto a vecinos y visitantes de la región, disfrutamos el tradicional Desfile de Clausura sobre la Av. Montevideo.<br><br>👏🏻Felicitaciones a todas las colectividades que representaron a sus abuelos y nos agasajaron con sus bailes y trajes típicos.",
+    imagen: "images/noticias/turismo/inmi13-10.png",
+    link:"https://www.instagram.com/p/DBFT1jVyrJB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "09 de octubre de 2024",
     area: "Secretaria",
     titulo: "JORNADA DE ASESORAMIENTO EN MONOTRIBUTO Y FACTURACIÓN",
