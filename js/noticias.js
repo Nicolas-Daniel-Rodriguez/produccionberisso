@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "15 de octubre de 2024",
+    area: "Agraria",
+    titulo: "TALLER TRIQUINOSIS Y LEPTOSPIROSIS: Problemáticas asociadas a la producción porcina.",
+    descripcion: "📍Secretaría de Producción - Calle Nueva York y Av. Montevideo, 2º Piso, Berisso (Dirección de Asuntos Agrarios - Secretaría de Producción de la Municipalidad de Berisso)<br>🗓️Miércoles 16 de octubre.<br>⏰9 hs a 12 hs...",
+    imagen: "images/noticias/agraria/triquinosis15-10.png",
+    link:"https://www.instagram.com/p/DBJX8ctxZQa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "15 de octubre de 2024",
+    area: "Agraria",
+    titulo: "JORNADA DE ASESORAMIENTO EN MONOTRIBUTO Y FACTURACIÓN",
+    descripcion: "👉🏼En el día de ayer se llevó a cabo en la Secretaría de Producción, la Jornada de Asesoramiento en Monotributo y Facturación a Productores de Mercados Bonaerenses y Agricultura familiar, a cargo del consultorio del MDA.",
+    imagen: "images/noticias/agraria/monotributo15-10.png",
+    link:"https://www.instagram.com/p/DBJWmQ3xGqG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "13 de octubre de 2024",
     area: "Turismo",
     titulo: "✅Desfile de Cierre de la 47° Fiesta Provincial del Inmigrante",
