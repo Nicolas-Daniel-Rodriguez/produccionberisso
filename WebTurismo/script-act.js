@@ -3098,6 +3098,159 @@ const actividades = [
         precio: "Gratuita",
         categoria: "eventos"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "18/10/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "SEA REC-MONOBLOCK",
+        descripcion: "Veni a disfrutar de este show organizado por Monoblock y Sea Prods. Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "18/10/2024",
+        hora: "18:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "18/10/2024",
+        hora: "19:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/octubre2024/pena2.png",
+        nombre: "Peña a beneficio",
+        descripcion: "Acércate este viernes al Centro Recreativo Hogar y Amor (32 y 169). Organiza Dirección de Cultura.",
+        fecha: "18/10/2024",
+        hora: "20:00",
+        precio: "Gratuita",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/delta.png",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "18/10/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "18/10/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/octubre2024/18-10.png",
+        nombre: "Piraña presenta 'Chafalonias' Tango / Canción Griolla",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "18/10/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "19/10/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/visita.png",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "19/10/2024",
+        hora: "11:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/isla.png",
+        nombre: "Tarde Isleña",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003) Se realizará un recorrido por el Rio Santiago🗺️ Bajaremos en la isla Paulino e iremos a la Quinta “Isabella”. Incluye una infusión☕️ Volveremos a las 17.30 hs. Es con reserva.",
+        fecha: "19/10/2024",
+        hora: "15:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "19/10/2024",
+        hora: "15:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "19/10/2024",
+        hora: "16:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "19/10/2024",
+        hora: "19:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/octubre2024/19-10.png",
+        nombre: "Vuelve Rita Cortese",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "19/10/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "20/10/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/octubre2024/20-10.png",
+        nombre: "Almuerzo del Día de las Madres",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "20/10/2024",
+        hora: "11:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/octubre2024/atmosfera.png",
+        nombre: "Obra de Teatro 'Atmósfera Carnelli'",
+        descripcion: "Acércate este domingo a la SALA TCB (Nueva York y Marsella) y disfruta de esta obra de teatro del Director Nelson Mallach. Organiza SALA TCB.",
+        fecha: "20/10/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
