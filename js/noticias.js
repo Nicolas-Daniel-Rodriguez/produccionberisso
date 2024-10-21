@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "21 de octubre de 2024",
+    area: "Turismo",
+    titulo: "Hechos de Historia",
+    descripcion: "En 'Hechos de Historia', por MuniTv y de la mano de Daniela Mondelo, repasamos quién fue María Roldán y su importante participación el 17 de octubre de 1945.",
+    imagen: "images/noticias/turismo/hechosDeHistoria.png",
+    link:"https://www.instagram.com/reel/DBY5KK6uGvn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "20 de octubre de 2024",
+    area: "Turismo",
+    titulo: "🥊Masterclass de Boxeo",
+    descripcion: "👉🏻Los invitamos a participar de la Masterclass de Boxeo a cargo del campeón mundial de Boxeo, @maravillabox en el Gimnasio Municipal de Berisso.<br><br>🗓️Sábado 26<br>🕣17 hs.<br>📍Gimnasio Municipal (9 y 169)<br><br>👉🏻Acceso libre y gratuito",
+    imagen: "images/noticias/turismo/maravilla26-10.png",
+    link:"https://www.instagram.com/p/DBWcIDqR4tR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "15 de octubre de 2024",
     area: "Agraria",
     titulo: "TALLER TRIQUINOSIS Y LEPTOSPIROSIS: Problemáticas asociadas a la producción porcina.",
