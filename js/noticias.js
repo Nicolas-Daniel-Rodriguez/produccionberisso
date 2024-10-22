@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "22 de octubre de 2024",
+    area: "Industria",
+    titulo: "RONDA DE NEGOCIOS MULTISECTORIAL REGIÓN CAPITAL 2024👥",
+    descripcion: "El Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires, y los Municipios de Berisso, Brandsen, Ensenada, La Plata, Magdalena y Punta Indio, te invitan a participar de la “Ronda de Negocios Multisectorial Región Capital 2024”<br><br>🗓️Martes 12/11<br>⏰9:30hs<br>📍Gimnasio Municipal de Berisso - Ingreso por Marsella 947, Berisso.<br>🔗 Link de inscripción en nuestras historias!<br>⚠️Cierre de inscripción: Martes 5/11 a las 13hs.",
+    imagen: "images/noticias/industria/negocios.png",
+    link:"https://www.instagram.com/p/DBaCh1DNrTC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "21 de octubre de 2024",
     area: "Turismo",
     titulo: "Hechos de Historia",
