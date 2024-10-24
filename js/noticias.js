@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "24 de octubre de 2024",
+    area: "U.Productivas",
+    titulo: "🥫 CAPACITACIÓN ROTULADO DE ENVASES 🥫",
+    descripcion: "👉🏼Este Viernes 25/10 comenzamos con el Ciclo de Capacitaciones para elaboradores de alimentos 2024.<br><br>👥Destinadas a elaboradores/as de alimentos, que cuenten con habilitaciones PUPPAs provinciales o municipales y/o interesados en adquirir su habilitación.¡Importante! Acreditan para renovación de PUPAAs municipales y provinciales.",
+    imagen: "images/noticias/Unid.Productivas/rotulado25-10.png",
+    link:"https://www.instagram.com/p/DBfDuzitYiE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "23 de octubre de 2024",
+    area: "Agraria",
+    titulo: "CHARLA – TALLER: TRIQUINOSIS Y LEPTOSPIROSIS🐖",
+    descripcion: "🗓️El día Miercoles 16/11 se llevó a cabo la mesa de trabajo sobre el marco normativo, y abordaje inter institucional e interdisciplinario para la mejora de la calidad de porcinos en nuestra ciudad.<br><br>👉🏼A cargo de La Dirección de Asuntos Agrarios en conjunto con @senasaargentina, en la cual estuvieron presentes la @unlpoficial, Facultad de Ciencias Veterinarias, escuelaagrariaberisso, cea14berisso y distintas direcciones del municipio.",
+    imagen: "images/noticias/agraria/triquinosis.png",
+    link:"https://www.instagram.com/p/DBeZV4wRqZ3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "22 de octubre de 2024",
     area: "Industria",
     titulo: "RONDA DE NEGOCIOS MULTISECTORIAL REGIÓN CAPITAL 2024👥",
