@@ -1,6 +1,14 @@
 var noticias = [
   {
     fecha: "24 de octubre de 2024",
+    area: "Agraria",
+    titulo: "🌳 ENTREGA DE ÁRBOLES FRUTALES A PRODUCTORES LOCALES 🌳",
+    descripcion: "🗓️El día Viernes 18/10, la Dirección de Asuntos Agrarios de La Municipalidad de Berisso, realizó la entrega de árboles frutales a l@s productores locales, del programa de Fomento a la Fruticultura Bonaerense de @agrariopba.<br><br>🤝🏻Agradecemos el acompañamiento permanente de provincia en el desarrollo y el crecimiento de nuestras y nuestros productores.",
+    imagen: "images/noticias/agraria/arboles24-10.png",
+    link:"https://www.instagram.com/p/DBhIEG-SUZ8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "24 de octubre de 2024",
     area: "U.Productivas",
     titulo: "🥫 CAPACITACIÓN ROTULADO DE ENVASES 🥫",
     descripcion: "👉🏼Este Viernes 25/10 comenzamos con el Ciclo de Capacitaciones para elaboradores de alimentos 2024.<br><br>👥Destinadas a elaboradores/as de alimentos, que cuenten con habilitaciones PUPPAs provinciales o municipales y/o interesados en adquirir su habilitación.¡Importante! Acreditan para renovación de PUPAAs municipales y provinciales.",
