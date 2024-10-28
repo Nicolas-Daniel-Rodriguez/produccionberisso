@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "28 de octubre de 2024",
+    area: "Turismo",
+    titulo: "CALLE NUEVA YORK PEATONAL💙",
+    descripcion: "¡El domingo 3 de Noviembre, a partir de las 12hs, te esperamos para disfrutar de una jornada llena de propuestas para todos los gustos!...",
+    imagen: "images/noticias/turismo/ny3-11.png",
+    link:"https://www.instagram.com/p/DBjPgBcRhGR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "26 de octubre de 2024",
+    area: "Secretaria",
+    titulo: "FIRMA DE CONVENIO CON LA MUNICIPALIDAD DE DOLORES",
+    descripcion: "✍🏻 Días atrás el intendente municipal de Berisso, Fabián Cagliardi y la secretaria de Producción, Cecilia Paris, junto al Intendente de Dolores, Juan Pablo García y su secretaria de Turismo, Florencia Inés Barragán, firmaron un convenio de promoción turística que establece un 30% de descuento para las y los berissenses que visiten el parque termal de Dolores...",
+    imagen: "images/noticias/secretaria/convenio26-10.png",
+    link:"https://www.instagram.com/p/DBl2P6Iu5A3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "24 de octubre de 2024",
     area: "Agraria",
     titulo: "🌳 ENTREGA DE ÁRBOLES FRUTALES A PRODUCTORES LOCALES 🌳",
