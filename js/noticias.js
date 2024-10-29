@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "29 de octubre de 2024",
+    area: "U.Productivas",
+    titulo: "🥣 El viernes 27 de octubre comenzó el Ciclo de Capacitaciones para Elaboradores de Alimentos 2024",
+    descripcion: "🥫 En el primer encuentro contamos con la participación de la licenciada en Ciencia y Tecnología de Alimentos Amparo Borrajo, quien brindó una clase sobre rotulado de envases de uso alimentario.<br><br>🤝 La actividad estuvo coordinada por las secretarías de Producción y Salud, en conjunto con la Facultad de Ciencias Exactas (UNLP); y está destinada a elaboradores/as de alimentos que cuenten con habilitaciones PUPPAs provinciales o municipales y/o interesados en adquirirlas.",
+    imagen: "images/noticias/Unid.Productivas/alimentos27-10.png",
+    link:"https://www.instagram.com/p/DBtYOyWRwSL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "28 de octubre de 2024",
     area: "Turismo",
     titulo: "CALLE NUEVA YORK PEATONAL💙",
