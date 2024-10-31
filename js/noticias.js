@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "31 de octubre de 2024",
+    area: "Secretaria",
+    titulo: "6TO ENCUENTRO DEL CICLO DE TALLERES: LAS MUJERES EN EL MUNDO DE LA PRODUCCIÓN LOCAL👩🏻‍🌾",
+    descripcion: "🗓️El día 29 de octubre, en el Mercado de la Ribera, se llevó a cabo el 6to encuentro del ciclo de talleres: las mujeres en mundo de la producción local...",
+    imagen: "images/noticias/secretaria/taller31-10.png",
+    link:"https://www.instagram.com/p/DByq2XYxXnU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "30 de octubre de 2024",
+    area: "Turismo",
+    titulo: "La Muestra: Custom & Street Art 🏍️",
+    descripcion: "🗓️Sábado 9 y Domingo 10 de Noviembre<br>⏰Desde las 12hs.<br>📍Pista de Atletismo “Olmi Filgueira” y Gimnasio Municipal.<br><br>¡Entrada libre y gratuita! Los esperamos 🛵",
+    imagen: "images/noticias/turismo/muestra9-11.png",
+    link:"https://www.instagram.com/p/DBwLavEPe5y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "29 de octubre de 2024",
     area: "U.Productivas",
     titulo: "🥣 El viernes 27 de octubre comenzó el Ciclo de Capacitaciones para Elaboradores de Alimentos 2024",
