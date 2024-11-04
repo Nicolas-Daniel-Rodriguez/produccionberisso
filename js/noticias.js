@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "02 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "Descubrí Berisso: Tours Gratuitos a Pie – Ruta de la Diversidad Cultural 🇧🇾 🇸🇰",
+    descripcion: "Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso 💙 Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Club Vostok de Berisso: Colectividad Belarusa, y el Club Eslovaco Argentino de Berisso✨...",
+    imagen: "images/noticias/turismo/tour9-11.png",
+    link:"https://www.instagram.com/p/DB2KphMPb75/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "31 de octubre de 2024",
     area: "Secretaria",
     titulo: "6TO ENCUENTRO DEL CICLO DE TALLERES: LAS MUJERES EN EL MUNDO DE LA PRODUCCIÓN LOCAL👩🏻‍🌾",
