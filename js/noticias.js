@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "06 de noviembre de 2024",
+    area: "Secretaria",
+    titulo: "🧺El Mercado de la Ribera reabre sus puertas",
+    descripcion: "🗓️Domingo 10 de noviembre<br>🕣A partir de las 10 hs.<br>📍Detrás de la Pista de Atletismo...",
+    imagen: "images/noticias/turismo/mercado10-11.png",
+    link:"https://www.instagram.com/p/DCCOn1-Rz3M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "🍸 Capacitación de Bartender 🍸",
+    descripcion: "¡Libre y gratuito!<br>⚠️Exclusivo para mayores de 18 años⚠️<br><br>🗓️Miércoles 20 y Jueves 21 de noviembre de 09 a 13hs.<br>📍Bar KM.0 (Nueva York y Marsella)...",
+    imagen: "images/noticias/turismo/bartender20-11.png",
+    link:"https://www.instagram.com/p/DCAoFm9t6mU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "✅Este fin de semana te esperamos para disfrutar de “La Muestra”",
+    descripcion: "Una propuesta para toda la familia, donde vas a poder disfrutar de:<br><br>🔹Bandas en vivo<br>🔹Exhibiciones de autos y motos<br>🔹Motocine<br>🔹Artistas y performances en vivo<br>🔹Ferias<br>🔹Gastronomía y parque cervecero...",
+    imagen: "images/noticias/turismo/laMuestra.png",
+    link:"https://www.instagram.com/p/DCAH9_JykyK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "02 de noviembre de 2024",
     area: "Turismo",
     titulo: "Descubrí Berisso: Tours Gratuitos a Pie – Ruta de la Diversidad Cultural 🇧🇾 🇸🇰",
