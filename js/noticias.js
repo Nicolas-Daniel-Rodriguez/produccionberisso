@@ -1,6 +1,14 @@
 var noticias = [
   {
     fecha: "06 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "💃🏻¡Hoy arranca la 21° Fiesta del Provinciano en Berisso!",
+    descripcion: "Nos encontramos en la Curva de las Naciones para celebrar juntos nuestras raíces, en la apertura de la 21° Fiesta del Provinciano.<br><br>Los esperamos en noviembre a disfrutar de jornadas llenas de tradiciones, música, danzas y gastronomía que representan el corazón de cada provincia.",
+    imagen: "images/noticias/turismo/prov6-11.png",
+    link:"https://www.instagram.com/p/DCDCozzywrF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de noviembre de 2024",
     area: "Secretaria",
     titulo: "🧺El Mercado de la Ribera reabre sus puertas",
     descripcion: "🗓️Domingo 10 de noviembre<br>🕣A partir de las 10 hs.<br>📍Detrás de la Pista de Atletismo...",

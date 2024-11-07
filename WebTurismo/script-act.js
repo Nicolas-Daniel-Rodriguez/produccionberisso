@@ -3530,6 +3530,186 @@ const actividades = [
         precio: "Arancelada",
         categoria: "paseos"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "08/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "08/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/8-11.png",
+        nombre: "Juan Solo",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "08/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "09/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/ruta14-09.png",
+        nombre: "Tours Gratuitos a Pie – Ruta de la Diversidad Cultural ",
+        descripcion: "¡Vení a conocer la cultura de los inmigrantes de la ciudad de Berisso! Este recorrido tendrá comienzo en el Monumento de los Inmigrantes, siguiendo por la Colectividad Belarusa (Club Vostok de Berisso), el Club Eslovaco Argentino de Berisso, y finalizará en la Sociedad Cultural Búlgara Iván Vazov✨<br>☎️Inscripciones al 221-571-6163<br>Se suspende por lluvias 🌧️",
+        fecha: "09/11/2024",
+        hora: "10:30",
+        precio: "Gratuito",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/visita.png",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "09/11/2024",
+        hora: "11:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "09/11/2024",
+        hora: "15:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "09/11/2024",
+        hora: "16:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/creer.png",
+        nombre: "Creer o reventar",
+        descripcion: "Veni a disfrutar de este show en Sala TCB - Nueva York Y Marsella. Organiza Teatro Comunitario de Berisso.",
+        fecha: "09/11/2024",
+        hora: "20:00",
+        precio: "",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "09/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/9-11.png",
+        nombre: "LA FERNI y Nahuel Quipildor",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "09/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "10/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/sep-2024/mercado.png",
+        nombre: "Apertura del Mercado de la Ribera",
+        descripcion: "El Mercado de la Ribera abre sus puertas a partir de las 10:00hs detrás de la pista de atletismo (170 e/ 8 y 9). Organiza Mercado la Ribera.",
+        fecha: "10/11/2024",
+        hora: "10:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/islaPaulino26al28-07.png",
+        nombre: "Experiencia Isla Paulino",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003). Organiza Cámara de Turismo Berisso. ",
+        fecha: "10/11/2024",
+        hora: "10:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Feria de Antiguedades - Museo 1871",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "10/11/2024",
+        hora: "11:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/10-11.png",
+        nombre: "DÍA DE LA TRADICIÓN Canto de las Dos Orillas",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "10/11/2024",
+        hora: "13:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/general.jpg",
+        nombre: "Paseo guiado por el Delta del Río Santiago",
+        descripcion: "Veni a disfrutar de este recorrido desde la Calle 170 e/ 8 y 9. Organiza Mercado de la Ribera y Daniela Mondelo.",
+        fecha: "10/11/2024",
+        hora: "13:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/puestaDelSol.png",
+        nombre: "Puesta de sol en yate privado 🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "10/11/2024",
+        hora: "16:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "10/11/2024",
+        hora: "16:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/10-11-1.png",
+        nombre: "FUSIÓN DE MÚSICAS DEL MUNDO, RÍO CHECO + LA MORINGA",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "10/11/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
@@ -3561,7 +3741,7 @@ function renderizarActividades(actividades, page = 1) {
 
     actividadesPagina.forEach(actividad => {
         const tarjeta = document.createElement("div");
-        tarjeta.className = "tarjeta-actividad bg-white rounded-lg shadow-md overflow-hidden";
+        tarjeta.className = "tarjeta-actividad bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full";
         tarjeta.innerHTML = `
             <img src="${actividad.imagen}" alt="${actividad.nombre}" class="w-full h-48 object-cover m-auto">
             <div class="info p-4">
