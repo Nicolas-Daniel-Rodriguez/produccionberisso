@@ -1,5 +1,45 @@
 var noticias = [
   {
+    fecha: "13 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "DESCUBRÍ BERISSO☀️ Temporada Primavera - Verano 24’ y 25’ 🏖️",
+    descripcion: "Les presentamos el listado de campings para pasar el día y para alojarse en esta temporada 🏕️ 🙌🏻<br><br>Para más información sobre reservas o precios de entrada a los campings, pueden comunicarse a través de los teléfonos o redes sociales que están en los flyers. ☎️📥",
+    imagen: "images/noticias/turismo/verano13-11.png",
+    link:"https://www.instagram.com/p/DCUQCf9PiRL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "12 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "📍 Isla Paulino, Berisso",
+    descripcion: "🏝 Realizamos la experiencia Isla Paulino, junto a @camaradeturismoberisso y @quinta_la_isabella.<br><br>¿De qué consta esta experiencia? 👇🏼<br><br>🚤 A las 10hs sale la lancha colectiva desde el embarcadero de Berisso (calle Génova 5003)...",
+    imagen: "images/noticias/turismo/expIsla12-11.png",
+    link:"https://www.instagram.com/reel/DCSPWNYyw0y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "12 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "✨ Museos a la Luz de la Luna ✨",
+    descripcion: "🏛️Este sábado 16 de noviembre de 20 a 24 hs, disfrutaremos de una nueva edición de “Museos a la Luz de la Luna” en Casa de Culturas.<br><br>🌌La noche estará llena de actividades para toda la familia, con entrada libre y gratuita...",
+    imagen: "images/noticias/turismo/museos12-11.png",
+    link:"https://www.instagram.com/p/DCPhH0xPzKA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "12 de noviembre de 2024",
+    area: "Secretaria",
+    titulo: "Ronda de Negocios Multisectorial: Región Capital",
+    descripcion: "✅Hoy se desarrolló una Ronda de Negocios de Región Capital, organizada por el Ministerio de Producción, Ciencia e Innovación Tecnológica de la provincia de Buenos Aires y la Municipalidad de Berisso.<br><br>👏🏻El acto que convocó a más de 300 empresas en el Gimnasio Municipal, fue encabezado por el intendente de Berisso, Fabián Cagliardi; el ministro de Gobierno de PBA, Carlos Bianco; el ministro de Producción, Augusto Costa; los intendentes de Ensenada, Mario Secco; de La Plata, Julio Alak, y de Magdalena, Lisandro Hourcade...",
+    imagen: "images/noticias/secretaria/ronda12-11.png",
+    link:"https://www.instagram.com/p/DCR3GqqR6Fs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "08 de noviembre de 2024",
+    area: "Agraria",
+    titulo: "ENTREGA DE PLANTINES",
+    descripcion: "🗓️El pasado viernes 1ro de noviembre, se realizó la entrega de plantines del Programa Provincial Huertas Urbanas Bonaerense, del Ministerio de Desarrollo Agrario...",
+    imagen: "images/noticias/agraria/plantines08-11-2024.png",
+    link:"https://www.instagram.com/p/DCHVVhlRs5B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "06 de noviembre de 2024",
     area: "Turismo",
     titulo: "💃🏻¡Hoy arranca la 21° Fiesta del Provinciano en Berisso!",
