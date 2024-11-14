@@ -3710,6 +3710,186 @@ const actividades = [
         precio: "Arancelada",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "15/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/literario15-11.png",
+        nombre: "Encuentro Literario",
+        descripcion: "Veni a disfrutar este viernes 15 de noviembre a las 18:00hs en el Centro de Residentes Santiageños (Calle 7 y 150).",
+        fecha: "15/11/2024",
+        hora: "18:00",
+        precio: "Gratuito",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/muestra15-11.png",
+        nombre: "Muestra Conjunta - Taller de Teatro Leído y el Quinteto Municipal",
+        descripcion: "Veni a disfrutar este viernes 15 de noviembre a las 18:00hs en la Casa de Culturas (Av. Montevideo N°821).",
+        fecha: "15/11/2024",
+        hora: "18:00",
+        precio: "Gratuito",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "15/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/15-11.png",
+        nombre: "Ignacio Copani",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "15/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "16/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/visita.png",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "16/11/2024",
+        hora: "10:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Travesía en yate privado🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "16/11/2024",
+        hora: "19:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "16/11/2024",
+        hora: "16:30",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "16/11/2024",
+        hora: "19:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/macany.png",
+        nombre: "Museo A Cielo Abierto a calle Nueva York",
+        descripcion: "Acércate a la calle Nueva York y conoce la historia de esta emblematica calle en un solo lugar. Organiza MACANY.",
+        fecha: "16/11/2024",
+        hora: "19:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/museos16.png",
+        nombre: "Casa de Culturas",
+        descripcion: "Acércate a Av. Montevideo N°821. Organiza Casa de Culturas junto a la Red de Museos de La Plata y la UNLP.",
+        fecha: "16/11/2024",
+        hora: "20:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/delta.png",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "16/11/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "16/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/16-11.png",
+        nombre: "Fina y Soledad - Transformismo y Humor",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "16/11/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/16-11-1.png",
+        nombre: "Los Limones Jaidefiniyon",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "16/11/2024",
+        hora: "23:45",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "17/11/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/17-11.png",
+        nombre: "Micaela Cauque - Presenta nuevo repertorio",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "17/11/2024",
+        hora: "13:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/danzapolaca17.png",
+        nombre: "2° Encuentro Internacional de Danzas Folclóricas Polacas",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en el Gimnasio municipal de Berisso.",
+        fecha: "17/11/2024",
+        hora: "17:00",
+        precio: "Gratuita",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/noviembre2024/17-11-1.png",
+        nombre: "Devi Jazz - Clásicos y Bossa",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "17/11/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
