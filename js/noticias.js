@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "14 de noviembre de 2024",
+    area: "Secretaria",
+    titulo: "✅Ronda de Negocios: Región Capital",
+    descripcion: "👉🏻Junto a la provincia de Buenos Aires, y los municipios de la Región Capital, llevamos adelante en Berisso, una nueva Ronda de Negocios Multisectorial.<br><br>👏🏻Acompañamos a las empresas y PyMEs, para posibilitar el vínculo entre ellas y potenciar el desarrollo productivo de la región.",
+    imagen: "images/noticias/secretaria/ronda12-11-1.png",
+    link:"https://www.instagram.com/reel/DCT8F-Hxl-y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "13 de noviembre de 2024",
     area: "Turismo",
     titulo: "DESCUBRÍ BERISSO☀️ Temporada Primavera - Verano 24’ y 25’ 🏖️",
