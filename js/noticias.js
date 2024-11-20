@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "20 de noviembre de 2024",
+    area: "U.Productivas",
+    titulo: "🍔Ciclo de Capacitaciones para elaboradores de alimentos🍟",
+    descripcion: ".🗓️El Viernes 29 de noviembre continuamos con el Ciclo de Capacitaciones para elaboradores de alimentos 2024, destinadas a elaboradores/as de alimentos, que cuenten con habilitaciones PUPAAs o que estén interesados en adquirir su habilitación...",
+    imagen: "images/noticias/Unid.Productivas/CapAlim.png",
+    link:"https://www.instagram.com/p/DCmQO8kxJ72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "14 de noviembre de 2024",
     area: "Secretaria",
     titulo: "✅Ronda de Negocios: Región Capital",
