@@ -17,7 +17,8 @@ var markers = [
         publico: 'Si o No',
         habilitacion: 'Municipal y RENAF',
         latitud: -34.8731,
-        longitud: -57.8835
+        longitud: -57.8835,
+        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
     },
     {
         id: 'local2',
@@ -30,7 +31,8 @@ var markers = [
         publico: 'Si o No',
         habilitacion: 'Municipal y RENAF',
         latitud: -34.8711,
-        longitud: -57.8815
+        longitud: -57.8815,
+        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
     },
     {
         id: 'local3',
@@ -43,7 +45,8 @@ var markers = [
         publico: 'Si o No',
         habilitacion: 'Municipal y RENAF',
         latitud: -34.885352,
-        longitud: -57.894673
+        longitud: -57.894673,
+        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
     },
     {
         id: 'local4',
@@ -56,7 +59,8 @@ var markers = [
         publico: 'Si o No',
         habilitacion: 'Municipal y RENAF',
         latitud: -34.874945,
-        longitud: -57.865035
+        longitud: -57.865035,
+        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
     },
     // Agrega más marcadores según sea necesario
 ];
@@ -104,6 +108,7 @@ function generarContenidoInfo(localInfo) {
   return `
     <div style="padding: 2px;">
       <h3 style="line-height: 0; font-size:11px; margin-bottom: 10px; margin-top: 0 !important;"><strong>${localInfo.nombre}</strong></h3>
+       <img src="${localInfo.imagen}" alt="${localInfo.nombre}" style="width: 100px; height: auto; margin-bottom: 10px;">
       <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Descripción:</strong> ${localInfo.descripcion}</p>
       <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Dirección:</strong> ${localInfo.direccion}</p>
       <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Días de Atención:</strong> ${localInfo.dias}</p>
