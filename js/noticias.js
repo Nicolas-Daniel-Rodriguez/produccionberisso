@@ -1,11 +1,27 @@
 var noticias = [
   {
+    fecha: "22 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "🍷Capacitación de Bartenders",
+    descripcion: "👉🏻Hoy se llevó adelante la entrega de certificados a los participantes de la capacitación de Bartenders, realizado entre la Municipalidad de Berisso y la Asociación Empresaria Hotelera Gastronómica y Pastelera de La Plata.<br><br>👏🏻Seguimos generando propuestas para capacitar a nuestros vecinos y vecinas, en la ampliación de sus oportunidades laborales.",
+    imagen: "images/noticias/secretaria/bartender21-11.png",
+    link:"https://www.instagram.com/p/DCpBd3pxJdH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "20 de noviembre de 2024",
     area: "U.Productivas",
     titulo: "🍔Ciclo de Capacitaciones para elaboradores de alimentos🍟",
     descripcion: ".🗓️El Viernes 29 de noviembre continuamos con el Ciclo de Capacitaciones para elaboradores de alimentos 2024, destinadas a elaboradores/as de alimentos, que cuenten con habilitaciones PUPAAs o que estén interesados en adquirir su habilitación...",
     imagen: "images/noticias/Unid.Productivas/CapAlim.png",
     link:"https://www.instagram.com/p/DCmQO8kxJ72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "18 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "¿Sabías que a pocos kilómetros de la ciudad podés descubrir un paraíso natural?",
+    descripcion: "La Isla Paulino, en Berisso, te espera con actividades para conectar con la naturaleza y escapar de la rutina. 🍃🏖<br><br>🚤 ¿Cómo llegar? Con la lancha colectiva desde el Club Náutico Ciudad de Berisso. Valor del boleto: $3.000. Menores de 5 años no pagan.<br><br>¿Qué vas a encontrar? ✨....",
+    imagen: "images/noticias/turismo/isla18-11.png",
+    link:"https://www.instagram.com/p/DCU7qCJRxaZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
     fecha: "14 de noviembre de 2024",
