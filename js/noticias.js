@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "26 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "🎶#FindeMúsica llega a Berisso en el marco de la 🇦🇷Fiesta de los Provincianos",
+    descripcion: "🗓️El próximo sábado a partir de las 12hs, los invitamos a participar de este festival de artistas regionales...",
+    imagen: "images/noticias/turismo/findemusica26-11.png",
+    link:"https://www.instagram.com/p/DCzi20vPgZu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "25 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "✅21° Fiesta de los Provincianos",
+    descripcion: "Compartimos imágenes de la fiesta que celebra nuestras raíces, nuestra identidad y el orgullo de ser parte de esta rica diversidad que une a las provincias argentinas. 🇦🇷<br><br>👉🏻Te esperamos este sábado para disfrutar de la 21° Fiesta del Provinciano...",
+    imagen: "images/noticias/turismo/prov1-25-11.png",
+    link:"https://www.instagram.com/p/DCzHh4RxXOj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "24 de noviembre de 2024",
+    area: "Turismo",
+    titulo: "✅21° Fiesta de los Provincianos",
+    descripcion: "Celebramos nuestras raíces, nuestra identidad y el orgullo de ser parte de esta rica diversidad que une a las provincias argentinas. 🇦🇷<br><br>👉🏻Te invitamos a sumarte a esta jornada llena de bailes tradicionales, canto, gastronomía y las costumbres que forman parte de nuestra historia y cultura popular...",
+    imagen: "images/noticias/turismo/prov24-11.png",
+    link:"https://www.instagram.com/p/DCwaBetR0no/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "22 de noviembre de 2024",
     area: "Turismo",
     titulo: "🍷Capacitación de Bartenders",
