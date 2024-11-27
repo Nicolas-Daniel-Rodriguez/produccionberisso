@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "27 de noviembre de 2024",
+    area: "U.Productivas",
+    titulo: "En esta ocasión queremos felicitar a Viviana Mango y Claudia Sepúlveda las candidatas a la 9ª edición del premio Mujer Emprendedora Bonaerense 🫶🏻",
+    descripcion: "De forma particular felicitamos a Claudia por haber ganador en la categoría de Responsabilidad Social Empresaria ✨<br><br>Gracias por representar a Berisso! Ambas son un ejemplo de dedicación y esfuerzo 💪🏻",
+    imagen: "images/noticias/Unid.Productivas/mujerEmpresaria27-11.png",
+    link:"https://www.instagram.com/p/DCxrhyttsq-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "27 de noviembre de 2024",
+    area: "Agraria",
+    titulo: "Congreso Provincial de Agreocología🪴",
+    descripcion: "🗓️El Viernes 8 de noviembre viajamos desde la Secretaría de Producción al primer Congreso Provincial de Agreocología, organizado desde la Universidad Nacional de Lujan en conjunto con el MDA.<br><br>🤝🏻Asistimos técnicos/as de la dirección de Asuntos Agrarios y productores/as de Berisso. A su vez realizamos exposiciones brindadas por dos técnicas de la Secretaría en los paneles, talleres de cultivos Intensivos y experiencias agroecológicas y, la Agroecología en la Educación formal y no formal.",
+    imagen: "images/noticias/agraria/congreso27-11.png",
+    link:"https://www.instagram.com/p/DC2arD-SUuS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "26 de noviembre de 2024",
     area: "Turismo",
     titulo: "🎶#FindeMúsica llega a Berisso en el marco de la 🇦🇷Fiesta de los Provincianos",
