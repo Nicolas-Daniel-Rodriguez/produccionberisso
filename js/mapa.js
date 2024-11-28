@@ -8,17 +8,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var markers = [
     {
         id: 'local1',
-        nombre: 'Museo Almafuerte',
-        descripcion: 'Descripción del Museo Almafuerte',
-        direccion: 'Dirección del Museo Almafuerte',
-        dias: 'Lunes a viernes',
-        horarios: '9:00 AM - 5:00 PM',
-        registros: 'Registros del Museo Almafuerte',
-        publico: 'Si o No',
-        habilitacion: 'Municipal y RENAF',
-        latitud: -34.8731,
-        longitud: -57.8835,
-        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
+        nombre: 'Parque Cívico',
+        direccion: 'Av. Montevideo e/ 8 y 11, Berisso',
+        latitud: -34.86801,
+        longitud: -57.88309,
+        imagen: '../images/mapa/local1.png'
     },
     {
         id: 'local2',
@@ -27,9 +21,6 @@ var markers = [
         direccion: 'Dirección de la Plaza 17 de Octubre',
         dias: 'Todos los días',
         horarios: 'Horarios variables',
-        registros: 'Registros',
-        publico: 'Si o No',
-        habilitacion: 'Municipal y RENAF',
         latitud: -34.8711,
         longitud: -57.8815,
         imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
@@ -41,9 +32,6 @@ var markers = [
         direccion: 'Dirección de Calle 12 entre 151 y 152',
         dias: 'Todos los días',
         horarios: 'Horarios variables',
-        registros: 'Registros del',
-        publico: 'Si o No',
-        habilitacion: 'Municipal y RENAF',
         latitud: -34.885352,
         longitud: -57.894673,
         imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
@@ -55,14 +43,22 @@ var markers = [
         direccion: 'Dirección de Avenida Montevideo y 16',
         dias: 'Todos los días',
         horarios: 'Horarios variables',
-        registros: 'Registros del',
-        publico: 'Si o No',
-        habilitacion: 'Municipal y RENAF',
         latitud: -34.874945,
         longitud: -57.865035,
         imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
     },
     // Agrega más marcadores según sea necesario
+    /*{
+        id: 'local4',
+        nombre: 'Avenida Montevideo y 16',
+        descripcion: 'Descripción de Avenida Montevideo y 16',
+        direccion: 'Dirección de Avenida Montevideo y 16',
+        dias: 'Todos los días',
+        horarios: 'Horarios variables',
+        latitud: -34.874945,
+        longitud: -57.865035,
+        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
+    },*/
 ];
 
 // Añadir marcadores al mapa
@@ -105,19 +101,21 @@ function highlightMarker(placeId) {
 
 // Función para generar el contenido de la ventana emergente del marcador
 function generarContenidoInfo(localInfo) {
-  return `
+    // Función auxiliar para verificar y generar contenido solo si el valor no es undefined o null
+    function crearLinea(etiqueta, valor) {
+        return valor ? `<p style="line-height: 0; font-size:10px; margin-bottom: 10px; margin-top: 0 !important;"><strong>${etiqueta}:</strong> ${valor}</p>` : '';
+    }
+
+    return `
     <div style="padding: 2px;">
-      <h3 style="line-height: 0; font-size:11px; margin-bottom: 10px; margin-top: 0 !important;"><strong>${localInfo.nombre}</strong></h3>
-       <img src="${localInfo.imagen}" alt="${localInfo.nombre}" style="width: 100px; height: auto; margin-bottom: 10px;">
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Descripción:</strong> ${localInfo.descripcion}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Dirección:</strong> ${localInfo.direccion}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Días de Atención:</strong> ${localInfo.dias}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Horarios:</strong> ${localInfo.horarios}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Registros:</strong> ${localInfo.registros}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Recibe al público:</strong> ${localInfo.publico}</p>
-      <p style="line-height: 0; font-size:10px; margin-bottom: 10px;margin-top: 0 !important;"><strong>Habilitación:</strong> ${localInfo.habilitacion}</p>
+      <h3 style="line-height: 0; font-size:11px; margin-bottom: 10px; margin-top: 0 !important;"><strong>${localInfo.nombre || 'Sin nombre'}</strong></h3>
+      ${localInfo.imagen ? `<img src="${localInfo.imagen}" alt="${localInfo.nombre}" style="width: 100px; height: auto; margin-bottom: 10px;">` : ''}
+      ${crearLinea('Descripción', localInfo.descripcion)}
+      ${crearLinea('Dirección', localInfo.direccion)}
+      ${crearLinea('Días de Atención', localInfo.dias)}
+      ${crearLinea('Horarios', localInfo.horarios)}
     </div>
-  `;
+    `;
 }
 
 // Función para desplegar o contraer una categoría

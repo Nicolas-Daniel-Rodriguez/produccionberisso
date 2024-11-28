@@ -1153,3 +1153,17 @@ ul.cont li {
      }
   }
   
+  
+/* Estilo para los elementos de la lista */
+.sidebar-list li {
+     list-style-type: disc; 
+     margin-left: 20px; 
+     cursor: pointer;
+     transition: background-color 0.3s, font-weight 0.3s; 
+ }
+ 
+ /* Efecto hover */
+ .sub-list li:hover {
+     font-weight: bold; 
+ }
+ 

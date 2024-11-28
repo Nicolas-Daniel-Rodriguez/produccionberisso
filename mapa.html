@@ -152,9 +152,15 @@
             <div class="row d_flex">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2 class="pb-2">Mapa de ....</h2>
+                     <h2 class="pb-2">Mapa de Atractivos Turístico</h2>
                      <span></span>
-                     <p>Aquí, proporcionamos los datos de diversos actores de la ciudad de Berisso con su información correspondiente.</p>
+                     <p>Aquí podrás explorar el Mapa de Atractivos Turísticos, 
+                        una herramienta interactiva donde descubrirás los lugares
+                         más emblemáticos y actividades destacadas de la región. 
+                         Desde sitios históricos hasta espacios naturales únicos,
+                          este mapa te guiará para planificar tu visita y aprovechar 
+                          al máximo tu experiencia turística. <br>¡Encuentra tu próximo 
+                          destino con un clic!</p>
                   </div>
                </div>
             </div>
@@ -172,27 +178,143 @@
           </div>
           <ul class="sidebar-list">
               <li class="category">
-                  <div class="category-header" onclick="toggleCategory('tecnologicas')">
-                      <h4>Empresas Tecnológicas</h4>
+                  <div class="category-header" onclick="toggleCategory('sitios')">
+                      <h4>Sitios de interés</h4>
                   </div>
-                  <ul class="sub-list" id="tecnologicas" style="display: none;">
+                  <ul class="sub-list" id="sitios" style="display: none;">
                       <!-- Agrega elementos de la lista de lugares -->
-                      <li onclick="highlightMarker('local1')">Museo Almafuerte</li>
-                      <li onclick="highlightMarker('local2')">Plaza 17 de Octubre</li>
+                      <li onclick="highlightMarker('local1')">Parque Cívico</li>
+                      <li onclick="highlightMarker('local2')">Embarcadero</li>
+                      <li onclick="highlightMarker('local3')">Gimnasio Municipal</li>
+                      <li onclick="highlightMarker('local4')">Casa de Culturas</li>
+                      <li onclick="highlightMarker('local5')">Club Náutico de Berisso</li>
+                      <li onclick="highlightMarker('local6')">Marina del Sur</li>
+                      <li onclick="highlightMarker('local7')">Astillero Martinoli</li>
+                      <li onclick="highlightMarker('local8')">Humedal Urbano Génova</li>
+                      <li onclick="highlightMarker('local9')">Cámara de Turismo</li>
+                      <li onclick="highlightMarker('local10')">Cooperativa de la Costa (Vino)</li>
+                      <li onclick="highlightMarker('local11')">Puerto de Contenedores Tec Plata</li>
+                      <li onclick="highlightMarker('local12')">Mercado de la Ribera</li>
+                      <li onclick="highlightMarker('local13')">Teatro Comunitario</li>
                       <!-- ... -->
                   </ul>
               </li>
               <li class="category">
-                  <div class="category-header" onclick="toggleCategory('industria')">
-                      <h4>Industrias</h4>
+                  <div class="category-header" onclick="toggleCategory('museos')">
+                      <h4>Museos</h4>
                   </div>
-                  <ul class="sub-list" id="industria" style="display: none;">
+                  <ul class="sub-list" id="museos" style="display: none;">
                       <!-- Agrega elementos de la lista de lugares -->
-                      <li onclick="highlightMarker('local3')">Calle 12 entre 151 y 152</li>
-                      <li onclick="highlightMarker('local4')">Avenida Montevideo y 16</li>
+                      <li onclick="highlightMarker('local14')">Museo de Berisso 1871</li>
+                      <li onclick="highlightMarker('local15')">Museo Histórico Calle Nueva York</li>
+                      <li onclick="highlightMarker('local16')">Museo de la Radio</li>
                       <!-- ... -->
                   </ul>
               </li>
+              <li class="category">
+                <div class="category-header" onclick="toggleCategory('patrimonio')">
+                    <h4>Patrimonio Urbano y Arquitectónico</h4>
+                </div>
+                <ul class="sub-list" id="patrimonio" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local17')">Usina Eléctrica Berisso</li>
+                    <li onclick="highlightMarker('local18')">Mansión de Obreros</li>
+                    <li onclick="highlightMarker('local19')">Vivienda Colectiva Conventillo</li>
+                    <li onclick="highlightMarker('local20')">Hogar Social</li>
+                    <li onclick="highlightMarker('local21')">Edificio Ex Frigorífico Swift</li>
+                    <li onclick="highlightMarker('local22')">Cine Teatro Victoria</li>
+                    <li onclick="highlightMarker('local23')">Estación Central Hidráulica Puerto La Plata</li>
+                    <!-- ... -->
+                </ul>
+            </li>
+            <li class="category">
+                <div class="category-header" onclick="toggleCategory('colectividades')">
+                    <h4>Colectividades Extranjeras</h4>
+                </div>
+                <ul class="sub-list" id="colectividades" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local24')">Asociación Ucraniana de Cultura Prosvita</li>
+                    <li onclick="highlightMarker('local25')">Asociación Ucraniana Renacimiento</li>
+                    <li onclick="highlightMarker('local26')">Club Eslovaco</li>
+                    <li onclick="highlightMarker('local27')">Club Vostok</li>
+                    <li onclick="highlightMarker('local28')">Colectividad Albanesa</li>
+                    <li onclick="highlightMarker('local29')">Colectividad Helénica y Platón</li>
+                    <li onclick="highlightMarker('local30')">Colectividad Irlandesa</li>
+                    <li onclick="highlightMarker('local31')">Colectividad Yugoslava</li>
+                    <li onclick="highlightMarker('local32')">Hogar Árabe</li>
+                    <li onclick="highlightMarker('local33')">Colectividad Búlgara Iván Vazov</li>
+                    <li onclick="highlightMarker('local34')">Sociedad Española</li>
+                    <li onclick="highlightMarker('local35')">Sociedad Italiana</li>
+                    <li onclick="highlightMarker('local36')">Sociedad Lituana Mindaugas</li>
+                    <li onclick="highlightMarker('local37')">Sociedad Lituana Némunas</li>
+                    <li onclick="highlightMarker('local38')">Unión Polaca</li>
+                    <!-- ... -->
+                </ul>
+            </li>
+            <li class="category">
+                <div class="category-header" onclick="toggleCategory('viñedos')">
+                    <h4>Viñedos</h4>
+                </div>
+                <ul class="sub-list" id="viñedos" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local10')">Cooperativa de la Costa (Vino)</li>
+                    <li onclick="highlightMarker('local39')">Don Pedro</li>
+                    <li onclick="highlightMarker('local40')">Don Renzo</li>
+                    <li onclick="highlightMarker('local41')">La Quinta de Miguel</li>
+                    <li onclick="highlightMarker('local42')">Borsani</li>
+                    <li onclick="highlightMarker('local43')">Aguiar</li>
+                    <!-- ... -->
+                </ul>
+            </li>
+            <li class="category">
+                <div class="category-header" onclick="toggleCategory('playas')">
+                    <h4>Playas</h4>
+                </div>
+                <ul class="sub-list" id="playas" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local44')">La Balandra</li>
+                    <li onclick="highlightMarker('local45')">Playa Municipal</li>
+                    <li onclick="highlightMarker('local46')">Playa Palo Blanco</li>
+                    <li onclick="highlightMarker('local47')">Isla Paulino</li>
+                    <!-- ... -->
+                </ul>
+            </li>
+            <li class="category">
+                <div class="category-header" onclick="toggleCategory('servicios')">
+                    <h4>Servicios</h4>
+                </div>
+                <ul class="sub-list" id="servicios" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local48')">Hospital</li>
+                    <li onclick="highlightMarker('local49')">Bomberos</li>
+                    <li onclick="highlightMarker('local50')">Policía</li>
+                    <li onclick="highlightMarker('local51')">Estación de Servicio</li>
+                    <li onclick="highlightMarker('local52')">Estación de Servicio</li>
+                    <li onclick="highlightMarker('local53')">Estación de Servicio</li>
+                    <li onclick="highlightMarker('local54')">Estación de Servicio</li>
+                    <!-- ... -->
+                </ul>
+            </li>
+            <li class="category">
+                <div class="category-header" onclick="toggleCategory('alojamientos')">
+                    <h4>Alojamientos</h4>
+                </div>
+                <ul class="sub-list" id="alojamientos" style="display: none;">
+                    <!-- Agrega elementos de la lista de lugares -->
+                    <li onclick="highlightMarker('local55')">Hostel</li>
+                    <li onclick="highlightMarker('local56')">Camping Complejo Bambú</li>
+                    <li onclick="highlightMarker('local57')">Camping EYCA</li>
+                    <li onclick="highlightMarker('local58')">Camping Agremiación Médica de Berisso</li>
+                    <li onclick="highlightMarker('local59')">Camping SUPEH Berisso</li>
+                    <li onclick="highlightMarker('local60')">Camping Club de Pesca La Terraza</li>
+                    <li onclick="highlightMarker('local61')">Camping del Sindicato de Trabajadores Municipales de Berisso</li>
+                    <li onclick="highlightMarker('local62')">La Quinta de Miguel</li>
+                    <li onclick="highlightMarker('local63')">Espacio Cultural Quinta Armonía</li>
+                    <li onclick="highlightMarker('local64')">Quinta Las Hortensias</li>
+                    <li onclick="highlightMarker('local65')">Quinta La Isabella</li>
+                    <!-- ... -->
+                </ul>
+            </li>
               <!-- Puedes agregar más categorías aquí -->
           </ul>
       </div>
