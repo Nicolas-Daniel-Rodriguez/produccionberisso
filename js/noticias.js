@@ -1,5 +1,37 @@
 var noticias = [
   {
+    fecha: "04 de diciembre de 2024",
+    area: "Turismo",
+    titulo: "🎻Show de cierre de la 21° Fiesta de los Provincianos",
+    descripcion: "👉🏻Con una gran concurrencia de público, finalizó la Fiesta de los Provincianos, con la presentación de Juanjo Abregú y Los Fogoneros.<br><br>👏🏻Además pudimos disfrutar la música, costumbres y gastronomías tradicionales de nuestra tierra.<br><br>🙌🏻Gracias al Instituto Cultural y al gobierno de la Provincia de Buenos Aires por el acompañamiento.",
+    imagen: "images/noticias/turismo/provincianos04-12.png",
+    link:"https://www.instagram.com/p/DDE7A94xi0P/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "04 de diciembre de 2024",
+    area: "Agraria",
+    titulo: "MESA INTERINSTITUCIONAL E INTERSECTORIAL PARA EL FORTALECIMIENTO DE LA PRODUCCIÓN PORCINA🐖",
+    descripcion: "👉🏼Durante la mañana del día 02/12/2024, se llevó adelante la Segunda Jornada de Trabajo de dicha mesa. Conforman la Mesa, SENASA, la Facultad de Ciencias Veterinarias-UNLP, La Dirección de Asuntos Agrarios de la Secretaría de Producción, la Dirección de Control Urbano, Departamento de Bromatología de la Secretaría de Salud, y la Dirección de Ordenamiento Urbano y territorial-Subsecretaría de Planificación y Gestión de Obras Públicas del Municipio de Berisso, La Escuela de Educación Agraria n° 1 “Tierra de Inmigrantes”, el CEA 14 de nuestra localidad...",
+    imagen: "images/noticias/agraria/porcina04-12.png",
+    link:"https://www.instagram.com/p/DDKTSk_x9GW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "02 de diciembre de 2024",
+    area: "Secretaria",
+    titulo: "🍺Fiesta de la Birra de Berisso",
+    descripcion: "Este viernes, sábado y domingo llega una nueva edición de la Fiesta de la Birra.🍻<br><br>📍Parque Cívico (Av. Montevideo entre 10 y 11)<br>👉🏻Entrada libre y gratuita",
+    imagen: "images/noticias/secretaria/fiestaCerveza2024.png",
+    link:"https://www.instagram.com/p/DDFK_Mfx8sY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "27 de noviembre de 2024",
+    area: "U.Productivas",
+    titulo: "✅Berisso presente en la Novena Edición de Mujer Empresaria Bonaerense 2024",
+    descripcion: "👉🏻El viernes 21 de noviembre, Claudia Sepúlveda, coordinadora de Unidades Productivas de la Municipalidad, fue reconocida por MEFEBA (Mujeres Empresarias de la Federación Económica de Buenos Aires) en la categoría Responsabilidad Social Empresaria...",
+    imagen: "images/noticias/Unid.Productivas/me27-11-2024.png",
+    link:"https://www.instagram.com/p/DC4YBbMRtDy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "27 de noviembre de 2024",
     area: "U.Productivas",
     titulo: "En esta ocasión queremos felicitar a Viviana Mango y Claudia Sepúlveda las candidatas a la 9ª edición del premio Mujer Emprendedora Bonaerense 🫶🏻",

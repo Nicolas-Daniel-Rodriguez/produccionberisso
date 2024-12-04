@@ -16,25 +16,22 @@ var markers = [
     },
     {
         id: 'local2',
-        nombre: 'Plaza 17 de Octubre',
-        descripcion: 'Descripción de la Plaza 17 de Octubre',
-        direccion: 'Dirección de la Plaza 17 de Octubre',
-        dias: 'Todos los días',
-        horarios: 'Horarios variables',
-        latitud: -34.8711,
-        longitud: -57.8815,
-        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
+        nombre: 'Embarcadero',
+        descripcion: 'Excursiones por el delta de Berisso / Salidas.',
+        direccion: 'Genova 4551, Berisso',
+        latitud: -34.862817,
+        longitud: -57.883288,
+        imagen: '../images/mapa/local2.png'
     },
     {
         id: 'local3',
-        nombre: 'Calle 12 entre 151 y 152',
-        descripcion: 'Descripción de Calle 12 entre 151 y 152',
-        direccion: 'Dirección de Calle 12 entre 151 y 152',
-        dias: 'Todos los días',
-        horarios: 'Horarios variables',
-        latitud: -34.885352,
-        longitud: -57.894673,
-        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
+        nombre: 'Gimnasio Municipal “Mariano Freire”',
+        direccion: '9 y 169, Berisso',
+        dias: 'Lunes a viernes',
+        horarios: ' 8:00 a 20:00 hs',
+        latitud: -34.865972,
+        longitud: -57.883015,
+        imagen: '../images/mapa/local3.png'
     },
     {
         id: 'local4',
