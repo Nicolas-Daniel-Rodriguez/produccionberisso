@@ -4187,6 +4187,150 @@ const actividades = [
         precio: "Arancelada",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "06/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/fiesta06-07-08.png",
+        nombre: "Fiesta de la Birra de Berisso",
+        descripcion: "Este viernes, sábado y domingo llega una nueva edición de la Fiesta de la Birra.🍻<br>Birra, música y amigos… No te lo podes perder🥳",
+        fecha: "06/12/2024",
+        hora: "16:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/hijasdelrio06-07-08.png",
+        nombre: "Feria de Emprendedoras “Hijas del Río” ",
+        descripcion: "Vení a disfrutar de una exposición y venta de trabajos artesanales únicos, hechos con amor y dedicación por emprendedoras locales. Te esperamos en Casa de Culturas (Av. Montevideo N°821). ",
+        fecha: "06/12/2024",
+        hora: "16:30",
+        precio: "Gratuito",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "06/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/06-12.png",
+        nombre: "Sofia Viola presenta Alma Gitana",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "06/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "07/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/visita.png",
+        nombre: "Visita a viñedo + visita a Cooperativa de la Costa c/ degustación de vinos",
+        descripcion: "Visitamos un viñedo y luego la Cooperativa de la Costa en Av. Montevideo y calle 81, Los Talas. Incluye degustación de vinos. Requisito: Contar con movilidad propia. Inscripción previa por WhatsApp al 221-5249934",
+        fecha: "07/12/2024",
+        hora: "11:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/fiesta06-07-08.png",
+        nombre: "Fiesta de la Birra de Berisso",
+        descripcion: "Este viernes, sábado y domingo llega una nueva edición de la Fiesta de la Birra.🍻<br>Birra, música y amigos… No te lo podes perder🥳",
+        fecha: "07/12/2024",
+        hora: "16:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/hijasdelrio06-07-08.png",
+        nombre: "Feria de Emprendedoras “Hijas del Río” ",
+        descripcion: "Vení a disfrutar de una exposición y venta de trabajos artesanales únicos, hechos con amor y dedicación por emprendedoras locales. Te esperamos en Casa de Culturas (Av. Montevideo N°821). ",
+        fecha: "07/12/2024",
+        hora: "16:30",
+        precio: "Gratuito",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/navegandoestrellas07-12.png",
+        nombre: "Navegando Estrellas",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes.",
+        fecha: "07/12/2024",
+        hora: "19:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "07/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/07-12.png",
+        nombre: "Cuarteto Venezolano + Seba Fernández + Natalio Sturla ",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "07/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "08/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/fiesta06-07-08.png",
+        nombre: "Fiesta de la Birra de Berisso",
+        descripcion: "Este viernes, sábado y domingo llega una nueva edición de la Fiesta de la Birra.🍻<br>Birra, música y amigos… No te lo podes perder🥳",
+        fecha: "08/12/2024",
+        hora: "16:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/hijasdelrio06-07-08.png",
+        nombre: "Feria de Emprendedoras “Hijas del Río” ",
+        descripcion: "Vení a disfrutar de una exposición y venta de trabajos artesanales únicos, hechos con amor y dedicación por emprendedoras locales. Te esperamos en Casa de Culturas (Av. Montevideo N°821). ",
+        fecha: "08/12/2024",
+        hora: "16:30",
+        precio: "Gratuito",
+        categoria: "cultura"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/08-12.png",
+        nombre: "MIXTION MÚSICA Versiones tangueras del rock nacional",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "08/12/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
