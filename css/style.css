@@ -1131,6 +1131,10 @@ ul.cont li {
   }
   
   @media (max-width: 768px) {
+     h2 {
+          font-size: 1.2rem; 
+      }
+
      .logo-card {
         flex: 0 0 20%;
         max-width: 20%;
