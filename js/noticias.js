@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "08 de diciembre de 2024",
+    area: "Turismo",
+    titulo: "🍻¡Los esperamos hoy para vivir juntos del último día de La Fiesta de la Birra!",
+    descripcion: "Venite al Parque Cívico a disfrutar de buena birra, la mejor música y amigos.",
+    imagen: "images/noticias/turismo/birra08-12-24.png",
+    link:"https://www.instagram.com/reel/DDUtO2KRIPB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "04 de diciembre de 2024",
     area: "Turismo",
     titulo: "🎻Show de cierre de la 21° Fiesta de los Provincianos",
