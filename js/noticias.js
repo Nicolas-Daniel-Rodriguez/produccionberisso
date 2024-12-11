@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "11 de diciembre de 2024",
+    area: "U.Productivas",
+    titulo: "🍔Ciclo de Capacitaciones para elaboradores de alimentos🍟",
+    descripcion: "El Viernes 13 de diciembre continuamos con el Ciclo de Capacitaciones para elaboradores de alimentos 2024.<br><br>Destinadas a elaboradores/as de alimentos, que cuenten con habilitaciones PUPPAs o que estén interesados en adquirir su habilitación.¡importante! Acreditan para renovación de PUPAAs municipales y provinciales tercer encuentro Viernes 13 de diciembre...",
+    imagen: "images/noticias/Unid.Productivas/CapAlim3-2024.png",
+    link:"https://www.instagram.com/p/DDcZC5gxkdi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "08 de diciembre de 2024",
     area: "Turismo",
     titulo: "🍻¡Los esperamos hoy para vivir juntos del último día de La Fiesta de la Birra!",
