@@ -4331,6 +4331,141 @@ const actividades = [
         precio: "Arancelada",
         categoria: "shows"
     },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "13/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK viernes de cocina a la carta",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "13/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/13-12.png",
+        nombre: "ROMÁNTICAS TANGUERAS Susana Bauzada - Ana Ruiz",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "13/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "14/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/museo1871.png",
+        nombre: "Museo 1871 Abre sus puertas",
+        descripcion: "Acércate a Av. Montevideo y esquina 32 y conoce la historia de la ciudad en un solo lugar. Visita Guiada destinada a la comunidad sorda e hipoacúsica.",
+        fecha: "14/12/2024",
+        hora: "15:00",
+        precio: "Gratuita",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/navVela.png",
+        nombre: "NAVEGACIÓN A VELA ⛵✨",
+        descripcion: "Salimos del Club Nautico de Berisso (Genova, 5003). Recomendamos estar 15 min antes. La salida dura 2 horas y media y se recorren los puntos mas emblematicos del delta del Rio Santiago🤩 Podrás vivir la experiencia de aprender a navegar en velero. Incluye consumición🧃",
+        fecha: "14/12/2024",
+        hora: "19:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/agosto2024/yate.png",
+        nombre: "Travesía en yate privado🛳️",
+        descripcion: "Salimos desde el club Marina del Sur (Carlos Gardel 5000). Incluye 2 hs y media aproximadamente de navegación con coordinación, degustacion de vino de la costa 🍷, bebida (gaseosas, agua, té y café) y cosas dulces 🍰. Podes traer equipo de mate🧉 con reserva previa.",
+        fecha: "14/12/2024",
+        hora: "19:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/delta.png",
+        nombre: "DELTA NOCTURNO 🛳️",
+        descripcion: "El recorrido por el Rio Santiago durará 1 hora y 30 minutos aprox. Incluye guiada y degustación de vino de la costa, tipico de Berisso🍷",
+        fecha: "14/12/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/monoblock.jpg",
+        nombre: "MONOBLOCK sábado de menú por pasos",
+        descripcion: "Experiencia gastronómica en 10 y 161 restaurante Monoblock.",
+        fecha: "14/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/14-12.png",
+        nombre: "Raúl Barboza",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "14/12/2024",
+        hora: "21:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/pesca.png",
+        nombre: "Pesca Embarcada",
+        descripcion: "Salidas diarias de pesca 🎣 Embarcada a todas las especies. Desde Club Náutico de Berisso.",
+        fecha: "15/12/2024",
+        hora: "08:00",
+        precio: "Arancelada",
+        categoria: "pesca"
+    },
+    {
+        imagen: "./assets/actividades/julio2024/islaPaulino26al28-07.png",
+        nombre: "Experiencia Isla Paulino",
+        descripcion: "Salida desde el Embarcadero de Berisso (calle Génova 5003). Organiza Cámara de Turismo Berisso. ",
+        fecha: "15/12/2024",
+        hora: "11:00",
+        precio: "Arancelada",
+        categoria: "paseos"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/15-12-1.png",
+        nombre: "Ciclo Gastronomía de Antaño",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "15/12/2024",
+        hora: "13:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/creer15-12.png",
+        nombre: "Creer o reventar",
+        descripcion: "Veni a disfrutar de este show en Sala TCB - Nueva York Y Marsella. Organiza Teatro Comunitario de Berisso.",
+        fecha: "15/12/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
+    {
+        imagen: "./assets/actividades/diciembre2024/15-12-2.png",
+        nombre: "CRISIS Una obra de humor, música y terapias",
+        descripcion: "Este finde veni a disfrutar de este show. Te esperamos en Bar Raices Calle 2 y 169.",
+        fecha: "15/12/2024",
+        hora: "20:00",
+        precio: "Arancelada",
+        categoria: "shows"
+    },
     // Agrega más objetos para más actividades si es necesario
 ];
 
