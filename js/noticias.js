@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "16 de diciembre de 2024",
+    area: "U.Productivas",
+    titulo: "FERIA DE FIN DE AÑO",
+    descripcion: "🎊 Terminamos el año y queremos celebrarlo con toda la comunidad 🎊<br><br>🗓️ VIERNES 20 de 8:30 a 15hs<br>📍Playon del Parque Civico...",
+    imagen: "images/noticias/Unid.Productivas/feria20-12.png",
+    link:"https://www.instagram.com/p/DDhfPZyxZKb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "13 de diciembre de 2024",
+    area: "Empleo",
+    titulo: "🤝 ¡Un gran paso para la formación profesional!",
+    descripcion: "La Universidad Nacional de La Plata, a través de la Facultad de Arquitectura y Urbanismo y la Municipalidad de Berisso, firmaron un Convenio Específico que promueve la inserción de estudiantes en el medio productivo-social donde desarrollarán su futura profesión. 🏙️...",
+    imagen: "images/noticias/empleo/empleo16-12.png",
+    link:"https://www.instagram.com/p/DDe7U8AuOCj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "11 de diciembre de 2024",
     area: "U.Productivas",
     titulo: "🍔Ciclo de Capacitaciones para elaboradores de alimentos🍟",
