@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "17 de diciembre de 2024",
+    area: "Secretaria",
+    titulo: "✅Reunión con empresas para el desarrollo del Sector Industrial Planificado",
+    descripcion: "👏🏻Se presentó el proyecto que busca potenciar el desarrollo del Sector Industrial Planificado (SIP), a través de la radicación de actividades industriales y de servicios a la industria en Berisso con el fin de apuntar al crecimiento económico de su producto bruto interno...",
+    imagen: "images/noticias/secretaria/sip17-12.png",
+    link:"https://www.instagram.com/p/DDri1twRQW4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "16 de diciembre de 2024",
+    area: "Turismo",
+    titulo: "🎣 PESCA PIRATA NOOOO PARA! PARTE 1 🌊",
+    descripcion: "Arrancamos el día bien temprano con @federicoadrogue @jorge_luisborges, El Rober y Claudio. Señuelos listos, la expectativa a fondo. En el río, viento a full⚡",
+    imagen: "images/noticias/turismo/pesca17-12.png",
+    link:"https://www.instagram.com/reel/DDrfy4jRkbq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "16 de diciembre de 2024",
+    area: "Turismo",
+    titulo: "🎄Noche de Compras",
+    descripcion: "🗓️Jueves 19 y viernes 20<br>🕣De 19 a 23 hs.<br>📍Av. Montevideo Peatonal de calle 12 a calle 15.",
+    imagen: "images/noticias/turismo/nochecompras16-12.png",
+    link:"https://www.instagram.com/p/DDpwQ2wS-ks/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "16 de diciembre de 2024",
     area: "U.Productivas",
     titulo: "FERIA DE FIN DE AÑO",
