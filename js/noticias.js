@@ -11,7 +11,7 @@ var noticias = [
     fecha: "16 de diciembre de 2024",
     area: "Turismo",
     titulo: "🎣 PESCA PIRATA NOOOO PARA! PARTE 1 🌊",
-    descripcion: "Arrancamos el día bien temprano con @federicoadrogue @jorge_luisborges, El Rober y Claudio. Señuelos listos, la expectativa a fondo. En el río, viento a full⚡",
+    descripcion: "Arrancamos el día bien temprano con @federicoadrogue @jorge_luisborges, El Rober y Claudio. Señuelos listos, la expectativa a fondo. En el río, viento a full⚡.",
     imagen: "images/noticias/turismo/pesca17-12.png",
     link:"https://www.instagram.com/reel/DDrfy4jRkbq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
