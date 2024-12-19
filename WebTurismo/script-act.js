@@ -4565,6 +4565,7 @@ const actividades = [
         precio: "Arancelada",
         categoria: "pesca"
     },
+    
     {
         imagen: "./assets/actividades/diciembre2024/ny22-12.png",
         nombre: "Calle Nueva York Peatonal",
