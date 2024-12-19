@@ -4566,15 +4566,6 @@ const actividades = [
         categoria: "pesca"
     },
     {
-        imagen: "./assets/actividades/diciembre2024/mercado22-12.png",
-        nombre: "Apertura del Mercado de la Ribera",
-        descripcion: "El Mercado de la Ribera abre sus puertas a partir de las 10:00hs detrás de la pista de atletismo (170 e/ 8 y 9). Organiza Mercado la Ribera.",
-        fecha: "22/12/2024",
-        hora: "16:00",
-        precio: "Gratuita",
-        categoria: "paseos"
-    },
-    {
         imagen: "./assets/actividades/diciembre2024/ny22-12.png",
         nombre: "Calle Nueva York Peatonal",
         descripcion: "Los invitamos el próximo Domingo 22 de diciembre a partir de las 17hs, a la Calle Nueva York Peatonal, donde reunimos distintas propuestas como visitas guiadas🏛️, música en vivo🎤, gastronomía🍟, y mucho más! No te lo pierdas🥳<br>🙌🏻¡Entrada libre y gratuita!",
