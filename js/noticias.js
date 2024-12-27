@@ -1,5 +1,19 @@
 var noticias = [
   {
+    fecha: "20 de diciembre de 2024",
+    area: "U.Productivas",
+    titulo: "FERIA DE FIN DE AÑO 🫑🥑🥕🍞🍪🍷🧉",
+    descripcion: "Mas de 25 puestos con feriantes de diferentes rubros como, panificados, frutas y verduras, pescados, huevos, lácteos, pastas, conservas, vino, cervezas, productos apícolas, hongos, alimentos de primera necesidad, artesanías. Radio abierta, sorteos, reintegros y mas...",
+    imagenes: [
+        "images/noticias/Unid.Productivas/FeriaFinDeAño1.png",
+        "images/noticias/Unid.Productivas/FeriaFinDeAño2.png",
+        "images/noticias/Unid.Productivas/FeriaFinDeAño3.png",
+        "images/noticias/Unid.Productivas/FeriaFinDeAño4.png",
+        "images/noticias/Unid.Productivas/FeriaFinDeAño5.png"
+    ],
+    link: "https://www.instagram.com/p/DDhfPZyxZKb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+},
+  {
     fecha: "17 de diciembre de 2024",
     area: "Secretaria",
     titulo: "✅Reunión con empresas para el desarrollo del Sector Industrial Planificado",
@@ -1153,10 +1167,25 @@ let noticiasFiltradas = [];
 
 // Función para generar dinámicamente el HTML de una noticia
 function crearNoticiaHTML(noticia) {
+  let imagenesHTML = '';
+
+  if (Array.isArray(noticia.imagenes)) {
+    // Si hay varias imágenes, genera el HTML para el carrusel
+    imagenesHTML = noticia.imagenes.map((imagen, index) => `
+      <img src="${imagen}" class="imagen-noticia" alt="Imagen de la noticia ${index + 1}" style="${index === 0 ? 'display: block;' : 'display: none;'}">
+    `).join('') + `
+      <button class="prev" onclick="cambiarImagen(-1, this)">&#10094;</button>
+      <button class="next" onclick="cambiarImagen(1, this)">&#10095;</button>
+    `;
+  } else {
+    // Si solo hay una imagen, usa el formato original
+    imagenesHTML = `<img src="${noticia.imagen}" alt="Imagen de la noticia" class="unaImagen">`;
+  }
+
   return `
     <div class="noticia ${noticia.area.toLowerCase()}">
       <div class="imagen-not">
-        <img src="${noticia.imagen}" alt="Imagen de la noticia">
+        ${imagenesHTML}
       </div>
       <div class="contenido-not">
         <span class="fecha-not">${noticia.fecha}</span>
@@ -1168,6 +1197,30 @@ function crearNoticiaHTML(noticia) {
     </div>
   `;
 }
+
+// Funcion para cambiar imagenes
+function cambiarImagen(direccion, boton) {
+  const contenedor = boton.parentElement;
+  const imagenes = contenedor.querySelectorAll('.imagen-noticia');
+  let indiceActual;
+
+  // Encuentra la imagen actualmente visible
+  imagenes.forEach((img, index) => {
+    if (img.style.display === 'block') {
+      indiceActual = index;
+    }
+  });
+
+  // Oculta la imagen actual
+  imagenes[indiceActual].style.display = 'none';
+
+  // Calcula el nuevo índice
+  const nuevoIndice = (indiceActual + direccion + imagenes.length) % imagenes.length;
+
+  // Muestra la nueva imagen
+  imagenes[nuevoIndice].style.display = 'block';
+}
+
 
 // Función para agregar las noticias al contenedor con paginación
 function agregarNoticias(page = 1) {
