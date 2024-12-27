@@ -1112,7 +1112,7 @@ ul.cont li {
   
   .prev, .next {
      position: absolute;
-     top: 50%;
+     top: 35%;
      transform: translateY(-50%);
      background-color: rgba(0, 0, 0, 0.5);
      color: white;
@@ -1125,9 +1125,13 @@ ul.cont li {
   .prev {
      left: 0;
   }
-  
+
   .next {
      right: 0;
+  }
+
+  .prev:hover, .next:hover {
+     background-color: #000;
   }
   
   @media (max-width: 768px) {
@@ -1138,6 +1142,10 @@ ul.cont li {
      .logo-card {
         flex: 0 0 20%;
         max-width: 20%;
+     }
+
+     .prev, .next { 
+          top: 40%;
      }
   }
   
