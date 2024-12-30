@@ -1,8 +1,25 @@
 var noticias = [
   {
+    fecha: "27 de diciembre de 2024",
+    area: "U.Productivas",
+    titulo: "FERIA DE FIN DE AÑO",
+    descripcion: "👉🏼El pasado viernes 20 de diciembre, se realizó en el playón municipal, el cierre de este año de ferias, donde se reunieron Ferias Bonaerenses y Ferias del Circuito de la Economía Popular, con un total de 30 productores y elaboradores, en su gran mayoría de nuestra ciudad y otros invitados...",
+    imagenes: [
+        "images/noticias/Unid.Productivas/Fer27-12.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-1.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-2.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-3.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-4.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-5.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-6.jpeg",
+        "images/noticias/Unid.Productivas/Fer27-12-7.jpeg"
+    ],
+    link: "https://www.instagram.com/p/DED00OzSrxo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+},
+  {
     fecha: "20 de diciembre de 2024",
     area: "U.Productivas",
-    titulo: "FERIA DE FIN DE AÑO 🫑🥑🥕🍞🍪🍷🧉",
+    titulo: "FERIA DE FIN DE AÑO",
     descripcion: "Mas de 25 puestos con feriantes de diferentes rubros como, panificados, frutas y verduras, pescados, huevos, lácteos, pastas, conservas, vino, cervezas, productos apícolas, hongos, alimentos de primera necesidad, artesanías. Radio abierta, sorteos, reintegros y mas...",
     imagenes: [
         "images/noticias/Unid.Productivas/FeriaFinDeAño1.png",
