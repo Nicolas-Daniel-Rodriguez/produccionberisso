@@ -1,5 +1,53 @@
 var noticias = [
   {
+    fecha: "4 de febrero de 2025",
+    area: "Turismo",
+    titulo: "🎶 Estreno en MuniTv: “Lemuria” en La Isabella🎶",
+    descripcion: "Entre acordes y melodías, Lemuria hizo vibrar “La Isabella” con su música, en un escenario natural incomparable. 🌿🎸<br><br>La mágica Isla Paulino nos envolvió en su paz y armonía, recordándonos que siempre habrá un motivo para volver...",
+    imagen: "images/noticias/turismo/2025/lemuria.png",
+    link:"https://www.instagram.com/reel/DFp2uqQRaox/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "3 de febrero de 2025",
+    area: "Turismo",
+    titulo: "🎻Domingos de Folklore",
+    descripcion: "Los esperamos esta noche para disfrutar de nuestras raíces, bailes tradicionales, shows musicales y la mejor gastronomía.<br><br>👉🏻Venite ahora a la Plaza 17 de octubre (26 y 164).",
+    imagen: "images/noticias/turismo/2025/folklore.png",
+    link:"https://www.instagram.com/p/DFltbu0SKZv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "31 de enero de 2025",
+    area: "Turismo",
+    titulo: "💙Nuevas Redes☀️",
+    descripcion: "Sumamos nuevas redes sociales! Seguinos y enterate de todas las novedades.<br><br>#TurismoBerisso 💙#DescubríBerisso ☀️",
+    imagen: "images/noticias/turismo/2025/redes.png",
+    link:"https://www.instagram.com/p/DFazJVRPeqv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "28 de enero de 2025",
+    area: "Turismo",
+    titulo: "🏖️ Descubrí Nuestras Playas☀️",
+    descripcion: "🌊 Playa Palo Blanco<br>📍 Dirección: Calle 32, Avenida Palo Blanco.<br>👉🏻Servicios: Guardavidas, Baños, Gastronomía, Seguridad, Personal de salud.<br><br>🌊 Playa Municipal....",
+    imagen: "images/noticias/turismo/2025/playas28-1.png",
+    link:"https://www.instagram.com/reel/DFK9YFUgeUk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "21 de enero de 2025",
+    area: "Turismo",
+    titulo: "☀️Tardecitas de Verano",
+    descripcion: "👉🏻Pasamos una hermosa tarde en el anfiteatro del Borde Costero Génova con música en vivo, actividades deportivas, propuestas gastronómicas, cerveceros locales y feria de emprendedores.",
+    imagen: "images/noticias/turismo/2025/tardesitas21-1.png",
+    link:"https://www.instagram.com/p/DE9_txfNAGS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "07 de enero de 2025",
+    area: "Turismo",
+    titulo: "☀️Verano en Berisso",
+    descripcion: "Comenzó la temporada de playas 2025 y te invitamos a descubrir la naturaleza, disfrutando de nuestras playas.<br><br>👉🏻Isla Paulino<br>👉🏻Palo Blanco<br>👉🏻La Municipal<br>👉🏻La Balandra",
+    imagen: "images/noticias/turismo/2025/verano7-1.png",
+    link:"https://www.instagram.com/p/DEYPxbDSo--/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "27 de diciembre de 2024",
     area: "U.Productivas",
     titulo: "FERIA DE FIN DE AÑO",
