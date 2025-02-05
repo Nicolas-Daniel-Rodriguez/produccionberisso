@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "7 de febrero de 2025",
+    area: "Turismo",
+    titulo: "☀️Tardecitas de verano en Berisso",
+    descripcion: "Te esperamos con música en vivo, feria de emprendedores, gastronomía y la mejor cerveza artesanal.<br><br>📍Anfiteatro del Borde Costero Génova<br>🗓️Viernes 7 de 18:30 a 23 hs<br><br>¡No te lo pierdas!",
+    imagen: "images/noticias/turismo/2025/tardesitas7-2.png",
+    link:"https://www.instagram.com/p/DFqrmE-yNQZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "4 de febrero de 2025",
     area: "Turismo",
     titulo: "🎶 Estreno en MuniTv: “Lemuria” en La Isabella🎶",
