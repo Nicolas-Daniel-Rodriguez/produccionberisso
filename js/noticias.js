@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "9 de febrero de 2025",
+    area: "Turismo",
+    titulo: "☀️Las Tardecitas de Verano ya son un clásico",
+    descripcion: "👉🏻Ayer pasamos una hermosa tarde en el anfiteatro del Borde Costero Génova con música en vivo, actividades deportivas, gastronomía , cerveceros locales y feria de emprendedores...",
+    imagen: "images/noticias/turismo/2025/tardesitas7-2-1.png",
+    link:"https://www.instagram.com/reel/DF1MjyeyRSv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "7 de febrero de 2025",
     area: "Turismo",
     titulo: "☀️Tardecitas de verano en Berisso",
