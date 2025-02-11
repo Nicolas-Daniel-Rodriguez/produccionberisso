@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "10 de febrero de 2025",
+    area: "Secretaria",
+    titulo: "🥣 Curso de Manipulación de Alimentos",
+    descripcion: "🗓️ Viernes 14 de febrero<br>🕛 14 hs.<br>📍 Secretaría de Producción (Av. Montevideo y calle Nueva York)<br>📝 Inscripción en el lugar el mismo día de la capacitación<br>📚 Un encuentro presencial + una clase virtual asincrónica",
+    imagen: "images/noticias/secretaria/2025/cursoManipulacion14-2.png",
+    link:"https://www.instagram.com/p/DF6JckHShVI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "9 de febrero de 2025",
     area: "Turismo",
     titulo: "☀️Las Tardecitas de Verano ya son un clásico",
