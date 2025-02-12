@@ -35,14 +35,58 @@ var markers = [
     },
     {
         id: 'local4',
-        nombre: 'Avenida Montevideo y 16',
-        descripcion: 'Descripción de Avenida Montevideo y 16',
-        direccion: 'Dirección de Avenida Montevideo y 16',
+        nombre: 'Casa de Cultura',
+        direccion: 'Av. Montevideo 821, Berisso',
+        dias: 'Lunes a Viernes',
+        horarios: '08:00 a 18:00hs',
+        latitud: -34.868659,
+        longitud: -57.883612,
+        imagen: '../images/mapa/local4.png'
+    },
+    {
+        id: 'local5',
+        nombre: 'Club Náutico de Berisso',
+        direccion: 'Calle Genova 5003, Berisso',
         dias: 'Todos los días',
-        horarios: 'Horarios variables',
-        latitud: -34.874945,
-        longitud: -57.865035,
-        imagen: '../WebTurismo/assets/actividades/monoblock.jpg'
+        horarios: '08:00 a 20:00hs',
+        latitud: -34.862528,
+        longitud: -57.882745,
+        imagen: '../images/mapa/local5.png'
+    },
+    {
+        id: 'local6',
+        nombre: 'Marina del Sur',
+        direccion: 'Carlos Gardel n° 5000, Berisso',
+        dias: 'Todos los días',
+        horarios: '07:00 a 20:00hs',
+        latitud: -34.862370,
+        longitud: -57.883916,
+        imagen: '../images/mapa/local6.png'
+    },
+    {
+        id: 'local7',
+        nombre: 'Astillero Martinoli',
+        direccion: 'Calle 12 y Arroyo del Saladero, Berisso',
+        latitud: -34.865229529019956, 
+        longitud: -57.880419877699296,
+    },
+    {
+        id: 'local8',
+        nombre: 'Humedal Urbano Génova',
+        direccion: 'Avenida Montevideo y Genova, Berisso',
+        latitud: -34.86695049832063, 
+        longitud: -57.886566620287525,
+    },
+    {
+        id: 'local9',
+        nombre: 'Cámara de Turismo',
+         // Faltan datos...
+        direccion: 'Falta',
+        dias: 'Todos los días',
+        horarios: '07:00 a 20:00hs',
+        latitud: -34.862370,
+        longitud: -57.883916,
+        imagen: '../images/mapa/local9.png'
     },
     // Agrega más marcadores según sea necesario
     /*{
