@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "17 de febrero de 2025",
+    area: "Secretaria",
+    titulo: "Curso de Manipulación de Alimentos",
+    descripcion: "El pasado viernes 14 de febrero, en la Secretaría de Producción, en conjunto con la Secretaría de Salud, se dictó un nuevo curso de manipulación de alimentos.<br><br>Seguimos acompañando a los vecinos emprendedores gastronómicos, para que puedan cumplir con los requisitos de salubridad para poder trabajar.",
+    imagenes: [
+      "images/noticias/secretaria/2025/manipulacion14-02.jpeg",
+      "images/noticias/secretaria/2025/manipulacion14-02 (3).jpeg"
+  ],
+    link:"https://www.instagram.com/p/DGLJ4SjRBwn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "16 de febrero de 2025",
+    area: "U.Productivas",
+    titulo: "Visita técnica en la Isla Borsani",
+    descripcion: "El pasado viernes 7 de febrero, el Área de Unidades Productivas de la Secretaría de Producción realizó una visita junto a autoridades del INV (Instituto Nacional de Vitivinicultura) a la quinta productiva “Productos Del Borsani” en nuestra localidad...",
+    imagenes: [
+      "images/noticias/Unid.Productivas/2025/visita16-02.jpeg",
+      "images/noticias/Unid.Productivas/2025/visita16-02 (3).jpeg",
+      "images/noticias/Unid.Productivas/2025/visita16-02 (4).jpeg",
+      "images/noticias/Unid.Productivas/2025/visita16-02 (5).jpeg"
+  ],
+    link:"https://www.instagram.com/p/DGJeLVhSfw2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "10 de febrero de 2025",
     area: "Secretaria",
     titulo: "🥣 Curso de Manipulación de Alimentos",
