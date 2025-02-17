@@ -24,6 +24,22 @@ var noticias = [
     link:"https://www.instagram.com/p/DGJeLVhSfw2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
+    fecha: "15 de febrero de 2025",
+    area: "Turismo",
+    titulo: "🍻Se realizó en el Club Almafuerte la Degustación de Cervezas Artesanales de Verano",
+    descripcion: "Un evento que sigue consolidando el crecimiento de nuestros productores locales.<br><br>👏🏻Felicitaciones a Cerveceros de Berisso por su dedicación y pasión, que año a año fortalecen la identidad cervecera de nuestra ciudad.",
+    imagen: "images/noticias/turismo/2025/degustacion15-02.png",
+    link:"https://www.instagram.com/p/DGGVSlvRqDz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "13 de febrero de 2025",
+    area: "Turismo",
+    titulo: "En Berisso, la tradición vitivinícola tiene más de 100 años y sigue viva. 🍇",
+    descripcion: "Los inmigrantes trajeron su pasión por el vino y la transformaron en un legado que hoy es reconocido oficialmente como vino de región...",
+    imagen: "images/noticias/turismo/2025/codigoviaje13-02.png",
+    link:"https://www.instagram.com/reel/DF_TH4hS-Fh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "10 de febrero de 2025",
     area: "Secretaria",
     titulo: "🥣 Curso de Manipulación de Alimentos",
