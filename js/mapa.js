@@ -88,6 +88,16 @@ var markers = [
         longitud: -57.883916,
         imagen: '../images/mapa/local9.png'
     },
+    {
+        id: 'local10',
+        nombre: 'Cooperativa de la Costa (Vino)',
+        direccion: 'Av. Montevideo 6420, Berisso',
+        dias: 'Martes, jueves y Sábados',
+        horarios: '10:00 a 17:00hs',
+        latitud: -34.890847, 
+        longitud: -57.823018,
+        imagen: '../images/mapa/local10.png'
+    },
     // Agrega más marcadores según sea necesario
     /*{
         id: 'local4',

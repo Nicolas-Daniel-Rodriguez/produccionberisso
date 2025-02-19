@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "19 de febrero de 2025",
+    area: "Secretaria",
+    titulo: "✅Provincia Microcréditos",
+    descripcion: "👉🏻¡Impulsá tu emprendimiento!<br><br>ℹ️Para mas información, comunicarse con la Secretaría de Producción.<br><br>📞464-4554<br>💻secretariaproduccionberisso@gmail.com<br>📍o acercándose a la oficina ubicada en Av. Montevideo y 2 (Polígono), primer piso, de 8 a 14hs.",
+    imagen: "images/noticias/secretaria/2025/ProvinciaMicrocreditos.png",
+    link:"https://www.instagram.com/p/DGQOZpzRP8p/?utm_source=ig_web_copy_link"
+  },
+  {
     fecha: "17 de febrero de 2025",
     area: "Secretaria",
     titulo: "Curso de Manipulación de Alimentos",
