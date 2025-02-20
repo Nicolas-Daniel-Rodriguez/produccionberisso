@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "20 de febrero de 2025",
+    area: "D.Productivos",
+    titulo: "✅FINANCIACIÓN SUBSIDIADA POR CONVENIOS MUNICIPALES",
+    descripcion: "👉🏻Líneas de financiación para emprendedoras y emprendedores locales, por medio de firma de convenios municipales quienes aportan en el subsidio de la tasa.",
+    imagen: "images/noticias/d.productivos/Microcreditos.png",
+    link:"https://www.provinciamicrocreditos.com.ar/creditos/convenios-municipales/"
+  },
+  {
     fecha: "19 de febrero de 2025",
     area: "Secretaria",
     titulo: "✅Provincia Microcréditos",
