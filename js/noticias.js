@@ -1,5 +1,37 @@
 var noticias = [
   {
+    fecha: "24 de febrero de 2025",
+    area: "Agraria",
+    titulo: "VISITA A LA BIOFÁBRICA ESCUELA",
+    descripcion: "👉🏼El pasado 18 de febrero, desde la Dirección de Asuntos Agrarios, realizamos una visita a la Biofábrica Escuela, ubicada en la Estación Experimental Julio Hirschhorn de la Facultad de Ciencias Agrarias y Forestales, de la Universidad Nacional de La Plata...",
+    imagen: "images/noticias/agraria/2025/visitaBiofabrica.png",
+    link:"https://www.instagram.com/p/DGdGXANRGBF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "22 de febrero de 2025",
+    area: "Turismo",
+    titulo: "🎸🔥 ¡Domingo de Rock en Berisso!",
+    descripcion: "🧡Este 2 de marzo, preparáte para una noche llena de música, y buena vibra. Desde las 18:00 ,la Plaza 17 de Octubre será el epicentro del rock con bandas en vivo.<br><br>📍 ENTRADA LIBRE Y GRATUITA",
+    imagen: "images/noticias/turismo/2025/domRock2-3.png",
+    link:"https://www.instagram.com/p/DGV8HWVvaId/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "21 de febrero de 2025",
+    area: "Turismo",
+    titulo: "🔥Domingos de Folklore !",
+    descripcion: "🧡Este domingo 23 de febrero,nos encontramos en la Plaza 17 de Octubre para vivir otra jornada a pura música y tradición.<br><br>📍 Plaza 17 de Octubre, Berisso<br>📅 Domingo 23 de febrero - 18 hs",
+    imagen: "images/noticias/turismo/2025/domFolk23-2.png",
+    link:"https://www.instagram.com/p/DGTUQsER7fs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "20 de febrero de 2025",
+    area: "Turismo",
+    titulo: "☀️Tardecitas de verano en Berisso",
+    descripcion: "Te esperamos con música en vivo, feria de emprendedores, gastronomía y la mejor cerveza artesanal.<br><br>📍Anfiteatro del Borde Costero Génova<br>🗓️Viernes 21 de 18:30 a 23 hs<br><br>¡No te lo pierdas!",
+    imagen: "images/noticias/turismo/2025/Tardesitas21-2.png",
+    link:"https://www.instagram.com/p/DGOu5qbyGjk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "20 de febrero de 2025",
     area: "D.Productivos",
     titulo: "✅FINANCIACIÓN SUBSIDIADA POR CONVENIOS MUNICIPALES",
