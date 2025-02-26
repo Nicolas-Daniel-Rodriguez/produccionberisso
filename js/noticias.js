@@ -1,10 +1,18 @@
 var noticias = [
   {
+    fecha: "25 de febrero de 2025",
+    area: "Secretaria",
+    titulo: "✅FormaT: Programa Municipal de Capacitación Virtual",
+    descripcion: "👉🏻Descubrí estas 3 nuevas ofertas educativas que tenemos para vos, certificadas por la Escuela de Economía y Finanzas de la Universidad Nacional de San Martín.<br><br>Consultas:<br>📲221 6980924<br>💻berisso.formate@gmail.com",
+    imagen: "images/noticias/secretaria/2025/format.png",
+    link:"https://www.instagram.com/p/DGgtEh2S1VY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "24 de febrero de 2025",
     area: "Agraria",
     titulo: "VISITA A LA BIOFÁBRICA ESCUELA",
     descripcion: "👉🏼El pasado 18 de febrero, desde la Dirección de Asuntos Agrarios, realizamos una visita a la Biofábrica Escuela, ubicada en la Estación Experimental Julio Hirschhorn de la Facultad de Ciencias Agrarias y Forestales, de la Universidad Nacional de La Plata...",
-    imagen: "images/noticias/agraria/2025/visitaBiofabrica.png",
+    imagen: "images/noticias/agraria/2025/VisitaBiofabrica.png",
     link:"https://www.instagram.com/p/DGdGXANRGBF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
