@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "05 de marzo de 2025",
+    area: "Agrario",
+    titulo: "La Biofábrica de la UNLP fue habilitada para producir insumos agroecológicos",
+    descripcion: "La Biofábrica Escuela de la Universidad Nacional de La Plata recibió el día martes 25 del corriente, por parte del ministro de Desarrollo Agrario bonaerense, Javier Rodríguez, la habilitación formal que certifica que cumple con los estándares exigidos para la producción y comercialización de Biopreparados. La flamante planta de la UNLP es una propuesta agroecológica de la casa de estudios platense orientada a la fabricación de bioinsumos agroecológicos que se utilizan para mejorar la calidad de los suelos y la productividad de los cultivos...",
+    imagen: "images/noticias/agraria/2025/Biofabrica.png",
+    link:"images/noticias/agraria/2025/HABILITACIÓN-BIOFABRICA.pdf"
+  },
+  {
+    fecha: "04 de marzo de 2025",
+    area: "Turismo",
+    titulo: "🎬✨ ¡Llega CineMóvil a nuestra ciudad con una proyección imperdible!",
+    descripcion: "🧡El próximo domingo 9 de marzo a las 20 hs te invitamos a disfrutar de “Elijo Creer”, una película que revive la emoción de la histórica consagración de la Selección Argentina en el Mundial de Qatar 2022. ⚽🏆...",
+    imagen: "images/noticias/turismo/2025/ElijoCreer.png",
+    link:"https://www.instagram.com/p/DGyQluPvtsK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "01 de marzo de 2025",
+    area: "Secretaria",
+    titulo: "📈 | ADMINISTRACIÓN DE PYMES",
+    descripcion: "El curso de Administración de Pymes está compuesto por un programa integral diseñado para formar emprendedores y profesionales capaces de gestionar, desarrollar y hacer crecer pequeñas y medianas empresas. Aprenderás estrategias de gestión, herramientas financieras y habilidades empresariales para impulsar el éxito de tu negocio en un mercado competitivo...",
+    imagen: "images/noticias/secretaria/2025/AdminPymes.png",
+    link:"https://www.instagram.com/p/DGp-3SjxZWl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "25 de febrero de 2025",
     area: "Secretaria",
     titulo: "✅FormaT: Programa Municipal de Capacitación Virtual",
