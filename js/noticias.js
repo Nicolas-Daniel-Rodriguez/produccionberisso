@@ -1,5 +1,32 @@
 var noticias = [
   {
+    fecha: "10 de marzo de 2025",
+    area: "U.Productivas",
+    titulo: "Habilitación de PUPAAs de Unidades Productivas📝",
+    descripcion: "👉🏼Desde el área de Unidades Productivas perteneciente a la Secretaría de Producción, se llevo a cabo una habilitación de una unidad productiva de chocolatería en tiempo récord. El emprendedor presentó todos los papeles y requerimientos necesarios, lo que permitió agilizar el proceso...",
+    imagenes: [
+      "images/noticias/Unid.Productivas/2025/Pupaas1.jpeg",
+      "images/noticias/Unid.Productivas/2025/Pupaas2.jpeg"
+  ],
+    link:"https://www.instagram.com/p/DHBOjJERlsa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "07 de marzo de 2025",
+    area: "D.Productivos",
+    titulo: "Capacitación Gestión Integral de Emprendimientos",
+    descripcion: "El Ministerio de Producción, Ciencia e Innovación Tecnológica de la provincia de Buenos Aires junto al Municipio de Berisso te invitan a participar de la capacitación: Gestión Integral de Emprendimientos... <br><br>📅 Fecha de inicio: Jueves 20 de marzo<br>🕥 Horario* 14:00 a 17:00 hs",
+    imagen: "images/noticias/d.productivos/Emprendedores.png",
+    link:"https://www.instagram.com/p/DG4EbbOvLw6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de marzo de 2025",
+    area: "D.Productivos",
+    titulo: "🗣️Charla sobre Microcréditos del Banco Provincia para emprendedores",
+    descripcion: "Junto a Microcréditos del Banco Provincia, te brindamos la oportunidad de conocer cómo acceder a financiamiento para tu emprendimiento a tasas preferenciales, subsidiadas por la Municipalidad de Berisso.<br><br>📅 Jueves 13 de marzo<br>⏰ 14 hs<br>📍 Secretaría de Producción (Av. Montevideo y Nueva York, edificio del Polígono, 2do piso)",
+    imagen: "images/noticias/d.productivos/charla-microcreditos.png",
+    link:"https://www.instagram.com/p/DG1dnQdSda0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "05 de marzo de 2025",
     area: "Agrario",
     titulo: "La Biofábrica de la UNLP fue habilitada para producir insumos agroecológicos",
