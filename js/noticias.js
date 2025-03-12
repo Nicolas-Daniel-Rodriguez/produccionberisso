@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "12 de marzo de 2025",
+    area: "Turismo",
+    titulo: "☀️Tardecitas de verano en Berisso",
+    descripcion: "Te esperamos con música en vivo, feria de emprendedores, gastronomía y la mejor cerveza artesanal.<br><br>📍Anfiteatro del Borde Costero Génova<br>🗓️Viernes 14 de 18 a 23 hs<br><br>¡No te lo pierdas!",
+    imagen: "images/noticias/turismo/2025/Tardecitas14-3.png",
+    link:"https://www.instagram.com/p/DHGRomdxTOG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "10 de marzo de 2025",
     area: "U.Productivas",
     titulo: "Habilitación de PUPAAs de Unidades Productivas📝",
