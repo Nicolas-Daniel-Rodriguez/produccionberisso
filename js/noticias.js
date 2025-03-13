@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "13 de marzo de 2025",
+    area: "U.Productivas",
+    titulo: "Mercados Bonaerenses 🛒",
+    descripcion: "Conocé a los productores locales y llevate productos frescos y de calidad a precios increíbles. Además, aprovechá los descuentos con Cuenta DNI.<br><br>📍 Jueves: Puente 3 de Abril<br>📍 Viernes: Playón Municipal<br>🕘 De 9:00 a 14:00 hs...",
+    imagen: "images/noticias/Unid.Productivas/2025/MercadosBonaerenses.png",
+    link:"https://www.instagram.com/p/DHJNK2MRTEi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "12 de marzo de 2025",
     area: "Turismo",
     titulo: "☀️Tardecitas de verano en Berisso",
