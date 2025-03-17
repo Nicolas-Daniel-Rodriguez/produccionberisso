@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "17 de marzo de 2025",
+    area: "Turismo",
+    titulo: "Descubrí los Sabores de Berisso: “La Bolleria” de Juan Manuel Herrera",
+    descripcion: "Bienvenidos a “Descubrí los Sabores de Berisso”, una nueva sección donde exploraremos la rica y diversa gastronomía de nuestra ciudad. En esta primera entrega, nos adentramos en el corazón de “La Bollería”, un rincón especial donde el aroma a pan recién horneado y la pasión por la repostería se fusionan para crear experiencias inolvidables...",
+    imagen: "images/noticias/turismo/2025/bolleria.jpeg",
+    link:"https://www.instagram.com/p/DHTn_7NsZYE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "10 de marzo de 2025",
+    area: "Empleo",
+    titulo: "📢 Cursos de Capacitación Gratuitos",
+    descripcion: "Si querés aprender nuevas habilidades o mejorar tu formación, esta es tu oportunidad. Junto al CFL 403 de Berisso, abrimos la inscripción para distintos cursos de capacitación...",
+    imagen: "images/noticias/empleo/cursos.png",
+    link:"https://www.instagram.com/p/DHLlQjERB9n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "10 de marzo de 2025",
+    area: "D.Productivos",
+    titulo: "Charla sobre Microcréditos para emprendimientos de Berisso📚",
+    descripcion: "👉🏼Esta tarde, en la sala de capacitaciones de la Secretaría de Producción de la Municipalidad de Berisso, se llevó a cabo una charla informativa sobre Microcréditos del Banco Provincia, destinada a emprendedores, productores, feriantes y comerciantes locales...",
+    imagen: "images/noticias/d.productivos/charla-microcreditos2.png",
+    link:"https://www.instagram.com/p/DHKO054txsH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "13 de marzo de 2025",
     area: "U.Productivas",
     titulo: "Mercados Bonaerenses 🛒",
