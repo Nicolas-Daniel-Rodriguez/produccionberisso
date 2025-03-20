@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "19 de marzo de 2025",
+    area: "Turismo",
+    titulo: "🎸🔥 ¡El rock se vive en Berisso! 🔥",
+    descripcion: "🧡 Junto al Consejo de la Música, te invitamos a vivir una jornada única este sábado 22, llena de música en vivo, buena comida y la mejor energía.<br><br>🕔 Desde las 17:00 hs<br>📍 Playón Municipal - Av. Montevideo y 11...",
+    imagen: "images/noticias/turismo/2025/findeDeRock.png",
+    link:"https://www.instagram.com/p/DHZCQk2PcXV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "18 de marzo de 2025",
     area: "Turismo",
     titulo: "☀️Tardecitas de verano en Berisso",
