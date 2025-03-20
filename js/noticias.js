@@ -12,7 +12,7 @@ var noticias = [
     area: "Turismo",
     titulo: "☀️Tardecitas de verano en Berisso",
     descripcion: "Te esperamos para despedir el verano, con música en vivo, feria de emprendedores, gastronomía y la mejor cerveza artesanal.<br><br>📍Anfiteatro del Borde Costero Génova<br>🗓️Viernes 21 de 18 a 23 hs<br><br>¡No te lo pierdas!",
-    imagen: "images/noticias/turismo/2025/Tardecita21-3.png",
+    imagen: "images/noticias/turismo/2025/tardecita21-3.png",
     link:"https://www.instagram.com/p/DHWHqQDRRXa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
