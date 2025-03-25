@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "25 de marzo de 2025",
+    area: "Agraria",
+    titulo: "TALLER DE SANIDAD POST-COSECHA🍇",
+    descripcion: "Esta jornada estará destinada para productores fruti-hortícolas berissenses y para toda la comunidad 💜<br><br>👉🏼El día jueves 27 de marzo a las 10:30 en el Camino Bagliardi, calle 3 de abril, “Quinta Daraya”.",
+    imagen: "images/noticias/agraria/2025/taller-cosecha.png",
+    link:"https://www.instagram.com/p/DHoF0_-xZaa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "20 de marzo de 2025",
+    area: "Turismo",
+    titulo: "👉🏼Presentación de la Diplomatura 'Sustenta-T en Turismo y Ambiente Berissenses' en el marco del Programa Forma-T.",
+    descripcion: "🖥️Hasta el miércoles 26 de marzo podés inscribirte a través del formulario👉🏼<br><br>https://docs.google.com/forms/d/e/1FAIpQLSefLIPoqs-kcEzror7znJPArK0szhCrOWrRUIm2zDcx5SUFZg/viewform?usp=sharing<br><br>🔹La Diplomatura tiene una duración de cuatro meses con clases virtuales sincrónicas y asincrónicas, y una vez al mes, presencial.",
+    imagen: "images/noticias/turismo/2025/Diplomatura.png",
+    link:"https://www.instagram.com/p/DHY4IXUuKMn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "19 de marzo de 2025",
     area: "Turismo",
     titulo: "🎸🔥 ¡El rock se vive en Berisso! 🔥",
