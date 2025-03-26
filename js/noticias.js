@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "26 de marzo de 2025",
+    area: "Turismo",
+    titulo: "¡Tú Próxima Aventura: Descubrí Berisso con Onda Sup! 🛶☀️",
+    descripcion: "¡Preparate para explorar Berisso de una manera única! 🗺️ Con “Onda Sup”, te invitamos a Descubrir Berisso desde el agua, remando y disfrutando de la tranquilidad y la belleza de nuestros paisajes...",
+    imagen: "images/noticias/turismo/2025/onda-sup.jpeg",
+    link:"https://www.instagram.com/p/DHqrkGFM83c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "25 de marzo de 2025",
     area: "Agraria",
     titulo: "TALLER DE SANIDAD POST-COSECHA🍇",
