@@ -1,5 +1,36 @@
 var noticias = [
   {
+    fecha: "27 de marzo de 2025",
+    area: "U.Productivas",
+    titulo: "TALLER DE ELABORACIÓN DE VINO DE LA COSTA🍷🍇",
+    descripcion: "En este taller, comenzaremos con el proceso de elaboración de un vino casero típico de la zona. Vamos a aprender de manera práctica los primeros pasos para su elaboración y de manera teórica los pasos a seguir para obtener un producto seguro y de calidad.<br><br>👉🏼Esta jornada se realizará el día martes 1 de abril de 9:30 a 12:30hs en el SUM de la Comunidad, calle 18 y 156...",
+    imagen: "images/noticias/Unid.Productivas/2025/taller-vino.png",
+    link:"https://www.instagram.com/p/DHs-fCLxrfM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "27 de marzo de 2025",
+    area: "Agraria",
+    titulo: "FIRMA DE COMODATO APABE (Asociación de Apicultores de Berisso)",
+    descripcion: "El día miércoles 19 de marzo en horas de la mañana se firmó la Renovación del Comodato de uso del terreno en el que se emplaza la asociación conjuntamente con el Plan de Mejoras Edilicias.<br>APABE es una Asociación Civil que nuclea apicultores de Berisso, La Plata y la Región.<br>Desde 2013, la asociación se ha establecido en la ciudad, desarrollándose en la zona de Los Talas.<br>Durante el último año, APABE se ha enfocado en la reorganización institucional y en el trabajo con el programa 'Mi Primera Colmena', impulsado por el Ministerio de Producción de la Provincia de Buenos Aires. Este programa busca potenciar la actividad apícola en la provincia, principal productora de miel del país...",
+    imagenes: [
+      "images/noticias/agraria/2025/comodato-apabe-1.jpeg",
+      "images/noticias/agraria/2025/comodato-apabe-2.jpeg"
+  ],
+    link:"#"
+  },
+  {
+    fecha: "27 de marzo de 2025",
+    area: "Agraria",
+    titulo: "JORNADA-TALLER HUERTAS BONAERENSES",
+    descripcion: "El día viernes 21 del corriente en las instalaciones del Parque ambiental, se llevó adelante la Primer Jornada – Taller, organizada por la Dirección de Agrarios, perteneciente a la Secretaría de Producción Municipal, destinada a la comunidad de Huertas Bonaerenses.<br>El Objeto de la misma era la puesta en común de las diversas experiencias respecto de la Temporada Primavera –Verano, y la entrega de semillas de la nueva temporada Otoño Invierno.<br>A través de este encuentro se busca la cooperación fluida entre los distintos espacios productivos, y la posibilidad de seguir articulando mediante otras capacitaciones en el futuro.<br>También se está preparando una capacitación sobre regeneración de suelo post-cosecha, y la elaboración de compost y biopreparados para la huerta.",
+    imagenes: [
+      "images/noticias/agraria/2025/taller-huerta-1.jpeg",
+      "images/noticias/agraria/2025/taller-huerta-2.jpeg",
+      "images/noticias/agraria/2025/taller-huerta-3.jpeg"
+  ],
+    link:"#"
+  },
+  {
     fecha: "26 de marzo de 2025",
     area: "Turismo",
     titulo: "¡Tú Próxima Aventura: Descubrí Berisso con Onda Sup! 🛶☀️",
