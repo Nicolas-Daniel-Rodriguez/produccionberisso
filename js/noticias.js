@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "29 de marzo de 2025",
+    area: "Turismo",
+    titulo: "📍 Descubrí Berisso – Aventura en el agua con Onda Sup 🏄‍♂️🌊",
+    descripcion: "¿Listo para vivir Berisso desde otra perspectiva? 🚣‍♀️✨ Sumate a la experiencia de Onda Sup y dejate llevar por la magia del río. Remá, disfrutá la naturaleza y conectá con la tranquilidad del agua mientras explorás nuestros paisajes como nunca antes...",
+    imagen: "images/noticias/turismo/2025/onda-sup1.png",
+    link:"https://www.instagram.com/reel/DHwjF_avtBi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "28 de marzo de 2025",
+    area: "D.Productivos",
+    titulo: "📢 ¡Comenzó la capacitación “Gestión Integral de Emprendimientos” en Berisso!",
+    descripcion: "Ayer, jueves 27 de marzo, dimos inicio a este importante espacio de formación en la Secretaría de Producción del Municipio de Berisso, en conjunto con el Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires...",
+    imagen: "images/noticias/d.productivos/emprendimientos03-25.png",
+    link:"https://www.instagram.com/p/DHwPUDXSfKm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "27 de marzo de 2025",
     area: "U.Productivas",
     titulo: "TALLER DE ELABORACIÓN DE VINO DE LA COSTA🍷🍇",
