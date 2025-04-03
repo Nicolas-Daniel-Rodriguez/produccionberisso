@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "03 de abril de 2025",
+    area: "Agraria",
+    titulo: "TALLER DE ELABORACIÓN DE VINO DE LA COSTA🍷🍇",
+    descripcion: "El dia martes 1 de abril, en el SUM de la Comunidad de calle 18 y 156. se llevó a cabo el taller teórico-práctico de elaboración de vino de la costa, donde se mostró el proceso de elaboración de un vino casero típico de la zona. Se hizo la parte teórica y práctica de los primeros pasos de elaboración para obtener un producto seguro y de calidad.",
+    imagen: "images/noticias/agraria/2025/taller-vino.png",
+    link:"https://www.instagram.com/p/DH-_8wsRQjK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "03 de abril de 2025",
+    area: "Turismo",
+    titulo: "🍺 ¡Viví la experiencia cervecera en Alvignano! 🍺",
+    descripcion: "Junto a la Subsecretaría de Turismo de la Provincia de Buenos Aires, te invitamos a descubrir el proceso de elaboración de una de las cervezas más emblemáticas de la región. Sumate a las visitas guiadas a la fábrica de la cervecería Alvignano y conocé todos los secretos de su producción artesanal...",
+    imagen: "images/noticias/turismo/2025/alvignano.jpeg",
+    link:"https://www.instagram.com/p/DH_EbVhsurF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "02 de abril de 2025",
+    area: "Turismo",
+    titulo: "¡Fiesta de la Birra en Berisso!🎉🍻",
+    descripcion: "📅 4, 5 y 6 de abril<br>📍 Parque Cívico de Berisso<br>🎟 Entrada libre y gratuita<br><br>Tres días a pura birra, música en vivo, food trucks y el mejor ambiente para disfrutar con amigos y familia. 🍺🎶🍔",
+    imagen: "images/noticias/turismo/2025/fiesta-birra.jpeg",
+    link:"https://www.instagram.com/p/DH6zdGhPpOu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "29 de marzo de 2025",
     area: "Turismo",
     titulo: "📍 Descubrí Berisso – Aventura en el agua con Onda Sup 🏄‍♂️🌊",
