@@ -1,5 +1,29 @@
 var noticias = [
   {
+    fecha: "07 de abril de 2025",
+    area: "Turismo",
+    titulo: "🍻Finalizó la Fiesta de la Birra",
+    descripcion: "Con más de 15 mil personas, cerró una nueva edición de la Fiesta de la Birra, un evento que se convirtió en un clásico de la ciudad.<br><br>👏🏻Gracias a quienes vinieron a disfrutar, a los productores locales, y a cada uno de los que hizo posible este evento.",
+    imagen: "images/noticias/turismo/2025/fiesta-birra-fin.png",
+    link:"https://www.instagram.com/reel/DIITXMkt6uq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "06 de abril de 2025",
+    area: "Turismo",
+    titulo: "¡Ya estamos viviendo La Fiesta de la Birra en Berisso! 🍻",
+    descripcion: "💙Anoche vivimos una jornada inolvidable con música en vivo, food trucks, cerveza artesanal y una multitud que colmó el predio con alegría y buena energía.<br><br>🎸Bandas locales y regionales hicieron vibrar el escenario con estilos para todos los gustos, mientras las canillas no pararon de tirar las mejores birras de productores de la región...",
+    imagen: "images/noticias/turismo/2025/fiesta-birra.png",
+    link:"https://www.instagram.com/p/DIEvaQNPmro/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "04 de abril de 2025",
+    area: "Turismo",
+    titulo: "Berisso en clave Ghibli ✨🏘️",
+    descripcion: "Rincones familiares, pero con un toque de fantasía. Así se ve nuestra ciudad cuando la imaginación se encuentra con el arte.<br><br>Gracias a Gabriel Milloc por las fotos originales que inspiraron esta versión mágica... 🖼️🌿",
+    imagen: "images/noticias/turismo/2025/Ghibli.png",
+    link:"https://www.instagram.com/p/DIB3dKyss8A/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "03 de abril de 2025",
     area: "Agraria",
     titulo: "TALLER DE ELABORACIÓN DE VINO DE LA COSTA🍷🍇",
