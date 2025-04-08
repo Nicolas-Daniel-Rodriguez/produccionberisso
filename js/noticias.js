@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "08 de abril de 2025",
+    area: "Turismo",
+    titulo: "¡Gracias por acompañarnos en la visita guiada a Cervecería Alvignano! 🍺🏭",
+    descripcion: "El pasado sábado vivimos una experiencia increíble recorriendo la fábrica “Alvignano”, en el marco de la Fiesta de la Birra. Una jornada llena de conocimiento cervecero, buena onda y muchas ganas de seguir potenciando la cultura de la cerveza artesanal en nuestra ciudad...",
+    imagen: "images/noticias/turismo/2025/visita-alvignano.png",
+    link:"https://www.instagram.com/p/DIL92aQMfqc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "07 de abril de 2025",
     area: "Turismo",
     titulo: "🍻Finalizó la Fiesta de la Birra",
