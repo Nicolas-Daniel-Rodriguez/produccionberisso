@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "14 de abril de 2025",
+    area: "U.Productivas",
+    titulo: "📝NUEVA HABILITACIÓN DE PUPAAS",
+    descripcion: "👉🏼Desde el área de Unidades Productivas perteneciente a la Secretaría de Producción, en conjunto con el Área de Bromatologia de la Secretaría de Salud, realizamos una nueva visita para avanzar con una nueva habilitación de PUPAas...",
+    imagen: "images/noticias/Unid.Productivas/2025/habpupas.png",
+    link:"https://www.instagram.com/p/DIbUxPpxiY6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "08 de abril de 2025",
     area: "Turismo",
     titulo: "¡Gracias por acompañarnos en la visita guiada a Cervecería Alvignano! 🍺🏭",
