@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "15 de abril de 2025",
+    area: "Turismo",
+    titulo: "☀️Descubrí las playas de Berisso",
+    descripcion: "👉🏻Estas Pascuas viví la tranquilidad y la naturaleza a orillas del Río de la Plata.<br><br>⛱️Las playas de Berisso te esperan con espacios amplios, sombra natural y un ambiente ideal para disfrutar en familia o con amigos...",
+    imagen: "images/noticias/turismo/2025/semana-santa.png",
+    link:"https://www.instagram.com/p/DIfFfx3tKVN/?utm_source=ig_web_copy_link"
+  },
+  {
     fecha: "14 de abril de 2025",
     area: "U.Productivas",
     titulo: "📝NUEVA HABILITACIÓN DE PUPAAS",
