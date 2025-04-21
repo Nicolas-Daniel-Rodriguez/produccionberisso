@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "17 de abril de 2025",
+    area: "U.Productivas",
+    titulo: "¡Berisso presente en la 10ª Fiesta de la Vendimia de la Provincia de Buenos Aires!🍷🍇",
+    descripcion: "Este fin de semana, los días 12 y 13 de abril, un grupo de viñateros de Berisso participó en la 10ª Fiesta de la Vendimia en Saldungaray. Desde el Área de Unidades Productivas de la Secretaría de Producción, acompañamos a los productores con el apoyo del MDA...",
+    imagen: "images/noticias/Unid.Productivas/2025/FiestaVendimia.png",
+    link:"https://www.instagram.com/p/DIjP_v9xgV7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "15 de abril de 2025",
     area: "Turismo",
     titulo: "☀️Descubrí las playas de Berisso",
