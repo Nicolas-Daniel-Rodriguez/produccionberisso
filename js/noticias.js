@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "05 de mayo de 2025",
+    area: "Secretaria",
+    titulo: "¡Se viene una nueva Expo Igualdad Bonaerense!",
+    descripcion: "📢 Vuelve el evento que reúne emprendimientos y proyectos para seguir fortaleciendo la red productiva provincial.<br><br>🌞 Domingo 11 de mayo de 10 a 18 hs.<br><br>🏟️ Pista de atletismo de Berisso, calle 9 y 169.",
+    imagen: "images/noticias/secretaria/2025/expoIgualdad.png",
+    link:"https://www.instagram.com/reel/DJKAtNCpAJC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "30 de abril de 2025",
+    area: "Agraria",
+    titulo: "ENTREGA DE PLANTINES 🌱",
+    descripcion: "👉🏼El miércoles 30/04, la Dirección de Asuntos Agrarios de La Municipalidad de Berisso en conjunto con la Dirección Provincial de Agricultura Familiar y Desarrollo Rural del @agrariopba , con la presencia del Ing. @wainerezequiel.mda a cargo de la misma y su equipo, realizamos la entrega de plantines a 11 huertas urbanas comunitarias locales que se inscribieron en el Programa Provincial Huerta Urbana Bonaerense y recibieron una capacitación.",
+    imagen: "images/noticias/agraria/2025/plantines30-04.png",
+    link:"https://www.instagram.com/p/DJZHsxKNHJ0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "17 de abril de 2025",
     area: "U.Productivas",
     titulo: "¡Berisso presente en la 10ª Fiesta de la Vendimia de la Provincia de Buenos Aires!🍷🍇",
