@@ -1,4 +1,33 @@
 var noticias = [
+ 
+  {
+    fecha: "14 de mayo de 2025",
+    area: "Secretaria",
+    titulo: "INCORPORACIÓN DEL “FERMENTADO DE CIRUELA” AL CÓDIGO ALIMENTARIO ARGENTINO",
+    descripcion: "La Municipalidad de Berisso celebra con orgullo un hito histórico para nuestra comunidad: el reconocimiento oficial del “Fermentado de ciruela” como producto alimenticio incorporado al Código Alimentario Argentino (CAA), conforme al Artículo 1107 bis, mediante la Resolución Conjunta 21/2025, publicada en el Boletín Oficial de la República Argentina...",
+    imagenes: [
+      "images/noticias/secretaria/2025/FERMENTADO-CIRUELA-1.jpeg",
+      "images/noticias/secretaria/2025/FERMENTADO-CIRUELA-2.jpeg",
+      "images/noticias/secretaria/2025/FERMENTADO-CIRUELA-3.jpeg"
+  ],
+    link:"https://www.instagram.com/p/DJpX3vQyBli/?utm_source=ig_web_copy_link"
+  },
+  {
+    fecha: "14 de mayo de 2025",
+    area: "Secretaria",
+    titulo: "✅Hoy visitamos la fábrica de alfajores “Giova”",
+    descripcion: "🙌🏻Una empresa familiar que apuesta por Berisso, invierte y genera nuevas fuentes de trabajo para nuestras vecinas y vecinos.<br><br>💪🏻Desde el Estado Municipal seguimos acompañando y ayudando a quienes eligen invertir y desarrollarse en nuestra ciudad, porque creemos en un Berisso que crece con trabajo y producción local.",
+    imagen: "images/noticias/secretaria/2025/Giova.png",
+    link:"https://www.instagram.com/p/DJowzBVNTum/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "14 de mayo de 2025",
+    area: "Secretaria",
+    titulo: "✅Más herramientas para nuestros emprendedores y emprendedoras",
+    descripcion: "El intendente Fabián Cagliardi participó junto al gobernador Axel Kicillof de una reunión de trabajo en la que se firmaron convenios con Provincia Microcréditos para facilitar el acceso a líneas de financiamiento destinadas a trabajadores y trabajadoras independientes de 22 municipios bonaerenses, entre ellos, Berisso...",
+    imagen: "images/noticias/secretaria/2025/ProvMicrocreditos14-05-25.png",
+    link:"https://www.instagram.com/p/DJm_Le6y0Cv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
   {
     fecha: "05 de mayo de 2025",
     area: "Secretaria",
