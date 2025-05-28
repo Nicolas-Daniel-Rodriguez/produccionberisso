@@ -1,5 +1,28 @@
 var noticias = [
- 
+  {
+    fecha: "26 de mayo de 2025",
+    area: "Unid.Productivas",
+    titulo: "“Elaboración de alimentos, habilitaciones y comercialización”",
+    descripcion: "Si sos elaborador/a de alimentos, los haces de forma casera en tu domicilio y querés venderlos ¡esta charla es para vos!<br><br>Desde el Área de Unidades Productivas de la Secretaría de Producción de Berisso y el Ministerio de Desarrollo Agrario de la Provincia de Buenos Aires vamos a estar compartiendo esta jornada abierta a todo publico, con la presencia de la Directora de Industrias y Productos Alimenticios (DIPA), Med Vet Valeria Ontiveros...",
+    imagen: "images/noticias/Unid.Productivas/2025/CharlaAlimentos.png",
+    link:"https://www.instagram.com/p/DJuWkARRIKi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "22 de mayo de 2025",
+    area: "Turismo",
+    titulo: "¡Vivimos una hermosa jornada “Conociendo Nuestra Capital”! 🏛️⛪️✈️🏰🌳",
+    descripcion: "👵🏼👨🏼‍🦳Ayer un contingente de adultos mayores de nuestra ciudad compartieron un recorrido gratuito y guiado por los principales puntos turísticos e históricos de la ciudad de La Plata: la República de los Niños, la Casa de Gobierno, el Museo de Ciencias Naturales, la Catedral y un almuerzo al aire libre en el Bosque platense...",
+    imagen: "images/noticias/turismo/2025/ConociendoCapital.png",
+    link:"https://www.instagram.com/p/DJ9M8_QRQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "22 de mayo de 2025",
+    area: "Turismo",
+    titulo: "Descubrí Berisso - Pescá en Berisso",
+    descripcion: "Conocé a Miguel Pueblas, guía de @pesca.halcon y uno de los guias en la ciudad. En Berisso podés disfrutar de una jornada inolvidable de pesca embarcada 🎣, navegando por las aguas del Río de la Plata y sus afluentes 🚤, a bordo de embarcaciones equipadas con todo lo necesario para vivir una experiencia única de pesca deportiva ⭐...",
+    imagen: "images/noticias/turismo/2025/PescaEnBerisso.png",
+    link:"https://www.instagram.com/reel/DJ7k-QwPZ27/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
   {
     fecha: "14 de mayo de 2025",
     area: "Secretaria",
