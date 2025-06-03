@@ -1,7 +1,31 @@
 var noticias = [
   {
+    fecha: "03 de junio de 2025",
+    area: "Turismo",
+    titulo: "RUTA DE LA DIVERSIDAD CULTURAL",
+    descripcion: "Te invitamos a una experiencia única donde aprenderás a cocinar los tradicionales fatays de la colectividad árabe. De la mano de expertos, conocerás los secretos de esta cocina llena de historia, especias y sabor...",
+    imagen: "images/noticias/turismo/2025/ExperienciaArabe.png",
+    link:"https://www.instagram.com/p/DKaWZ2nPuPg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "02 de junio de 2025",
+    area: "Secretaria",
+    titulo: "CAPACITACIÓN DE BARISMO NIVEL INICIAL☕",
+    descripcion: "Se acerca una Capacitación de Barismo gratuita en la localidad de Berisso🤩<br><br>¡No te la pierdas! Aprendé técnicas profesionales para preparar el café perfecto, descubrí el arte del buen café y abrí nuevas puertas laborales...☕",
+    imagen: "images/noticias/secretaria/2025/Barismo.png",
+    link:"https://www.instagram.com/p/DKZ9EURxBzk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "01 de junio de 2025",
+    area: "U.Productivas",
+    titulo: "jornada abierta sobre Habilitaciones PUPAas",
+    descripcion: "👉 El 28 de mayo se realizó una jornada abierta sobre Habilitaciones PUPAas (Pequeñas Unidades Productivas de Alimentos) y Mercados Bonaerenses, junto al Ministerio de Desarrollo Agrario...",
+    imagen: "images/noticias/Unid.Productivas/2025/pupaas1-6-25.png",
+    link:"https://www.instagram.com/p/DKXSLWntMCr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "26 de mayo de 2025",
-    area: "Unid.Productivas",
+    area: "U.Productivas",
     titulo: "“Elaboración de alimentos, habilitaciones y comercialización”",
     descripcion: "Si sos elaborador/a de alimentos, los haces de forma casera en tu domicilio y querés venderlos ¡esta charla es para vos!<br><br>Desde el Área de Unidades Productivas de la Secretaría de Producción de Berisso y el Ministerio de Desarrollo Agrario de la Provincia de Buenos Aires vamos a estar compartiendo esta jornada abierta a todo publico, con la presencia de la Directora de Industrias y Productos Alimenticios (DIPA), Med Vet Valeria Ontiveros...",
     imagen: "images/noticias/Unid.Productivas/2025/CharlaAlimentos.png",
