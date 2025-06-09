@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "09 de junio de 2025",
+    area: "D.Productivos",
+    titulo: "🚀 ¡NUEVA CONVOCATORIA!",
+    descripcion: "Arriba Emprendedores — préstamos del Ministerio de Producción, Ciencia e Innovación Tecnológica para impulsar a emprendedores de la Provincia de Buenos Aires.<br><br>📋 Condiciones:<br>💰 Hasta $6 millones<br>🕐 A devolver en 24 meses<br>💸 Tasa CERO, con hasta 6 meses de gracia<br>📑 Garantías personales...",
+    imagen: "images/noticias/d.productivos/arribaEmprendedores.webp",
+    link:"https://www.instagram.com/p/DKr4SwORCs0/?utm_source=ig_web_copy_link&igsh=MXFybm14OTJ5enVjMA=="
+  },
+  {
     fecha: "03 de junio de 2025",
     area: "Turismo",
     titulo: "RUTA DE LA DIVERSIDAD CULTURAL",
