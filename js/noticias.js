@@ -1,5 +1,45 @@
 var noticias = [
   {
+    fecha: "19 de junio de 2025",
+    area: "Turismo",
+    titulo: "El Club Eslovaco Argentino de Berisso y Turismo Berisso te invitan a ser parte del✨ 14° Festival de la Cultura Checa y Eslovaca en América Latina ✨",
+    descripcion: "📅 18, 19 y 20 de Julio<br>📍Berisso, Provincia de Buenos Aires<br><br>🎶 Música en vivo | 💃 Danzas tradicionales<br>🍺 Gastronomía típica | 🎨 Talleres y exposiciones...",
+    imagen: "images/noticias/turismo/2025/clubEslovaco.png",
+    link:"https://www.instagram.com/p/DLD9Nmss_M9/?utm_source=ig_web_copy_link&igsh=MTZqOGlnMTR5dDVnOA=="
+  },
+  {
+    fecha: "18 de junio de 2025",
+    area: "Secretaria",
+    titulo: "🏃‍♂️🏃‍♀️ ¡Vuelve el Cross Aventura!",
+    descripcion: "Viví la 14° edición en el marco de la 22° Fiesta del Vino de la Costa 🍇🍷<br><br>📍 Salida y llegada: Sede de la Cooperativa de la Costa (Calle Bagliardi, a 100 metros de Av. Montevideo)<br>📅 Domingo 6 de julio<br>🕤 9:30 hs.<br>🏅 8K carrera | 4K correcaminata...",
+    imagen: "images/noticias/secretaria/2025/crossAventura.png",
+    link:"https://www.instagram.com/p/DLBAb57ywec/?utm_source=ig_web_copy_link&igsh=aGg4cG5yZDIzM3g1"
+  },
+  {
+    fecha: "17 de junio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 ¡Falta cada vez menos para una de las fiestas más esperadas del año!",
+    descripcion: "🎉 22° Fiesta Provincial del Vino de la Costa<br>📅 11, 12 y 13 de julio<br>📍 Gimnasio Municipal de Berisso<br><br>🍇Tres noches de tradición, sabor y celebración...",
+    imagen: "images/noticias/secretaria/2025/fdv2025-2.png",
+    link:"https://www.instagram.com/p/DLAXXCNRuah/?utm_source=ig_web_copy_link&igsh=MWlpaGYzeDIxZDhlNg=="
+  },
+  {
+    fecha: "16 de junio de 2025",
+    area: "Turismo",
+    titulo: "🌍 Ruta de la Diversidad Cultural – Experiencias Gastronómicas 🍽️",
+    descripcion: "Hoy vivimos una edición de la Ruta de la Diversidad Cultural – Experiencias Gastronómicas en el Hogar Árabe Argentino de Berisso, y fue una verdadera fiesta para los sentidos.<br><br>Aprendimos a preparar platos típicos de la cocina árabe como tabule, babaganoush, pan pita y graibe, de la mano de integrantes de la colectividad que compartieron sus saberes, su historia y mucho cariño...",
+    imagen: "images/noticias/turismo/2025/arabe.png",
+    link:"https://www.instagram.com/p/DK5M8EhPn-c/?utm_source=ig_web_copy_link&igsh=MWhkYnk3NHcwbXJzeQ=="
+  },
+  {
+    fecha: "15 de junio de 2025",
+    area: "Secretaria",
+    titulo: "🍷¡Falta muy poco para vivir una nueva edición de la Fiesta del Vino de la Costa!",
+    descripcion: "🍇 Te esperamos el 11, 12 y 13 de julio en el Gimnasio Municipal, para disfrutar de tres noches únicas de tradición, sabor y celebración.<br><br>🎶 Música en vivo, productos regionales, bodegas locales, comidas típicas y toda la identidad berissense en una fiesta que ya es parte de nuestra historia...",
+    imagen: "images/noticias/secretaria/2025/fdv2025-1.png",
+    link:"https://www.instagram.com/reel/DK4oSESxulr/?utm_source=ig_web_copy_link&igsh=a3doNTg3OXJoZ21z"
+  },
+  {
     fecha: "09 de junio de 2025",
     area: "D.Productivos",
     titulo: "🚀 ¡NUEVA CONVOCATORIA!",
