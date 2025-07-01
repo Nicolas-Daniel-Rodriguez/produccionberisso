@@ -1,5 +1,21 @@
 var noticias = [
   {
+    fecha: "24 de junio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Un vino con historia, una fiesta con identidad",
+    descripcion: "🍷Hoy queremos contarte un poco sobre nuestro Vino de la Costa, una tradición que nació a orillas del Río de la Plata y que sigue viva gracias al trabajo de nuestras familias productoras.<br><br>📍 Te esperamos el 11, 12 y 13 de julio en el Gimnasio Municipal para vivir una nueva edición de la Fiesta Provincial del Vino de la Costa de Berisso...",
+    imagen: "images/noticias/secretaria/2025/UnVinoConHistoria.png",
+    link:"https://www.instagram.com/p/DLQDwuYR7JD/?utm_source=ig_web_copy_link&igsh=bjNnZHl4NmIzbnJ1"
+  },
+  {
+    fecha: "24 de junio de 2025",
+    area: "Secretaria",
+    titulo: "✍🏻Firmamos convenios con la Asociación Empresaria, Gastronómica y Hotelera de La Plata",
+    descripcion: "Reafirmando nuestro compromiso con la formación, el empleo y el desarrollo local.<br><br>Uno de los ejes más importantes del acuerdo es la capacitación de baristas, una disciplina en auge con gran salida laboral. A través de esta formación, buscamos mejorar la calidad del servicio y acompañar la profesionalización del sector gastronómico...",
+    imagen: "images/noticias/secretaria/2025/FirmaConvenio.png",
+    link:"https://www.instagram.com/p/DLP9SxTxO1L/?utm_source=ig_web_copy_link&igsh=Y2x5YTZvZmdlcWM5"
+  },
+  {
     fecha: "19 de junio de 2025",
     area: "Turismo",
     titulo: "El Club Eslovaco Argentino de Berisso y Turismo Berisso te invitan a ser parte del✨ 14° Festival de la Cultura Checa y Eslovaca en América Latina ✨",
