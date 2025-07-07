@@ -1,5 +1,53 @@
 var noticias = [
   {
+    fecha: "07 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 Concurso de Vinos Caseros “Héctor Becerra”",
+    descripcion: "📍 En el marco de la 22° Fiesta Provincial del Vino de la Costa, celebramos el trabajo de nuestras y nuestros productores locales.<br><br>📅 Sábado 12 de julio<br>📌 Casa de Culturas (Av. Montevideo e/ 10 y 11)<br>⏰ Recepción de muestras: de 10 a 13 hs...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/concursoVinos.png",
+    link:"https://www.instagram.com/p/DLzulV6xK6U/?utm_source=ig_web_copy_link&igsh=MXFzNjRnZHNhNGN4aw=="
+  },
+  {
+    fecha: "06 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🏃‍♂️🌿 Cross Aventura en la Fiesta del Vino de la Costa",
+    descripcion: "🍇En el marco de la 22° edición de la Fiesta del Vino de la Costa, se llevó adelante la Carrera Cross Aventura en la Cooperativa de la Costa, con la participación de más de 200 inscriptos.<br><br>👉🏻Los participantes recorrieron circuitos de 4K y 8K atravesando senderos únicos en pleno monte ribereño, en contacto directo con la naturaleza...",
+    imagen: "images/noticias/secretaria/2025/crossAventura1.png",
+    link:"https://www.instagram.com/p/DLxvozqSUR_/?utm_source=ig_web_copy_link&igsh=dXA4ZGUyMndjdmJ3"
+  },
+  {
+    fecha: "06 de julio de 2025",
+    area: "Secretaria",
+    titulo: "📍 Capacitación en Barismo en Berisso",
+    descripcion: "La AEHG La Plata, junto a FEHGRA, organizó un nuevo curso de formación profesional en técnicas de barismo, latte art y café de especialidad ☕✨<br><br>📆 Se llevó a cabo los días 3 y 4 de julio, con más de 20 asistentes y la destacada instrucción del barista Mauro Velázquez...",
+    imagen: "images/noticias/secretaria/2025/barismoCert.png",
+    link:"https://www.instagram.com/p/DLvU3yXv0-E/?utm_source=ig_web_copy_link&igsh=MWZlN2pvbWx5bTVieg=="
+  },
+  {
+    fecha: "05 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 ¡Falta una semana para vivir la 22º Fiesta Provincial del Vino de la Costa!",
+    descripcion: "📍 Gimnasio Municipal de Berisso<br>🗓 11, 12 y 13 de julio<br><br>Durante tres jornadas vas a poder disfrutar de la tradición, el sabor y la celebración que hacen de esta fiesta un evento único en la región...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/faltaPoco.png",
+    link:"https://www.instagram.com/p/DLsRz-MxiWh/?utm_source=ig_web_copy_link&igsh=MTJhMHNxYThicG1yMQ=="
+  },
+  {
+    fecha: "04 de julio de 2025",
+    area: "Secretaria",
+    titulo: "☕️Capacitación gratuita de Barismo Nivel Inicial",
+    descripcion: "👉🏻Durante dos jornadas, vecinas y vecinos se capacitaron de la mano del especialista Mauro Velazquez, aprendiendo las técnicas esenciales del mundo del café ☕️...",
+    imagen: "images/noticias/secretaria/2025/capBarista.png",
+    link:"https://www.instagram.com/p/DLqTxEXSA49/?utm_source=ig_web_copy_link&igsh=MTN6aHo1bGh6bDN3cg=="
+  },
+   {
+    fecha: "02 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 ¡Se viene el 10° Concurso de Mermeladas!",
+    descripcion: "En el marco de la 22° Fiesta del Vino de la Costa, te invitamos a participar de una nueva edición del tradicional Concurso de Mermeladas.<br><br>📅 Sábado 12 de julio<br>📍 Casa de Culturas (Av. Montevideo e/ 10 y 11)<br>🕙 Horario de recepción: 10 hs...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/concursoMermeladas.png",
+    link:"https://www.instagram.com/p/DLnBsbzRuqw/?utm_source=ig_web_copy_link&igsh=MXM1c29xbjlvbGJzbw=="
+  },
+  {
     fecha: "24 de junio de 2025",
     area: "Secretaria",
     titulo: "🍇 Un vino con historia, una fiesta con identidad",
