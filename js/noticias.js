@@ -1,5 +1,53 @@
 var noticias = [
   {
+    fecha: "10 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Viví la experiencia del vino desde los viñedos",
+    descripcion: "En el marco de la 22ª Fiesta Provincial del Vino de la Costa, te invitamos a conocer cómo se produce uno de los símbolos de nuestra identidad.<br><br>🚐 Visita al viñedo y a la Cooperativa de la Costa.<br><br>🗓️ Sábado 12 y Domingo 13 de julio<br>🕛 Horarios: 12:00 y 14:30 hs<br>📍 Salida y regreso desde el Gimnasio Municipal (9 y 169)...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/visitaViñedo.png",
+    link:"https://www.instagram.com/p/DL5gd1gxNqU/?utm_source=ig_web_copy_link&igsh=MW92a2ZqOHhrbnNlYw=="
+  },
+  {
+    fecha: "10 de julio de 2025",
+    area: "Secretaria",
+    titulo: "Visitas guiadas gratuitas por Calle Nueva York",
+    descripcion: "📍 En el marco de la 22ª Fiesta Provincial del Vino de la Costa, te invitamos a participar de las visitas guiadas gratuitas por Calle Nueva York, uno de los lugares más emblemáticos de nuestra ciudad.<br><br>👣 Recorremos juntos su historia, arquitectura y anécdotas junto a Daniela Mondelo y Cecilia Martin...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/visitaGuiada.png",
+    link:"https://www.instagram.com/p/DL5PrjlRf7S/?utm_source=ig_web_copy_link&igsh=NjJrbW91cG9yem04"
+  },
+  {
+    fecha: "09 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Ella es María Inés Ostrit, productora del monte ribereño de nuestra ciudad.",
+    descripcion: "Como tantos otros, es parte de una historia que sigue viva: la de aquellos primeros pobladores que, con esfuerzo y dedicación, desarrollaron la producción vitivinícola en Berisso...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/ostrit.png",
+    link:"https://www.instagram.com/reel/DL49O2GR2Iy/?utm_source=ig_web_copy_link&igsh=YnR3dnc4M25ubml1"
+  },
+  {
+    fecha: "09 de julio de 2025",
+    area: "Secretaria",
+    titulo: "FIESTA DEL VINO🍇",
+    descripcion: "Hoy estuvimos con @parispepa secretaria de @produccionberisso . Charlamos sobre la fiesta del vino que se estará realizando el 11, 12 y 13 en nuestra Ciudad. Pepa remarcó lo importante que es pasar un buen momento en este contexto social...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/urbana.png",
+    link:"https://www.instagram.com/reel/DL3Z6xEtgEg/?utm_source=ig_web_copy_link&igsh=bGpqYXBkaWt5ZXp6"
+  },
+  {
+    fecha: "09 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇¡Falta muy poco para vivir la 22° Fiesta Provincial del Vino de la Costa!",
+    descripcion: "Vení a disfrutar de shows en vivo, comidas típicas, feria de productores, tradición, cultura y los mejores vinos de nuestra costa 🍇🍷<br><br>🎶 Ya está disponible el cronograma del escenario principal para que no te pierdas nada...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/cronograma.png",
+    link:"https://www.instagram.com/p/DL3MkpXSkyq/?utm_source=ig_web_copy_link&igsh=a3AwZWk2b3VpYTg2"
+  },
+  {
+    fecha: "08 de julio de 2025",
+    area: "Secretaria",
+    titulo: "Curso Oficial para la Manipulación de Alimentos",
+    descripcion: "Dictado por el Departamento de Seguridad Alimentaria y la Secretaría de Producción.<br><br>Seguimos acompañando a los pequeños productores artesanales de alimentos, para renovar sus acreditaciones con el fin de continuar la comercialización de productos comestibles inocuos...",
+    imagen: "images/noticias/secretaria/2025/manipulacion08-07.png",
+    link:"https://www.instagram.com/p/DL2UpPNuWbj/?utm_source=ig_web_copy_link&igsh=MTl0MTJ4cHV6bHVoaQ=="
+  },
+  {
     fecha: "07 de julio de 2025",
     area: "Secretaria",
     titulo: "🍷 Concurso de Vinos Caseros “Héctor Becerra”",
