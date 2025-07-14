@@ -1,5 +1,101 @@
 var noticias = [
   {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Finalizó la 22° Fiesta del Vino de la Costa",
+    descripcion: "Cerramos una nueva edición de esta fiesta que ya forma parte de la identidad de Berisso. Tres días inolvidables, con miles de vecinos, vecinas y visitantes que se acercaron a celebrar lo nuestro: la producción local, el trabajo cooperativo y la historia que nos une...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/finalizo.png",
+    link:"https://www.instagram.com/p/DMEjzZMtiLF/?utm_source=ig_web_copy_link&igsh=MXR0d25nNnV2cWJ5Zw=="
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Seguimos disfrutando de la Fiesta del Vino",
+    descripcion: "🍷Último día de esta celebración que nos encuentra compartiendo lo mejor de nuestra producción local, nuestras tradiciones y el orgullo de ser berissenses...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/ultimo.png",
+    link:"https://www.instagram.com/p/DMD_OgWS5FG/?utm_source=ig_web_copy_link&igsh=MTVudzU3MXdpMzgxNA=="
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Gracias a quienes hacen posible esta fiesta",
+    descripcion: "Los verdaderos protagonistas de la Fiesta del Vino de la Costa son los productores locales: con sus historias, sus formas de elaborar, y su compromiso con una tradición que es parte de nuestra identidad...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/gracias.png",
+    link:"https://www.instagram.com/reel/DMDtXcdxLO0/?utm_source=ig_web_copy_link&igsh=MTdwMHVzM2RkZW04bA=="
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷El Concurso de Vinos Caseros “Héctor Becerra” y el Concurso de Mermeladas destacan el esfuerzo, el conocimiento y el trabajo cooperativo de nuestras familias productoras.",
+    descripcion: "🍇Cada elaboración es fruto del compromiso con la tierra y con una tradición que se transmite de generación en generación, y que cobra valor en cada etapa del proceso: desde la fermentación hasta la presentación final...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/becerra.png",
+    link:"https://www.instagram.com/reel/DMDMLZYNuKN/?utm_source=ig_web_copy_link&igsh=MmdiYmFlbWF4OTM0"
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Premiación del Concurso de Vinos y Mermeladas Caseras 🍷",
+    descripcion: "En el marco de la 22° Fiesta Provincial del Vino de la Costa, se realizó la entrega de premios del 21° Concurso de Vinos Caseros “Héctor Becerra” y del 10° Concurso de Mermeladas Caseras...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/premiacion.png",
+    link:"https://www.instagram.com/p/DMB-TGyNa1C/?utm_source=ig_web_copy_link&igsh=NG1haHpsYTBza21z"
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 22° Fiesta del Vino de la Costa",
+    descripcion: "Hoy conversamos con vecinos, vecinas y visitantes de distintas ciudades que se acercaron a disfrutar de esta fiesta que ya es un clásico de la región...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/conversamos.png",
+    link:"https://www.instagram.com/reel/DMB5zzxtL_I/?utm_source=ig_web_copy_link&igsh=d21qeTg1cG13and3"
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 Seguimos disfrutando la 22° Fiesta del Vino de la Costa 🎉",
+    descripcion: "La fiesta continúa y no te podés perder todo lo que preparamos para vos: shows en vivo, patio gastronómico, feria de productores, paseo de artesanos y mucho más.<br><br>Vení a vivirla en familia o con amigos. ¡Berisso está de fiesta y te espera!...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/fiesta13.png",
+    link:"https://www.instagram.com/reel/DMBa3QHSW9_/?utm_source=ig_web_copy_link&igsh=MXIwcm1jajVwMDA5cw=="
+  },
+  {
+    fecha: "13 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Concurso de Vinos y Mermeladas de la Costa",
+    descripcion: "🍷Como cada año, nuestros productores locales participan del tradicional concurso de vinos y mermeladas de la costa.<br><br>🙌🏻Con un jurado de expertos, ponen en valor sus saberes, tradiciones familiares y el trabajo artesanal que distingue a cada producto...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/concursoVino1.png",
+    link:"https://www.instagram.com/p/DMBSjKzyi-g/?utm_source=ig_web_copy_link&igsh=azE0c3Zlc3VuanNm"
+  },
+  {
+    fecha: "12 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷 22° Fiesta del Vino de la Costa 🎉",
+    descripcion: "Ayer comenzó una nueva edición de esta fiesta que celebra nuestra identidad, nuestras tradiciones y el trabajo de nuestros productores.<br><br>Vení a disfrutar de la mejor gastronomía, el vino de la costa y una gran propuesta artística para toda la familia...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/fiesta12.png",
+    link:"https://www.instagram.com/p/DMBB07ZRFRz/?utm_source=ig_web_copy_link&igsh=djUxNGlkcG0zY3py"
+  },
+  {
+    fecha: "11 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍇 Acompañamos a nuestros productores en la Fiesta del Vino de la Costa",
+    descripcion: "👉🏻Ayer recorrimos junto al ministro de Desarrollo Agrario de la provincia, Javier Rodríguez, los distintos stands de nuestros productores locales en el marco de la Fiesta del Vino de la Costa...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/acompañamos.png",
+    link:"https://www.instagram.com/p/DMAc24pR8rm/?utm_source=ig_web_copy_link&igsh=cjJjN3RuYWdmb2g3"
+  },
+  {
+    fecha: "11 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🎉 Comenzó la Fiesta del Vino de la Costa 🍷",
+    descripcion: "🍇Hoy vivimos el inicio de una nueva edición de la Fiesta del Vino de la Costa, un encuentro que celebra nuestras raíces, nuestra producción local y el trabajo de toda una ciudad. Con el vino de la costa como protagonista, miles de vecinos y vecinas se acercaron para disfrutar de una jornada llena de música, sabores y tradición.<br><br>🎶Con artistas en vivo, venta de vino de la costa, productores locales, patio gastronómico, paseo de artesanos y mucho más.<br><br>👉🏻Los esperamos mañana a partir de las 12 hs en el Gimnasio Municipal (9 y 169) para seguir disfrutando juntos de esta gran fiesta berissense.",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/comienzoFiesta.png",
+    link:"https://www.instagram.com/reel/DL_ctp6NRvA/?utm_source=ig_web_copy_link&igsh=MWlsa3Bod2w3amQ4Mg=="
+  },
+  {
+    fecha: "10 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍷Él es Leonardo Corazza, productor vitivinícola local, quien repasa los orígenes de la producción de vino en nuestra ciudad.",
+    descripcion: "🧳Desde la llegada de los primeros inmigrantes que trajeron consigo los conocimientos y las prácticas del viejo continente, hasta la consolidación del vino de la costa como un emblema local, esta historia habla de trabajo, arraigo y comunidad...",
+    imagen: "images/noticias/secretaria/2025/fiestaDelVino/corazza.png",
+    link:"https://www.instagram.com/reel/DL8bujYyD3g/?utm_source=ig_web_copy_link&igsh=Njhwem9nNGh2aTJ5"
+  },
+  {
     fecha: "10 de julio de 2025",
     area: "Secretaria",
     titulo: "🍇 Viví la experiencia del vino desde los viñedos",
