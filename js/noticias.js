@@ -1,5 +1,85 @@
 var noticias = [
   {
+    fecha: "29 de julio de 2025",
+    area: "Turismo",
+    titulo: "🍻¡Volvieron las Tardecitas… de Invierno!❄️",
+    descripcion: "Una jornada para disfrutar en familia y amigos, con buena música, rica comida y la mejor cerveza artesanal.<br><br>📅 Día: Sábado 2 de agosto<br>🕛 Horario: De 12 a 24 hs<br>📍 Lugar: Parque Cívico Municipal (Av. Montevideo y calle 9)...",    
+    imagen: "images/noticias/turismo/2025/TardecitaInvierno.jpeg",
+    link:"https://www.instagram.com/p/DMsmBsSRwI9/?utm_source=ig_web_copy_link&igsh=MTRodGx0YTliaTFzaA=="
+  },
+  {
+    fecha: "28 de julio de 2025",
+    area: "Turismo",
+    titulo: "🌾🌊 Dos destinos, un mismo asombro en la provincia de Buenos Aires",
+    descripcion: "👉 En Berisso, el Delta se abre en canales, veleros, sabores del mundo y aventuras sobre el agua.<br><br>👉 En Navarro, la pampa invita al descanso entre historia, espiritualidad y naturaleza rural. Dos lugares distintos, un mismo deseo: desconectar, descubrir y dejarse llevar por lo simple...",    
+    imagen: "images/noticias/turismo/2025/Destinos.png",
+    link:"https://www.instagram.com/p/DMpzj7VsETz/?utm_source=ig_web_copy_link&igsh=MTZmeTMyeTQ1MHg3ZQ=="
+  },
+  {
+    fecha: "26 de julio de 2025",
+    area: "Turismo",
+    titulo: "🎨🚍 ¡Llega Cultura Rodante a Berisso!",
+    descripcion: "🔸Este martes 29 de julio a las 14:00 hs, te esperamos en el Gimnasio Municipal (9 y 169) para vivir una jornada inolvidable junto a Cultura Rodante, el programa del Instituto Cultural de la Provincia de Buenos Aires que promueve el acceso a la cultura y el juego para las infancias...",    
+    imagen: "images/noticias/turismo/2025/CulturaRodante.png",
+    link:"https://www.instagram.com/p/DMit00qS-Y6/?utm_source=ig_web_copy_link&igsh=MTZ0MG1nNzB3cTE3eA=="
+  },
+  {
+    fecha: "26 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🧶 Encuentro con artesanos y emprendedores locales",
+    descripcion: "👉🏻Nos reunimos para escuchar, compartir ideas y proyectar propuestas que nos permitan seguir generando espacios de encuentro, visibilización y comercialización para quienes todos los días apuestan a la producción local...",    
+    imagen: "images/noticias/secretaria/2025/EncuentroArt.png",
+    link:"https://www.instagram.com/p/DMjJIprSdfO/?utm_source=ig_web_copy_link&igsh=a2I4dzc4ajl3bjBv"
+  },
+  {
+    fecha: "24 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🛒 Mercados Bonaerenses en Berisso",
+    descripcion: "Este viernes de 9 a 14 hs. te esperamos en el Playón Municipal (Av. Montevideo y 11) con una nueva jornada de los Mercados Bonaerenses...",    
+    imagen: "images/noticias/secretaria/2025/MercadosBonaerenses.png",
+    link:"https://www.instagram.com/p/DMdNP2mxKW0/?utm_source=ig_web_copy_link&igsh=dXF5NnAya2Z1a3Jm"
+  },
+  {
+    fecha: "23 de julio de 2025",
+    area: "Secretaria",
+    titulo: "2da EDICIÓN DEL PROGRAMA SEMBRAR COMUNIDAD",
+    descripcion: "🌱 Vas a poder aprender todo lo relacionado a cómo llevar adelante tu propia huerta dentro del espacio comunitario al que perteneces...",    
+    imagen: "images/noticias/secretaria/2025/SembrarCom.png",
+    link:"https://www.instagram.com/p/DMayYCbxFia/?utm_source=ig_web_copy_link&igsh=MTdubGhsYjMxbXF5dg=="
+  },
+  {
+    fecha: "23 de julio de 2025",
+    area: "Secretaria",
+    titulo: "🍻 Encuentro con cerveceros y gastronómicos",
+    descripcion: "Hoy nos reunimos con productores cerveceros y referentes del sector gastronómico de nuestra ciudad para planificar acciones y pensar en conjunto alternativas que generen más oportunidades laborales...",    
+    imagen: "images/noticias/secretaria/2025/EncuentroCervYGast.png",
+    link:"https://www.instagram.com/p/DMbQzdzSzwR/?utm_source=ig_web_copy_link&igsh=MWRiYWJpMDY0cWYyYg=="
+  },
+  {
+    fecha: "17 de julio de 2025",
+    area: "Turismo",
+    titulo: "🌍 ¡Vení a vivir la Ruta de la Diversidad Cultural en Berisso!",
+    descripcion: "Un recorrido gratuito para descubrir la historia, tradiciones y sabores de nuestras colectividades.<br><br>Visitaremos:<br>🔹 Colectividad Belarusa Vostok<br>🔹 Colectividad Lituana Mindaugas<br>🔹 Colectividad Griega Helénica y Platón<br>🔹 Calle Nueva York<br><br>Esta actividad forma parte del 14° Festival de Cultura Checa y Eslovaca en América Latina 🇨🇿🇸🇰",    
+    imagen: "images/noticias/turismo/2025/DivCultural.png",
+    link:"https://www.instagram.com/p/DMQKScMsud6/?utm_source=ig_web_copy_link&igsh=MTBlbHc0NzU3eGpx"
+  },
+  {
+    fecha: "16 de julio de 2025",
+    area: "Turismo",
+    titulo: "Berisso celebró su tradicional vino",
+    descripcion: "🍷 Desde hace más de un siglo en el municipio bonaerense se elabora un vino único con la uva Americana Isabella.<br><br>📡 @natumader se subió al #ViBraMóvil para mostrarte todo lo que pasó en una nueva edición de la @fiestavinodelacosta.",
+    imagen: "images/noticias/turismo/2025/tradicionalVino.png",
+    link:"https://www.instagram.com/reel/DMK-nFJulFo/?utm_source=ig_web_copy_link&igsh=MWRxbWdkdDFscThldg=="
+  },
+  {
+    fecha: "16 de julio de 2025",
+    area: "Turismo",
+    titulo: "Berisso está de fiesta y el vino de la costa lo sabe. 😎🍷🍇",
+    descripcion: "Una tradición que reúne sabores, identidad, turismo y trabajo cooperativo. Productores locales, emprendedores y familias disfrutaron de música en vivo, gastronomía típica y, por supuesto, del vino artesanal que es símbolo de la región. ¿Visitaste las bodegas de este destino? Ofrecen catas, guiadas y charlas cautivantes.",
+    imagen: "images/noticias/turismo/2025/BerissoDeFiesta.png",
+    link:"https://www.instagram.com/reel/DMIkeV4RxFQ/?utm_source=ig_web_copy_link&igsh=MWQxdXMyZG9pODByZg=="
+  },
+  {
     fecha: "13 de julio de 2025",
     area: "Secretaria",
     titulo: "🍇 Finalizó la 22° Fiesta del Vino de la Costa",
