@@ -1,5 +1,13 @@
 var noticias = [
   {
+    fecha: "01 de agosto de 2025",
+    area: "Turismo",
+    titulo: "Últimos detalles para el lanzamiento de la plataforma “Descubrí Berisso”",
+    descripcion: "👉🏻Nos reunimos para avanzar en la etapa final de esta nueva herramienta digital que permitirá a quienes visiten nuestra ciudad conocer toda su oferta turística, gastronómica, cultural y de servicios....",    
+    imagen: "images/noticias/turismo/2025/DescubriBerisso.png",
+    link:"https://www.instagram.com/p/DMyhWGFyEx3/?utm_source=ig_web_copy_link&igsh=MWFlNHdzczd2N2d5dA=="
+  },
+  {
     fecha: "29 de julio de 2025",
     area: "Turismo",
     titulo: "🍻¡Volvieron las Tardecitas… de Invierno!❄️",
