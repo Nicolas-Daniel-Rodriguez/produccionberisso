@@ -1,5 +1,45 @@
 var noticias = [
   {
+    fecha: "10 de agosto de 2025",
+    area: "Secretaria",
+    titulo: "🎮 ¡Llega el curso gratuito de Desarrollo de Videojuegos a BERISSO! 🚀",
+    descripcion: "¿Te apasiona el mundo gamer? ¿Querés aprender a crear tus propios videojuegos desde cero? Esta es tu oportunidad.<br>Sumate a este curso gratuito y descubrí cómo convertir tu creatividad en un prototipo jugable...",    
+    imagen: "images/noticias/secretaria/2025/videojuegos.png",
+    link:"https://www.instagram.com/p/DNGWFhrxvVF/?utm_source=ig_web_copy_link&igsh=a2wxdnF2dDdsc3Rw"
+  },
+  {
+    fecha: "10 de agosto de 2025",
+    area: "Turismo",
+    titulo: "❄️Les compartimos algunas postales de Tardecitas de Invierno",
+    descripcion: "Una propuesta pensada para que los vecinos y vecinas disfruten de una tarde distinta en la ciudad.<br> 💪🏻El objetivo es claro: potenciar el trabajo de artesanos, emprendedores, gastronómicos y cerveceros locales, generando espacios de encuentro, disfrute para todos...",    
+    imagen: "images/noticias/turismo/2025/tardecitasPostales.png",
+    link:"https://www.instagram.com/p/DNJ8Abktzbi/?utm_source=ig_web_copy_link&igsh=MWtlZXh3NjZmbnFlZg=="
+  },
+  {
+    fecha: "09 de agosto de 2025",
+    area: "Turismo",
+    titulo: "🍻 10° Degustación de Cerveza de Invierno",
+    descripcion: "🙌🏻Acompañamos a la Asociación de Cerveceros de Berisso en una nueva edición de la tradicional degustación de cervezas de invierno, realizada en el Club Almafuerte...",    
+    imagen: "images/noticias/turismo/2025/DegustacionCerveza.png",
+    link:"https://www.instagram.com/p/DNJEtYStnrd/?utm_source=ig_web_copy_link&igsh=aGF2Y2hudHJmMng5"
+  },
+  {
+    fecha: "07 de agosto de 2025",
+    area: "Secretaria",
+    titulo: "🌱 Celebramos el primer aniversario de la huerta comunitaria “Nuestras Raíces” 🌱",
+    descripcion: "Participamos de una hermosa jornada en el CAPS N°19, donde vecinos y vecinas compartieron el crecimiento de un proyecto que fortalece la salud, la alimentación y los lazos comunitarios...",    
+    imagen: "images/noticias/agraria/2025/NuestrasRaices.png",
+    link:"https://www.instagram.com/p/DNDqwVWxPuM/?utm_source=ig_web_copy_link&igsh=cHBvem85aW9wcnF0"
+  },
+  {
+    fecha: "06 de agosto de 2025",
+    area: "Turismo",
+    titulo: "🍻¡Volvieron las Tardecitas… de Invierno!❄️",
+    descripcion: "Una jornada para disfrutar en familia y amigos, con buena música, rica comida y la mejor cerveza artesanal.<br><br>📅 Día: Sábado 9 de agosto<br>🕛 Horario: De 12 a 24 hs<br>📍 Lugar: Parque Cívico Municipal (Av. Montevideo y calle 9)...",    
+    imagen: "images/noticias/turismo/2025/TardecitaInvierno9.png",
+    link:"https://www.instagram.com/p/DM_FLR8yLtF/?utm_source=ig_web_copy_link&igsh=dDV4Z2RvMmx1bThi"
+  },
+  {
     fecha: "01 de agosto de 2025",
     area: "Turismo",
     titulo: "Últimos detalles para el lanzamiento de la plataforma “Descubrí Berisso”",
