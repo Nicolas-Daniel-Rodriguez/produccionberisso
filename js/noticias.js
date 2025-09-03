@@ -1,5 +1,37 @@
 var noticias = [
   {
+    fecha: "03 de septiembre de 2025",
+    area: "Industria",
+    titulo: "🏭 Día de la Industria",
+    descripcion: "Queremos agradecer a todos y cada uno de los empresarios que apuestan e invierten en nuestra ciudad.<br><br>Soñamos y trabajamos por un Berisso con más trabajo y oportunidades para todos los vecinos y vecinas. Por eso, vamos a seguir fortaleciendo el vínculo con el sector privado, convencidos de que el progreso se construye entre todos.",    
+    imagen: "images/noticias/industria/2025/diaDeLaIndustria.png",
+    link:"https://www.instagram.com/p/DOJMkn4DEXT/?utm_source=ig_web_copy_link&igsh=MWR2eTczOTRwaXZ5eQ=="
+  },
+  {
+    fecha: "03 de septiembre de 2025",
+    area: "Agraria",
+    titulo: "🌱✨ Jornada de poda y propagación agámica",
+    descripcion: "El miércoles 27 de agosto vivimos una jornada de poda y propagación agámica en el Parque Ambiental de Berisso, organizada por la Dirección de Agrarios. La capacitación estuvo a cargo de Claudia Sepulveda, perteneciente a la Secretaria de Producción...",    
+    imagen: "images/noticias/agraria/2025/podaYPropagacion.png",
+    link:"https://www.instagram.com/p/DOHGwqUkSVk/?utm_source=ig_web_copy_link&igsh=M2FpaTA3ZHAwcXBh"
+  },
+  {
+    fecha: "02 de septiembre de 2025",
+    area: "Secretaria",
+    titulo: "🎮✨ ¡Ya comenzó el curso de Desarrollo de Videojuegos en Berisso!",
+    descripcion: "Con la participación de 48 inscriptos que asisten de forma presencial y virtual, se dio inicio a esta propuesta que brinda herramientas fundamentales para el inicio en desarrollo de videojuegos...",    
+    imagen: "images/noticias/secretaria/2025/videojuegosPresentacion.png",
+    link:"https://www.instagram.com/p/DOHGRFeEdZo/?utm_source=ig_web_copy_link&igsh=YmFzN3BtdXF4MjQ4"
+  },
+  {
+    fecha: "29 de agosto de 2025",
+    area: "Agraria",
+    titulo: "🌱✨ Taller de cercos y tejidos en mimbre vivos",
+    descripcion: "📅 Jueves 4 de septiembre<br>🕙 De 10 a 16 hs<br>📍 Parque Ambiental (Vivero Municipal) – Calle 18 y 156<br><br>Vení a aprender técnicas sustentables y creativas con mimbre vivo, ¡y animate a darle vida a tus espacios! 🌿💚",    
+    imagen: "images/noticias/agraria/2025/mimbre.png",
+    link:"https://www.instagram.com/p/DN59q0GEc5R/?utm_source=ig_web_copy_link&igsh=MXBtczVvcHQ0Nnh4cw=="
+  },
+  {
     fecha: "10 de agosto de 2025",
     area: "Secretaria",
     titulo: "🎮 ¡Llega el curso gratuito de Desarrollo de Videojuegos a BERISSO! 🚀",
