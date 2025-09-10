@@ -1,11 +1,51 @@
 var noticias = [
   {
+    fecha: "09 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🍲✨ 10ª Edición del Concurso de Comidas Típicas “Los Sabores de Berisso” ✨🍲",
+    descripcion: "Este sábado 13 de septiembre, de 13:00 a 18:00 hs, llega una nueva edición de este tradicional concurso gastronómico en el marco de la 48ª Fiesta Provincial del Inmigrante.<br><br>📍 Lugar: Club de los Abuelos (161 entre 14 y 15)...",    
+    imagen: "images/noticias/turismo/2025/concursoComidasTipicas.png",
+    link:"https://www.instagram.com/p/DOY_CjsjiST/?utm_source=ig_web_copy_link&igsh=dzNlZHE4d3Zld3hx"
+  },
+  {
+    fecha: "05 de septiembre de 2025",
+    area: "Unid. Productivas",
+    titulo: "🛒 Mercados Bonaerenses en el Playón Municipal",
+    descripcion: "👉 Hoy viernes, hasta las 14 hs, acercate a aprovechar los mejores productos de calidad, a precios accesibles y con las ofertas especiales pagando con Cuenta DNI.<br><br>✅ ¡No te lo pierdas!",    
+    imagen: "images/noticias/Unid.Productivas/2025/mercado5-9.png",
+    link:"https://www.instagram.com/p/DOOQSp3DrqQ/?utm_source=ig_web_copy_link&igsh=ZjQ2eTVsenBweWQz"
+  },
+  {
+    fecha: "04 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🌍Día del Inmigrante",
+    descripcion: "La Fiesta Provincial del Inmigrante es más que una celebración: es la memoria viva de nuestra ciudad.<br><br>🧳De aquellos hombres y mujeres que llegaron a Berisso con sueños de trabajo y futuro, y que con esfuerzo construyeron hogares, levantaron los frigoríficos y dejaron huellas imborrables en nuestra historia...",    
+    imagen: "images/noticias/turismo/2025/diaDelInmigrante.png",
+    link:"https://www.instagram.com/reel/DOLgJO8DtY1/?utm_source=ig_web_copy_link&igsh=dXp5N241Y2N3cHl1"
+  },
+  {
     fecha: "03 de septiembre de 2025",
     area: "Industria",
     titulo: "🏭 Día de la Industria",
     descripcion: "Queremos agradecer a todos y cada uno de los empresarios que apuestan e invierten en nuestra ciudad.<br><br>Soñamos y trabajamos por un Berisso con más trabajo y oportunidades para todos los vecinos y vecinas. Por eso, vamos a seguir fortaleciendo el vínculo con el sector privado, convencidos de que el progreso se construye entre todos.",    
     imagen: "images/noticias/industria/2025/diaDeLaIndustria.png",
     link:"https://www.instagram.com/p/DOJMkn4DEXT/?utm_source=ig_web_copy_link&igsh=MWR2eTczOTRwaXZ5eQ=="
+  },
+  {
+    fecha: "03 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "📲✨ ¡Ya podés descubrir Berisso desde tu celular!",
+    descripcion: "Lanzamos la nueva web app “Descubrí Berisso”, una herramienta pensada para que vecinos, vecinas y visitantes puedan acceder de manera simple a toda la información turística de nuestra ciudad...",    
+    imagen: "images/noticias/turismo/2025/webapp.png",
+    link:"https://www.instagram.com/p/DOE_ciejVOq/?utm_source=ig_web_copy_link&igsh=NGg4Nnp3YmU4MnFo"
+  },
+  {
+    fecha: "03 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "CRONOGRAMA DE LA 48 FIESTA PROVINCIAL DEL INMIGRANTE.",
+    descripcion: "Te esperamos durante los meses de Septiembre y Octubre para vivir las tradiciones que nos unen.",    
+    imagen: "images/noticias/turismo/2025/fiestaDelInmigrante.png",
+    link:"https://www.instagram.com/reel/DN6YquFDhCI/?utm_source=ig_web_copy_link&igsh=MTh3MjV1cTRpbmJsNA=="
   },
   {
     fecha: "03 de septiembre de 2025",
@@ -30,6 +70,14 @@ var noticias = [
     descripcion: "📅 Jueves 4 de septiembre<br>🕙 De 10 a 16 hs<br>📍 Parque Ambiental (Vivero Municipal) – Calle 18 y 156<br><br>Vení a aprender técnicas sustentables y creativas con mimbre vivo, ¡y animate a darle vida a tus espacios! 🌿💚",    
     imagen: "images/noticias/agraria/2025/mimbre.png",
     link:"https://www.instagram.com/p/DN59q0GEc5R/?utm_source=ig_web_copy_link&igsh=MXBtczVvcHQ0Nnh4cw=="
+  },
+  {
+    fecha: "27 de agosto de 2025",
+    area: "Turismo",
+    titulo: "📍 Encuentro con prestadores turísticos de Berisso",
+    descripcion: "Hoy compartimos una jornada de balance, planificación y construcción colectiva junto a quienes forman parte del entramado turístico de nuestra ciudad...",    
+    imagen: "images/noticias/turismo/2025/encuentroPrestadoresTur.png",
+    link:"https://www.instagram.com/p/DNrQBTE3IbP/?utm_source=ig_web_copy_link&igsh=dmM2Z2cxa2x5Ynlv"
   },
   {
     fecha: "10 de agosto de 2025",
