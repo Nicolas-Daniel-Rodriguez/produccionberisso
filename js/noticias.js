@@ -1,5 +1,125 @@
 var noticias = [
   {
+    fecha: "20 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🚢 DESEMBARCO SIMBÓLICO REPROGRAMADO",
+    descripcion: "Por cuestiones climáticas, el tradicional Desembarco Simbólico de la Fiesta del Inmigrante fue reprogramado para el viernes 10 de octubre a las 15 hs en la Explanada del Puerto La Plata (Av. Montevideo y calle 2).",    
+    imagen: "images/noticias/turismo/2025/desembarco-reprog.png",
+    link:"https://www.instagram.com/p/DO1FvLoDU3k/?utm_source=ig_web_copy_link&igsh=MTJ6Y3NrN2llM21qZQ=="
+  },
+  {
+    fecha: "19 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "✨ Berisso vive la Fiesta del Inmigrante ✨",
+    descripcion: "Hoy recorrimos los locales comerciales de la Av. Montevideo junto a las colectividades para difundir el cronograma de la fiesta más grande de nuestra ciudad...",    
+    imagen: "images/noticias/turismo/2025/fpi.png",
+    link:"https://www.instagram.com/reel/DOwqaRXDta2/?utm_source=ig_web_copy_link&igsh=MTJ2c3RtN2Fib2QzYQ=="
+  },
+  {
+    fecha: "19 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "Desembarco simbólico de los inmigrantes.",
+    descripcion: "📅 Domingo 21 de septiembre<br>⏰ 15 hs<br>📍 Explanada del Puerto (Av. Montevideo y 2)<br><br>🇦🇷 ¡Vení a vivirlo con nosotros y a celebrar juntos nuestras raíces y tradiciones!",    
+    imagen: "images/noticias/turismo/2025/desembarco-fpi.png",
+    link:"https://www.instagram.com/reel/DOwL3ROjrX7/?utm_source=ig_web_copy_link&igsh=MW9sN3VqZHo1aHQyeA=="
+  },
+  {
+    fecha: "18 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "UN VIAJE POR EL MUNDO SIN SALIR DE LA PROVINCIA DE BUENOS AIRES: FIESTAS 🎉, ARQUITECTURA 🏛️ Y GASTRONOMÍA 🥟 PARA DISFRUTAR EN PRIMAVERA 🌸",
+    descripcion: "En la provincia de Buenos Aires hay un lugar donde el pasado cobra vida y la diversidad se celebra en cada rincón, Berisso, Capital Provincial del Inmigrante, realiza una nueva edición de su apasionante y cautivadora Fiesta Provincial del Inmigrante, como homenaje a las raíces de quienes decidieron hacer de este lugar su hogar. 🌍❤️",    
+    imagen: "images/noticias/turismo/2025/fiestas-fpi.png",
+    link:"https://www.instagram.com/p/DOvvqnkjcU5/?utm_source=ig_web_copy_link&igsh=ZWd3amgwbDFvcmR3"
+  },
+  {
+    fecha: "17 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🍲✨ Los Sabores de Berisso",
+    descripcion: "En el marco de la 48° Fiesta del Inmigrante, charlamos con Stella Loholaberry, creadora del concurso que rescata las recetas de abuelos y abuelas, transmitidas de generación en generación...",    
+    imagen: "images/noticias/turismo/2025/los-sabores-de-berisso.png",
+    link:"https://www.instagram.com/reel/DOtK-P3jpZ7/?utm_source=ig_web_copy_link&igsh=MXhmbzBqcXJnbjd0MQ=="
+  },
+  {
+    fecha: "16 de septiembre de 2025",
+    area: "Secretaria",
+    titulo: "🥈Orgullo berissense🥈 Alfajor Regional",
+    descripcion: "El Alfajor Regional de Berisso obtuvo el 2° puesto como Mejor Alfajor de la Provincia de Buenos Aires en la 8° Fiesta Provincial del Alfajor en Rawson. Creado por Gabriel Amato @gabybakeoff21...",    
+    imagen: "images/noticias/secretaria/2025/alfajor-regional.png",
+    link:"https://www.instagram.com/p/DOqkjXlDSj5/?utm_source=ig_web_copy_link&igsh=c3h2Y3pyZTQzazR6"
+  },
+  {
+    fecha: "16 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🎉 CALENDARIO DE EVENTOS PROVINCIA DE BUENOS AIRES 🎉",
+    descripcion: "📍BERISSO<br>48º Fiesta Provincial del Inmigrante<br>ENTRADA GRATUITA<br>Fecha, hora y lugar: Sábado 20 y domingo 21, desde el mediodía, en diferentes espacios físicos de Berisso.",    
+    imagen: "images/noticias/turismo/2025/calendario.png",
+    link:"https://www.instagram.com/p/DOqeXC3jveM/?utm_source=ig_web_copy_link&igsh=MWZhYW0yNHk4MWJmdg=="
+  },
+  {
+    fecha: "16 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🔥Posta y Encendido de la Llama Votiva",
+    descripcion: "🏃🏻La antorcha, fue trasladada desde la Colectividad Helénica y Platón por jóvenes integrantes de las colectividades, quienes recorrieron las sedes y puntos donde se ubicaron las distintas entidades...",    
+    imagen: "images/noticias/turismo/2025/encendido-fpi.png",
+    link:"https://www.instagram.com/reel/DOo--0UjgLS/?utm_source=ig_web_copy_link&igsh=bTV6bWZrZ2dpN2lk"
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🔥 LA LLAMA VOTIVA VOLVIÓ A BRILLAR",
+    descripcion: "❤️ Hoy se vivió uno de los momentos más emotivos e importantes de la 48° Fiesta Provincial del Inmigrante, la tradicional Posta y el Encendido de la Llama Votiva...",    
+    imagen: "images/noticias/turismo/2025/llama-fpi.png",
+    link:"https://www.instagram.com/p/DOmbqXuDokx/?utm_source=ig_web_copy_link&igsh=bmNjaXJzaXN0c2xq"
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🥣 Los representantes de Chile fueron los ganadores del concurso de comidas típicas 'Sabores de Berisso'",
+    descripcion: "🇨🇱 Miguel y Alexis Antinao, cocinaron el clásico Pastel de Choclo, una receta de los abuelos Mapuches de Miguel. Cabe destacar que es el primer país latinoamericano en ganar el consurso...",    
+    imagen: "images/noticias/turismo/2025/sabores-de-berisso.png",
+    link:"https://www.instagram.com/p/DOjz7i5ju-9/?utm_source=ig_web_copy_link&igsh=bDZrZTB6NW04cnpp"
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🎉 ¿Sin planes para el finde? Tranqui, que nuestra host @valent.cerati ya te tira toda la data 👇",
+    descripcion: "📍 Mercedes – 50 años de la Fiesta del Salame Quintero<br>📍La Plata – Perú Vive con música, danzas y gastronomía<br>📍Rawson – Fiesta del Alfajor Artesanal con ¡80 productores!<br>📍 Guaminí – Fiesta del Chorizo Seco, baile y talleres<br>📍 Berisso – Fiesta del Inmigrante, sabores del mundo📍 Florencio Varela – Varela Matsuri, sumo y tambores japoneses<br>...",    
+    imagen: "images/noticias/turismo/2025/planazos.png",
+    link:"https://www.instagram.com/reel/DOhOZr4EZSd/?utm_source=ig_web_copy_link&igsh=MTF0NzZqa2Vub3Q1ZA=="
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🔥 POSTA DEL INMIGRANTE Y ENCENDIDO DE LA LAMPARA VOTIVA.",
+    descripcion: "ste domingo te esperamos a partir de las 15hs en la Colectividad Griega, calle 8 y 164, a disfrutar del espectáculo de apertura de la ceremonia...",    
+    imagen: "images/noticias/turismo/2025/posta-fpi.png",
+    link:"https://www.instagram.com/p/DOhAbzBke0L/?utm_source=ig_web_copy_link&igsh=MWkweG1rNWl0aTdvaQ=="
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "✨ Representantes Juveniles e Infantiles de la 48° Fiesta Provincial del Inmigrante",
+    descripcion: "❤️ Te presentamos a quienes van a representar a todas las Colectividadades de la Asociación de Entidades Extranjeras en esta nueva edición...",    
+    imagen: "images/noticias/turismo/2025/rep-juveniles-fpi.png",
+    link:"https://www.instagram.com/reel/DOgqdY0DqTw/?utm_source=ig_web_copy_link&igsh=dTdsYnBsZmw0ZDR4"
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🍯🍷🥬 El Mercado de la Ribera abre sus puertas",
+    descripcion: "👌🏻 Te esperamos el domingo 14 de septiembre a partir de las 10.00hs para compartir una jornada donde vas a conseguir distintos productos y disfrutar de todas las actividades...",    
+    imagen: "images/noticias/turismo/2025/mercado-ribera-14-9.png",
+    link:"https://www.instagram.com/p/DOeTnWSjmyn/?utm_source=ig_web_copy_link&igsh=MTA4Z2VyZXkyaW8yNw=="
+  },
+  {
+    fecha: "15 de septiembre de 2025",
+    area: "Agraria",
+    titulo: "TALLER DE CERCOS Y TEJIDOS EN MIMBRE VIVOS🧺",
+    descripcion: "🌱El Jueves 4 de Septiembre se realizó en el Parque Ambiental de Berisso, un Taller de Cercos y tejidos en mimbre vivos...",    
+    imagen: "images/noticias/agraria/2025/taller-cercos.png",
+    link:"https://www.instagram.com/p/DOgcmlIDS7u/?utm_source=ig_web_copy_link&igsh=MWxnY2t5cTNjMzBrNw=="
+  },
+  {
     fecha: "09 de septiembre de 2025",
     area: "Turismo",
     titulo: "🍲✨ 10ª Edición del Concurso de Comidas Típicas “Los Sabores de Berisso” ✨🍲",
