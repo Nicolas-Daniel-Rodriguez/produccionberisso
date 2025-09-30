@@ -1,4 +1,76 @@
-var noticias = [
+var noticias = [ 
+  {
+    fecha: "30 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🌊Nuestra ciudad se prepara para recibir la temporada de verano",
+    descripcion: "Durante estos días reforzamos los trabajos en todas las playas de Berisso, con el objetivo de que vecinos, vecinas y visitantes puedan disfrutar de un espacio ordenado, seguro y en óptimas condiciones.<br><br>👉 Se realizaron tareas de mantenimiento y corte de pasto en cada uno de los sectores.<br>👉 Además, se renovaron y pusieron en valor los baños de todos los balnearios, garantizando instalaciones más cómodas y cuidadas para quienes nos eligen cada verano.",     
+    imagen: "images/noticias/turismo/2025/30-09-2025.png",
+    link:"https://www.instagram.com/reel/DPO4WJZDpOc/?utm_source=ig_web_copy_link&igsh=MXFvM3UwNXF1ZDFpaA=="
+  },
+  {
+    fecha: "29 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🌟 Los Representantes Infantiles brillaron en el escenario principal 🌟",
+    descripcion: "Niños y niñas lucieron con orgullo sus trajes típicos y compartieron los bailes característicos de cada colectividad, llenando de color y alegría la fiesta...",     
+    imagen: "images/noticias/turismo/2025/29-09-2025.png",
+    link:"https://www.instagram.com/p/DPKZftqjnPE/?utm_source=ig_web_copy_link&igsh=aG9pbnF5YTUyajB1"
+  },
+  {
+    fecha: "29 de septiembre de 2025",
+    area: "Secretaria",
+    titulo: "🛠👷🏻 Microcréditos Productivos con Bonificación de Tasas",
+    descripcion: "ℹ Requisitos básicos: Ser trabajador/a independiente con tamaño de microempresa, radicada en la provincia de Buenos Aires, formalmente constituido/a o dispuesta a constituirse (inscripción en ARCA y ARBA), contar con certificado MiPyME y ActiBA, y tener cuenta en Banco Provincia.<br><br>⚙ Destino: Inversiones en activos fijos (maquinarias, herramientas, obras, etc.), activos intangibles (software, patentes, licencias), gastos en consultoría (contratación de profesionales), capital de trabajo (compra de insumos, materias primas, materiales), y otros gastos vinculados al proyecto.",     
+    imagen: "images/noticias/secretaria/2025/29-09-2025-1.png",
+    link:"https://www.instagram.com/p/DPNG33lDO14/?utm_source=ig_web_copy_link&igsh=MXQ2andmZGlzaDYwcw=="
+  },
+  {
+    fecha: "29 de septiembre de 2025",
+    area: "Secretaria",
+    titulo: "📌 NUEVA ETAPA DE LA LÍNEA CRÉDITOS IMPULSO AL COMERCIO BONAERENSE",
+    descripcion: "👉🏾 Si desarrollas una actividad comercial en la Provincia de Buenos Aires contás con créditos con tasa bonificada:<br><br>🛍️ Destino: capital de trabajo de fabricación nacional<br>💵 Monto tope: $16,8 millones<br>(aumenta todos los meses)<br>💰 Subsidio: hasta 55% sobre la TNA vigente<br>📈 TNA vigente: 65%<br><br>Para más información:<br>https://www.gba.gob.ar/produccion/creditos_impulso_comercio_bonaerense",     
+    imagen: "images/noticias/secretaria/2025/29-09-2025.png",
+    link:"https://www.instagram.com/p/DPNGu_-jPxv/?utm_source=ig_web_copy_link&igsh=YTdhc2MzdjJ1Z3Iy"
+  },
+  {
+    fecha: "28 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "🧳48° Fiesta Provincial del Inmigrante: Show de Apertura",
+    descripcion: "Con más de 200 artistas en escena, dimos inicio a esta gran celebración con un espectáculo que recorrió el camino que atravesaron nuestros abuelos y abuelas al llegar a esta tierra. 🌍🚢...",     
+    imagen: "images/noticias/turismo/2025/28-09-2025.png",
+    link:"https://www.instagram.com/p/DPIVNT5jqVn/?utm_source=ig_web_copy_link&igsh=MW42cmw4YmV4NnU2bw=="
+  },
+  {
+    fecha: "27 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "El turismo nos hace bien.",
+    descripcion: "27 de septiembre, Día Mundial del Turismo.<br><br>Impulsar la actividad turística es una política de Estado en la Provincia.",     
+    imagen: "images/noticias/turismo/2025/27-09-2025.png",
+    link:"https://www.instagram.com/reel/DPHGg5gDcAU/?utm_source=ig_web_copy_link&igsh=ZWNkbGJkNTA1emtr"
+  },
+   {
+    fecha: "24 de septiembre de 2025",
+    area: "Turismo",
+    titulo: "48° Fiesta Provincial del Inmigrante 🎉",
+    descripcion: "👉🏻Este sábado 27 de septiembre a las 21 hs te esperamos en la Carpa del Inmigrante (Av. Montevideo entre 10 y 11, Berisso) para disfrutar del Show Inaugural, con un espectáculo único y la participación de más de 200 artistas en escena.",    
+    imagen: "images/noticias/turismo/2025/24-09-2025.png",
+    link:"https://www.instagram.com/p/DO_H1wbjrXM/?utm_source=ig_web_copy_link&igsh=MW50cWRpc2J0NDB5ZQ=="
+  },
+  {
+    fecha: "23 de septiembre de 2025",
+    area: "Empleo",
+    titulo: "ENCUENTRO EDUCATIVO SOBRE OFERTAS LABORALES DESDE LA OFICINA DE EMPLEO👷🏻‍♀️👷🏻‍♂️",
+    descripcion: "🏫 Esta actividad se desarrolla en el marco de las visitas a las escuelas solicitadas por las autoridades de cada institución, en conjunto con sus docentes.<br><br>🧑🏻‍🏫 Durante estos encuentros, se brindan charlas informativas con el objetivo de dar a conocer la existencia y el rol que cumple la Oficina de Empleo Municipal en nuestro distrito, así como también las herramientas que ponemos a disposición de los estudiantes a partir de los 18 años...",    
+    imagen: "images/noticias/empleo/23-09-2025.png",
+    link:"https://www.instagram.com/p/DO6SZPpkU6S/?utm_source=ig_web_copy_link&igsh=MXRib2llM3QyMjV0Zw=="
+  },
+  {
+    fecha: "23 de septiembre de 2025",
+    area: "Secretaria",
+    titulo: "🚧 Avanza la demolición en el Polígono Industrial de la Nueva York",
+    descripcion: "🏭 En el predio ya se trabaja para dar inicio a la construcción del nuevo Frigorífico Cárnico de Berisso, una obra que generará más de 200 puestos de trabajo directos y que marca un avance histórico para nuestra ciudad...",    
+    imagen: "images/noticias/secretaria/2025/23-09-2025.png",
+    link:"https://www.instagram.com/p/DOrQsR2jvZ-/?utm_source=ig_web_copy_link&igsh=M3FybWRkZWtqb24x"
+  },
   {
     fecha: "20 de septiembre de 2025",
     area: "Turismo",
