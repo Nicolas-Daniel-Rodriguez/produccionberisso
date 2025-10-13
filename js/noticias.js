@@ -1,5 +1,61 @@
 var noticias = [ 
   {
+    fecha: "09 de octubre de 2025",
+    area: "Turismo",
+    titulo: "Berisso presente en el IX Congreso de Turismo Social y Sindical 💪🌎",
+    descripcion: "Participamos del IX Congreso de Turismo Social y Sindical, organizado por la Rueda de Turismo Social y Sindical de Argentina, que se desarrolló en el Predio Malvinas Argentinas de La Plata...",    
+    imagen: "images/noticias/turismo/2025/9-10-2025.png",
+    link:"https://www.instagram.com/p/DPjhCnbkdzq/?utm_source=ig_web_copy_link&igsh=OGtmdnp2aWdlZHJh"
+  },
+  {
+    fecha: "08 de octubre de 2025",
+    area: "Unid. Productivas",
+    titulo: "MERCADOS BONAERENSES EN BERISSO",
+    descripcion: "📢Llego octubre y tenemos una nueva edición de la Feria ampliada de Mercados Bonaerenses en el Playon Municipal de Berisso!!! Queremos que esté presente en la gran variedad de producciones locales y regionales, y es por ello que los invitamos a sumarse...",    
+    imagen: "images/noticias/Unid.Productivas/2025/8-10-2025.png",
+    link:"https://www.instagram.com/p/DPjHtPXETof/?utm_source=ig_web_copy_link&igsh=MTE4bXV6dnpxa24xOQ=="
+  },
+  {
+    fecha: "08 de octubre de 2025",
+    area: "Turismo",
+    titulo: "🌼 Tardecita de primavera en Nueva York 🌼",
+    descripcion: "Este viernes 10 de octubre, te esperamos para disfrutar una jornada especial con el Paseo de Emprendedores y recorridos por sitios históricos 🏛️...",    
+    imagen: "images/noticias/turismo/2025/tardecita08-10-2025.png",
+    link:"https://www.instagram.com/p/DPhshv8Dj0T/?utm_source=ig_web_copy_link&igsh=MTNjbWg3MHJxdGkzNA=="
+  },
+  {
+    fecha: "07 de octubre de 2025",
+    area: "Turismo",
+    titulo: "🕍 Descubrí nuestras iglesias en la 48° Fiesta Provincial del Inmigrante 🇦🇷🌎",
+    descripcion: "En el marco de la Fiesta del Inmigrante, te invitamos a participar de las visitas guiadas gratuitas organizadas junto a la Subsecretaría de Turismo de la Provincia de Buenos Aires...",    
+    imagen: "images/noticias/turismo/2025/7-10-2025.png",
+    link:"https://www.instagram.com/p/DPefcdrDTJT/?utm_source=ig_web_copy_link&igsh=OHBpZGJqbDhvdXRh"
+  },
+  {
+    fecha: "06 de octubre de 2025",
+    area: "Turismo",
+    titulo: "Elección de la Embajadora Cultural ✨",
+    descripcion: "La 48º Fiesta Provincial del Inmigrante tiene su nueva Embajadora Cultural: Lorena Gómez Leone, representante de la Colectividad Italiana 🇮🇹.<br><br>Además, fue elegida como Vice Embajadora Cultural Barbara Laprida Datko, representante de la Colectividad Eslovaca 🇸🇰...",    
+    imagen: "images/noticias/turismo/2025/NuevaEmbajadora.png",
+    link:"https://www.instagram.com/p/DPabzi5jhQZ/?utm_source=ig_web_copy_link&igsh=ZmtzMjlob2JnYmhn"
+  },
+  {
+    fecha: "06 de octubre de 2025",
+    area: "Turismo",
+    titulo: "✨ Nuevo Embajador Cultural Provincial del Inmigrante ✨",
+    descripcion: "Este viernes por la noche, en el marco de la 48° Fiesta Provincial del Inmigrante, se realizó la elección del Embajador Cultural Provincial 2025-2026 en la Carpa de las Colectividades del Parque Cívico.<br><br>👉 El título fue otorgado a Germán Céspedes, representante de la Colectividad Yugoslava, mientras que Thiago Monzón Spadafora, de la Colectividad Lituana, fue designado Vice Embajador...",    
+    imagen: "images/noticias/turismo/2025/NuevoEmbajador.png",
+    link:"https://www.instagram.com/p/DPXx8aBjv26/?utm_source=ig_web_copy_link&igsh=MWlkZjh2cWNiYWVreg=="
+  },
+  {
+    fecha: "06 de octubre de 2025",
+    area: "Agraria",
+    titulo: "🌱 Entrega de ejemplares frutales a productores locales",
+    descripcion: "👉🏻 Con la presencia del intendente Fabián Cagliardi, se realizó una nueva jornada en el marco del Programa de Fomento a la Fruticultura Bonaerense 2025, impulsado por el Ministerio de Desarrollo Agrario...",    
+    imagen: "images/noticias/agraria/2025/6-10-2025.png",
+    link:"https://www.instagram.com/p/DPeFqXGDjwn/?utm_source=ig_web_copy_link&igsh=MWN6Y2N6NTZ3enNvNw=="
+  },
+  {
     fecha: "30 de septiembre de 2025",
     area: "Turismo",
     titulo: "🌊Nuestra ciudad se prepara para recibir la temporada de verano",
