@@ -1,5 +1,21 @@
 var noticias = [ 
   {
+    fecha: "12 de noviembre de 2025",
+    area: "Agrario",
+    titulo: "🧺ENCUENTRO DE INNOVACIÓN Y EXPERIMENTACIÓN🍇",
+    descripcion: "Vínculos entre la producción Vitivinícola Agroecológica y la Artesanía Sustentable.<br><br>🤝Desde la Secretaría de Producción, la coordinación de Unidades Productivas en conjunto con las artesanas Sandra Maldonado y Pia Arnedillo del Mercado de la Ribera, se organizó el taller “Repensar Tramas”<br>Nuevas practicas Agroecologicas Ribereñas: Vitivinicultura-Cestería...",    
+    imagen: "images/noticias/agraria/2025/12-11-2025.png",
+    link:"https://www.instagram.com/p/DQ5EssYkTys/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de noviembre de 2025",
+    area: "Agrario",
+    titulo: "TALLER “REPENSAR TRAMAS”",
+    descripcion: "🧺Nuevas practicas Agroecologicas Ribereñas: Vitivinicultura-Cestería<br><br>¡Evento abierto y gratuito con cupos limitados!<br>Inscripción a través de nuestras historias...",    
+    imagen: "images/noticias/agraria/2025/taller-repensar-tramas.png",
+    link:"https://www.instagram.com/p/DQeh6n9kVgZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "09 de octubre de 2025",
     area: "Turismo",
     titulo: "Berisso presente en el IX Congreso de Turismo Social y Sindical 💪🌎",
