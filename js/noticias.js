@@ -13,6 +13,14 @@ var noticias = [
     link:"https://www.instagram.com/p/DRe1fQhkRNb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
+    fecha: "19 de noviembre de 2025",
+    area: "D.productivos",
+    titulo: "🏦Articulación y Beneficios: Banco Provincia junto a Artesanos y Feriantes",
+    descripcion: "👥Esta mañana se realizó un encuentro en la Sala de Capacitaciones de la Secretaría de Producción entre representantes del Banco Provincia y artesanos y feriantes de la Feria de Artesanos del Parque Cívico...",    
+    imagen: "images/noticias/d.productivos/Banco-Provincia-Artesanos.png",
+    link:"https://www.instagram.com/p/DRNI-u3EbzN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "12 de noviembre de 2025",
     area: "Agrario",
     titulo: "🧺ENCUENTRO DE INNOVACIÓN Y EXPERIMENTACIÓN🍇",
