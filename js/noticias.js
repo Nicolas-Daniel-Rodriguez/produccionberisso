@@ -1,5 +1,18 @@
 var noticias = [ 
   {
+    fecha: "25 de noviembre de 2025",
+    area: "U. Productivas",
+    titulo: "🍺REGULARIZACIÓN DE PRODUCTORES LOCALES🍺",
+    descripcion: "🗓️El pasado 19 de noviembre, desde la coordinación de Unidades Productivas perteneciente a la Secretaría Producción, en articulación con el área de Bromatología de la Secretaría de Salud, visitamos a 3 nuevos productores de cerveza de Berisso para realizar las habilitaciones de PUPAas municipales...",    
+    imagenes: [
+      "images/noticias/Unid.Productivas/2025/25-11-2025-1.jpeg",
+      "images/noticias/Unid.Productivas/2025/25-11-2025-2.jpeg",
+      "images/noticias/Unid.Productivas/2025/25-11-2025-3.jpeg",
+      "images/noticias/Unid.Productivas/2025/25-11-2025-4.jpeg"
+  ],
+    link:"https://www.instagram.com/p/DRe1fQhkRNb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "12 de noviembre de 2025",
     area: "Agrario",
     titulo: "🧺ENCUENTRO DE INNOVACIÓN Y EXPERIMENTACIÓN🍇",
