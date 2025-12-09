@@ -1,5 +1,37 @@
 var noticias = [ 
   {
+    fecha: "05 de diciembre de 2025",
+    area: "Turismo",
+    titulo: "🍺Terminó una nueva edición de la Fiesta de la Cerveza y lo disfrutamos con todo.",
+    descripcion: "Gracias a todos los vecinos y vecinas que se acercaron durante estos días para vivir de la celebración que ya es un clásico de nuestra ciudad...",
+    imagen: "images/noticias/turismo/2025/fiesta-cerveza-final.png",
+    link:"https://www.instagram.com/reel/DSAQ5HojiPQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de diciembre de 2025",
+    area: "Turismo",
+    titulo: "🍻 Arrancó la Fiesta de la Cerveza en Berisso",
+    descripcion: "Te esperamos para disfrutar tres días increíbles en el Parque Cívico: música, sabores y un gran encuentro para compartir con amigos...",
+    imagen: "images/noticias/turismo/2025/fiesta-cerveza.png",
+    link:"https://www.instagram.com/p/DR5tj9-jkxo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "05 de diciembre de 2025",
+    area: "D.productivos",
+    titulo: "✨ ¡Nueva capacitación para emprendedores de Berisso!",
+    descripcion: "Este jueves 11 de diciembre, de 17 a 19 h, se realizará la charla “IA para tu Proyecto”, una actividad gratuita destinada a emprendedores locales que quieran incorporar herramientas de Inteligencia Artificial en sus proyectos...",
+    imagen: "images/noticias/d.productivos/IA-para-tu-Proyecto.png",
+    link:"https://www.instagram.com/p/DR4vrRvEeBY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    fecha: "03 de diciembre de 2025",
+    area: "U.Productivas",
+    titulo: "Convocatoria Oficial – Curso de Manipulación Segura de Alimentos con Carnet Oficial🥕",
+    descripcion: "👉🏼La Secretaría de Producción y Unidades Productivas de la Municipalidad de Berisso, junto con el Departamento de Seguridad Alimentaria de la Secretaría de Salud, invita a participar del Curso Oficial de Manipulación Segura de Alimentos, con evaluación final y obtención del Carnet de Manipulador según la normativa vigente...",
+    imagen: "images/noticias/Unid.Productivas/2025/Convocatoria-Manipulacion-Alimentos.png",
+    link:"https://www.instagram.com/p/DRx3M0ekcKw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "25 de noviembre de 2025",
     area: "U. Productivas",
     titulo: "🍺REGULARIZACIÓN DE PRODUCTORES LOCALES🍺",
