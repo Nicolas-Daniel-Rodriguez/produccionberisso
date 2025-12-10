@@ -1,5 +1,13 @@
 var noticias = [ 
   {
+    fecha: "10 de diciembre de 2025",
+    area: "Agraria",
+    titulo: "🌱 ENTREGA DE PLANTINES A INSTITUCIONES DE BERISSO",
+    descripcion: "En el marco del Programa Huertas Bonaerenses, llevamos adelante una nueva jornada de entrega de plantines primavera–verano destinada a instituciones y organizaciones de nuestra región...",
+    imagen: "images/noticias/agraria/2025/10-12-2025.png",
+    link:"https://www.instagram.com/p/DSFmLasDdHW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
     fecha: "05 de diciembre de 2025",
     area: "Turismo",
     titulo: "🍺Terminó una nueva edición de la Fiesta de la Cerveza y lo disfrutamos con todo.",
