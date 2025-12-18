@@ -140,8 +140,8 @@
       <!-- end header inner -->
       <!-- end header -->
 
-        <!-- Instagram Feed --> 
-        <div class="about pb-1">
+        <!-- noticias --> 
+        <div class="about pb-4">
          <div class="container">
            <div class="row d_flex">
              <div class="col-md-7">
@@ -154,99 +154,30 @@
          </div>
        </div>
 
-       <!-- Contenedor del feed de Instagram -->
-       <div class="container pb-5">
-         <div class="row">
-           <div class="col-12">
-             <div id="instagram-feed-container" style="width: 100%; margin: 0 auto;">
-               <div id="instagram-feed" style="width: 100%; min-height: 600px; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-                 
-                 <!-- Feed de Instagram embebido -->
-                 <!-- Esta solución muestra el feed de Instagram automáticamente -->
-                 <!-- El feed se actualiza automáticamente cuando suben contenido a Instagram -->
-                 
-                 
-                 <!-- Widget de Instagram usando LightWidget (gratuito y funciona sin configuración compleja) -->
-                 <!-- Alternativa: Puedes usar SnapWidget, Elfsight u otro servicio similar -->
-                 <!-- Para configurar SnapWidget: https://snapwidget.com/instagram -->
-                 
-                 <div id="instagram-widget-container">
-                   <!-- Opción 1: LightWidget (recomendado - funciona inmediatamente) -->
-                   <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-                   <iframe src="//lightwidget.com/widgets/b9e2bcdc38a356f4ab5b217cae26a785.html" 
-                           scrolling="no" 
-                           allowtransparency="true" 
-                           class="lightwidget-widget" 
-                           style="width:100%;border:0;overflow:hidden;">
-                   </iframe>
-                   
-                   <!-- Opción 2: SnapWidget (alternativa) -->
-                   <!-- Descomenta y configura si prefieres SnapWidget -->
-                   <!--
-                   <script src="https://snapwidget.com/js/snapwidget.js"></script>
-                   <iframe src="https://snapwidget.com/embed/REEMPLAZAR_CON_TU_ID" 
-                           class="snapwidget-widget" 
-                           allowtransparency="true" 
-                           frameborder="0" 
-                           scrolling="no" 
-                           style="border:none; overflow:hidden; width:100%; min-height:600px;">
-                   </iframe>
-                   -->
-                 </div>
-                 
-                 <!-- Fallback: Link directo si no se configura el widget -->
-                 <div id="instagram-fallback" style="display: none; text-align: center; padding: 40px 20px;">
-                   <a href="https://www.instagram.com/produccionberisso/" target="_blank" style="text-decoration: none; color: inherit;">
-                     <i class="fa-brands fa-instagram" style="font-size: 4rem; color: #E4405F; margin-bottom: 20px; display: block;"></i>
-                     <h2 style="margin-bottom: 15px; color: #333;">
-                       <strong>@produccionberisso</strong>
-                     </h2>
-                   </a>
-                   <p style="margin-bottom: 30px; font-size: 1.1rem; color: #666;">
-                     Síguenos en Instagram para ver todas nuestras noticias y actualizaciones en tiempo real
-                   </p>
-                   <a href="https://www.instagram.com/produccionberisso/" target="_blank" 
-                      style="display: inline-block; background-color: #E4405F; color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-size: 1.1rem; font-weight: bold; transition: background-color 0.3s;"
-                      onmouseover="this.style.backgroundColor='#C13584'" 
-                      onmouseout="this.style.backgroundColor='#E4405F'">
-                     <i class="fa-brands fa-instagram" style="margin-right: 8px;"></i>
-                     Ver en Instagram
-                   </a>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
+       <div class="filter-buttons">
+         <button onclick="filtrarPorArea('')">Todas</button> <!-- Botón para mostrar todas las noticias -->
+         <button onclick="filtrarPorArea('Agraria')">Agraria</button>
+         <button onclick="filtrarPorArea('D.Productivos')">D.Productivos</button>
+         <button onclick="filtrarPorArea('Industria')">Industria</button>
+         <button onclick="filtrarPorArea('Empleo')">Empleo</button>
+         <button onclick="filtrarPorArea('Pesca')">Pesca</button>
+         <button onclick="filtrarPorArea('Turismo')">Turismo</button>
+         <button onclick="filtrarPorArea('Secretaria')">Secretaría</button>
+         <button onclick="filtrarPorArea('U.Productivas')">U.Productivas</button>        
+         <input type="text" id="keyword-input" placeholder="Buscar por palabra clave">
+         <button onclick="filtrarPorPalabra()">Buscar</button>
        </div>
-       
-       <style>
-         /* Estilos para el feed de Instagram */
-         #instagram-feed-container {
-           margin-top: 20px;
-         }
-         
-         .lightwidget-widget,
-         .snapwidget-widget {
-           border-radius: 8px;
-           min-height: 600px;
-         }
-         
-         #instagram-widget-container {
-           margin: 20px 0;
-         }
-         
-         @media (max-width: 768px) {
-           #instagram-feed {
-             padding: 10px;
-           }
-           
-           .lightwidget-widget,
-           .snapwidget-widget {
-             min-height: 400px;
-           }
-         }
-       </style>
-        <!-- end Instagram Feed --> 
+
+       <div class="contenedor-not" id="noticias-container">
+         <!-- Aquí se generarán dinámicamente las noticias -->
+       </div>
+
+       <div class="pagination">
+         <button id="prevPage">Anterior</button>
+         <span id="pageInfo"></span>
+         <button id="nextPage">Siguiente</button>
+       </div>
+        <!-- end noticias --> 
 
       <!--  footer -->
       <footer>
@@ -331,7 +262,7 @@
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-      <!-- Removido noticias.js ya que no se necesita para el feed de Instagram -->
+      <script src="js/noticias.js"></script>
       <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
    </body>
 </html>
